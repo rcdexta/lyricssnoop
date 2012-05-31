@@ -2,13 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>Lyrics Snoop</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
 
     <!-- Le styles -->
     <link type="text/css" rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" />
+    <link type="text/css" rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/ui-lightness/jquery-ui.css" />
     <style type="text/css">
       body {
         padding-top: 60px;
@@ -25,7 +26,7 @@
   </head>
 
   <body>
-
+	  
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -53,11 +54,15 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="span12">
-		  <div style="text-align: center;">	
-			 <form method="post">
-		    	 <input type="text" name="artist" class="span3" placeholder="Enter artist name">
-			</form>
-		  </div>
+    		  <div style="text-align: center;">	
+    			 
+           <form id="artist" method="post" class="well form-search">
+    		    	 <input type="text" name="artist" class="span3" placeholder="Enter artist name" value="{{artist_name}}">
+               <input type="hidden" name="artist_id">
+               <input type="submit" value="Get Tags" class="btn btn-primary">
+    			</form>
+
+    		  </div>
         </div>
       </div>
 	  
@@ -70,28 +75,39 @@
 
       <hr>
 
-      <footer>
-        <p>&copy; ThoughtWorks 2012</p>
+      <footer style="text-align: center">
+        <p>Hackathon Project &copy; ThoughtWorks 2012</p>
       </footer>
 
     </div> <!-- /container -->
 
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+
 	<script src="/static/d3.js"></script>
 	<script src="/static/d3.layout.cloud.js"></script>
 	<script src="/static/bootstrap.js"></script>
+
+  <script>
+  {% if word_cloud %}
+    word_cloud = [
+       {% for item in word_cloud.items() %}
+            { text: '{{item[0]}}', size: {{item[1]}} },
+      {% endfor %} -->
+    ];
+  {% else %}
+    word_cloud = [
+          "Hello", "world", "normally", "you", "want", "more", "words",
+          "than", "this"].map(function(d) {
+          return {text: d, size: 10 + Math.random() * 90};
+        });
+  {% endif %}
+  </script>
 	
 	<script>
 	  var fontSize = d3.scale.log().range([10, 100]);
 		d3.layout.cloud().size([300, 300])
-	      .words([
-	        "Hello", "world", "normally", "you", "want", "more", "words",
-	        "than", "this"].map(function(d) {
-	        return {text: d, size: 10 + Math.random() * 90};
-	      }))
+	      .words(word_cloud)
 	      .rotate(function() { return ~~(Math.random() * 2) * 90; })
 	      .fontSize(function(d) { return d.size; })
 	      .on("end", draw)
@@ -99,22 +115,45 @@
 
 	  
 		function draw(words) {
-	    d3.select("#tagcloud").append("svg")
-	        .attr("width", 300)
-	        .attr("height", 300)
-			.append("g")
-	        .attr("transform", "translate(150,150)")
-			.selectAll("text")
-	        .data(words)
-			.enter().append("text")
-	        .style("font-size", function(d) { return d.size + "px"; })
-	        .attr("text-anchor", "middle")
-	        .attr("transform", function(d) {
-	          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-	        })
-	        .text(function(d) { return d.text; });
+     d3.select("#tagcloud").append("svg")
+     .attr("width", 300)
+     .attr("height", 300)
+     .append("g")
+     .attr("transform", "translate(150,150)")
+     .selectAll("text")
+     .data(words)
+     .enter().append("text")
+     .style("font-size", function(d) { return d.size + "px"; })
+     .attr("text-anchor", "middle")
+     .attr("transform", function(d) {
+       return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+     })
+     .text(function(d) { return d.text; });
 		}
 	</script>
+
+  <script>
+    artists = {
+    {% for artist in artists %}
+            '{{artist.name}}': {{artist.id}},
+    {% endfor %} -->
+    };
+  </script>
+
+  <script>
+  $(function() {
+    var availableArtists = Object.keys(artists);
+    $("input[name=artist]").autocomplete({
+      source: availableArtists
+    });
+
+    $("form#artist").submit(function(){
+      var artist_name = $("input[name=artist]").val();
+      var artist_id = artists[artist_name];
+      $('input[name=artist_id]').val(artist_id);
+    });
+  });
+  </script>
 
   </body>
 </html>

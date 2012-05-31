@@ -17,9 +17,23 @@
 import webapp2
 import jinja2
 import os
+import urllib
+import urllib2
+from snoop import *
+from xml.dom.minidom import parseString
+
+API_KEY = '3872d838749d5d80eda9e3870c8b5e2a'
+
+# last.fm account details
 
 template_dir = os.path.join(os.path.dirname(__file__), 'templates')
 jinja_env = jinja2.Environment(loader = jinja2.FileSystemLoader(template_dir), autoescape=True)
+
+def getArtistImage(artist_name):
+    params = urllib.urlencode({'method': 'artist.getinfo', 'artist': artist_name, 'api_key': API_KEY})
+    url = "http://ws.audioscrobbler.com/2.0/?" + params
+
+    xml = urllib2.urlopen(url).read()
 
 
 class Handler(webapp2.RequestHandler):
@@ -33,11 +47,15 @@ class Handler(webapp2.RequestHandler):
 
 class TagCloudHandler(Handler):
     def get(self):
-        self.render("tag_cloud.html")
+        artists = getArtists()
+        self.render("tag_cloud.html", artists = artists, word_cloud = None,artist_name = "")
         
     def post(self):
-        artist = self.request.get("artist")
-        self.render("tag_cloud.html")
+        artists = getArtists()
+        artist_id = self.request.get("artist_id")
+        artist_name = self.request.get("artist")
+        word_count = getWordCountsForArtist(Artist(artist_id,artist_name))
+        self.render("tag_cloud.html", artists = artists, word_cloud = word_count, artist_name = artist_name)
         
 
 app = webapp2.WSGIApplication([('/tag_cloud', TagCloudHandler)],
