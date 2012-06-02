@@ -20,7 +20,8 @@ import os
 import urllib
 import urllib2
 from snoop import *
-from xml.dom.minidom import parseString
+from xmlobj import xml2obj
+from HTMLParser import HTMLParser
 
 API_KEY = '3872d838749d5d80eda9e3870c8b5e2a'
 
@@ -29,12 +30,45 @@ API_KEY = '3872d838749d5d80eda9e3870c8b5e2a'
 template_dir = os.path.join(os.path.dirname(__file__), 'templates')
 jinja_env = jinja2.Environment(loader = jinja2.FileSystemLoader(template_dir), autoescape=True)
 
-def getArtistImage(artist_name):
-    params = urllib.urlencode({'method': 'artist.getinfo', 'artist': artist_name, 'api_key': API_KEY})
+class MLStripper(HTMLParser):
+    def __init__(self):
+        self.reset()
+        self.fed = []
+    def handle_data(self, d):
+        self.fed.append(d)
+    def get_data(self):
+        return ''.join(self.fed)
+
+def strip_tags(html):
+    s = MLStripper()
+    s.feed(html)
+    return s.get_data()
+
+
+def getArtistDetails(artist):
+    params = urllib.urlencode({'method': 'artist.getinfo', 'artist': artist.name, 'api_key': API_KEY})
     url = "http://ws.audioscrobbler.com/2.0/?" + params
-
     xml = urllib2.urlopen(url).read()
+    lfm = xml2obj(xml)
+    artist.bio = strip_tags(lfm.artist.bio.summary)
+    populateArtistImage(artist, lfm)
+    populateArtistTags(artist, lfm)
+    return artist
 
+def populateArtistTags(artist, lfm):
+    for tag in lfm.artist.tags.tag:
+        artist.tags.append(tag.name)
+
+def populateArtistImage(artist, lfm):
+    images =  lfm.artist.image
+    images.reverse()
+    for image in images:
+        if image.size == "extralarge":
+            artist.image_url = image.data
+            break
+        elif image.size == "large":
+            artist.image_url = image.data
+    
 
 class Handler(webapp2.RequestHandler):
     def write(self, *a, **kw):
@@ -48,14 +82,14 @@ class Handler(webapp2.RequestHandler):
 class TagCloudHandler(Handler):
     def get(self):
         artists = getArtists()
-        self.render("tag_cloud.html", artists = artists, word_cloud = None,artist_name = "")
+        self.render("tag_cloud.html", artists = artists, word_cloud = None, artist = Artist("",""))
         
     def post(self):
         artists = getArtists()
-        artist_id = self.request.get("artist_id")
-        artist_name = self.request.get("artist")
-        word_count = getWordCountsForArtist(Artist(artist_id,artist_name))
-        self.render("tag_cloud.html", artists = artists, word_cloud = word_count, artist_name = artist_name)
+        artist = Artist(self.request.get("artist_id"),self.request.get("artist"))
+        word_count = getWordCountsForArtist(artist)
+        artist = getArtistDetails(artist)
+        self.render("tag_cloud.html", artists = artists, word_cloud = word_count, artist = artist)
         
 
 app = webapp2.WSGIApplication([('/tag_cloud', TagCloudHandler)],

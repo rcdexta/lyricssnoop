@@ -15,6 +15,17 @@
         padding-top: 60px;
         padding-bottom: 40px;
       }
+
+      .shadow {
+        -moz-box-shadow: 3px 3px 4px #000;
+        -webkit-box-shadow: 3px 3px 4px #000;
+        box-shadow: 3px 3px 4px #000;
+      }
+
+      .gap {
+        margin: 8px; 0px;
+      }
+
     </style>
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -57,7 +68,7 @@
     		  <div style="text-align: center;">	
     			 
            <form id="artist" method="post" class="well form-search">
-    		    	 <input type="text" name="artist" class="span3" placeholder="Enter artist name" value="{{artist_name}}">
+    		    	 <input type="text" name="artist" class="span3" placeholder="Enter artist name" value="{{artist.name}}">
                <input type="hidden" name="artist_id">
                <input type="submit" value="Get Tags" class="btn btn-primary">
     			</form>
@@ -66,12 +77,34 @@
         </div>
       </div>
 	  
-    <form class="well">
-	  <div style="text-align: center;" id="tagcloud">	
-    	  
-   	   </div>
-    </form>
+    {% if word_cloud %}
+
+    <div class="row-fluid well">
+      <div class="span4">
+        
+          <div class="span12">
+            <div class="lead"><b>{{artist.name}}</b></div>
+            <img class="shadow" src="{{artist.image_url}}">
+
+            <br><br>
+            <h3>Biography</h3>
+            <blockquote class="gap">{{artist.bio}}</blockquote>
+
+            <h3>Tags</h3>
+
+            {% for tag in artist.tags %}
+              <span class="label">{{tag}}</span>
+            {% endfor %}
+          </div>
+        
+      </div>
+      <div class="span6">
+  	    <div style="text-align: center;" id="tagcloud">	
+        </div>
+      </div>
+    </div>
 	  
+    {% endif %}
 
       <hr>
 
@@ -92,7 +125,7 @@
   {% if word_cloud %}
     word_cloud = [
        {% for item in word_cloud.items() %}
-            { text: '{{item[0]}}', size: {{item[1]}} },
+            { text: "{{item[0]}}", size: {{item[1]}} },
       {% endfor %} -->
     ];
   {% else %}

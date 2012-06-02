@@ -52,7 +52,7 @@ def parse_musix_url(artistId):
         return ''
 
 def getLyricsForArtist(artist):
-    lyricsFile = r"lyrics" + sep + "lyrics_" + artist.alias() + ".txt"
+    lyricsFile = r"Lyrics" + sep + "lyrics_" + artist.alias() + ".txt"
     # print lyrics_file
     if(path.exists(lyricsFile)):
         # print 'reading from local file'
@@ -67,7 +67,7 @@ def getLyricsForArtist(artist):
     return lyrics
 
 def getArtists():
-    artist_file = open(r"lyrics" + sep + "artist_info.txt", 'r')
+    artist_file = open(r"Lyrics" + sep + "artist_info.txt", 'r')
     artists = []
     for info in artist_file.readlines():
         artists.append( Artist(int(info.split(':')[0]), info.split(':')[1].rstrip('\n')
