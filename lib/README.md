@@ -1,0 +1,1 @@
+A lyrics analyzer to suggest songs that a user might liike based on preferred artists

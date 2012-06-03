@@ -2,17 +2,33 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>Lyrics Snoop</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
 
     <!-- Le styles -->
     <link type="text/css" rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" />
+    <link type="text/css" rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/ui-lightness/jquery-ui.css" />
     <style type="text/css">
       body {
         padding-top: 60px;
         padding-bottom: 40px;
+      }
+
+      .shadow {
+        -moz-box-shadow: 3px 3px 4px #000;
+        -webkit-box-shadow: 3px 3px 4px #000;
+        box-shadow: 3px 3px 4px #000;
+      }
+
+      .heading_gap {
+        margin-bottom: 5px;
+      }
+
+      .tagcloud {
+        border: 1px solid gray;
+        padding: 12px;
       }
     </style>
 
@@ -25,7 +41,7 @@
   </head>
 
   <body>
-
+	  
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -53,45 +69,83 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="span12">
-		  <div style="text-align: center;">	
-			 <form method="post">
-		    	 <input type="text" name="artist" class="span3" placeholder="Enter artist name">
-			</form>
-		  </div>
+    		  <div style="text-align: center;">	
+    			 
+           <form id="artist" method="post" class="well form-search">
+            	 <input type="text" name="artist" class="span4" placeholder="Enter artist name" value="{{artist.name}}">
+               <button class="btn btn-primary" type="button">Go!</button>
+               <input type="hidden" name="artist_id">
+    			</form>
+
+    		  </div>
         </div>
       </div>
 	  
-    <form class="well">
-	  <div style="text-align: center;" id="tagcloud">	
-    	  
-   	   </div>
-    </form>
+    {% if word_cloud %}
+
+    <div class="row-fluid well" style="width: auto;">
+      <div class="span4">
+        
+          <div class="span12">
+            <div class="lead"><b>{{artist.name}}</b></div>
+            <img class="shadow" src="{{artist.image_url}}">
+
+            <br><br>
+            <h3 class="heading_gap">Biography</h3>
+            <blockquote>{{artist.bio}}</blockquote>
+
+            <h3 class="heading_gap">Tags</h3>
+
+            {% for tag in artist.tags %}
+              <span class="label">{{tag}}</span>
+            {% endfor %}
+          </div>
+        
+      </div>
+      <div class="span6">
+        <h3 class="heading_gap">Lyric Cloud</h3>
+  	    <div style="text-align: center;" id="tagcloud" class="tagcloud">	
+        </div>
+      </div>
+    </div>
 	  
+    {% endif %}
 
       <hr>
 
-      <footer>
-        <p>&copy; ThoughtWorks 2012</p>
+      <footer style="text-align: center">
+        <p>Hackathon Project &copy; ThoughtWorks 2012</p>
       </footer>
 
     </div> <!-- /container -->
 
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+
 	<script src="/static/d3.js"></script>
 	<script src="/static/d3.layout.cloud.js"></script>
 	<script src="/static/bootstrap.js"></script>
+
+  <script>
+  {% if word_cloud %}
+    word_cloud = [
+       {% for item in word_cloud.items() %}
+            { text: "{{item[0]}}", size: {{item[1]}} },
+      {% endfor %} -->
+    ];
+  {% else %}
+    word_cloud = [
+          "Hello", "world", "normally", "you", "want", "more", "words",
+          "than", "this"].map(function(d) {
+          return {text: d, size: 10 + Math.random() * 90};
+        });
+  {% endif %}
+  </script>
 	
 	<script>
 	  var fontSize = d3.scale.log().range([10, 100]);
-		d3.layout.cloud().size([300, 300])
-	      .words([
-	        "Hello", "world", "normally", "you", "want", "more", "words",
-	        "than", "this"].map(function(d) {
-	        return {text: d, size: 10 + Math.random() * 90};
-	      }))
+		d3.layout.cloud().size([500, 300])
+	      .words(word_cloud)
 	      .rotate(function() { return ~~(Math.random() * 2) * 90; })
 	      .fontSize(function(d) { return d.size; })
 	      .on("end", draw)
@@ -99,22 +153,45 @@
 
 	  
 		function draw(words) {
-	    d3.select("#tagcloud").append("svg")
-	        .attr("width", 300)
-	        .attr("height", 300)
-			.append("g")
-	        .attr("transform", "translate(150,150)")
-			.selectAll("text")
-	        .data(words)
-			.enter().append("text")
-	        .style("font-size", function(d) { return d.size + "px"; })
-	        .attr("text-anchor", "middle")
-	        .attr("transform", function(d) {
-	          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-	        })
-	        .text(function(d) { return d.text; });
+     d3.select("#tagcloud").append("svg")
+     .attr("width", 500)
+     .attr("height", 300)
+     .append("g")
+     .attr("transform", "translate(150,150)")
+     .selectAll("text")
+     .data(words)
+     .enter().append("text")
+     .style("font-size", function(d) { return d.size + "px"; })
+     .attr("text-anchor", "middle")
+     .attr("transform", function(d) {
+       return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+     })
+     .text(function(d) { return d.text; });
 		}
 	</script>
+
+  <script>
+    artists = {
+    {% for artist in artists %}
+            '{{artist.name}}': {{artist.id}},
+    {% endfor %} -->
+    };
+  </script>
+
+  <script>
+  $(function() {
+    var availableArtists = Object.keys(artists);
+    $("input[name=artist]").autocomplete({
+      source: availableArtists
+    });
+
+    $("form#artist").submit(function(){
+      var artist_name = $("input[name=artist]").val();
+      var artist_id = artists[artist_name];
+      $('input[name=artist_id]').val(artist_id);
+    });
+  });
+  </script>
 
   </body>
 </html>
