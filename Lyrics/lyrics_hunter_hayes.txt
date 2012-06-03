@@ -23,7 +23,7 @@ Some kind of radar system
 Locked in on love
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You know I'd fall apart without you
+", u"You know I'd fall apart without you
 I don't know how you do what you do
 'Cause everything that don't make sense about me
 Makes sense when I'm with you
@@ -41,7 +41,7 @@ Never let you forget it
 Yeah, I wanna make you feel wanted
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well, I've been searching for something true
+", u"Well, I've been searching for something true
 And my heart says it must be you
 I'd love to fall and see it through
 But, only if you told me to
@@ -57,7 +57,7 @@ I just wanna drink from the words you say,
 And be everything you need
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I tear the shrink wrap off,
+", u"I tear the shrink wrap off,
 And put the needle down,
 Fill my bedroom up with a Cash song,
 And crank it up loud,
@@ -81,7 +81,7 @@ Sowhat if I'm crazy,
 'Cause love makes me do it,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"People know that love is what they want,
+", u"People know that love is what they want,
 They get caught up and then its gone
 They can't get back the kiss they lost and
 Spend their whole life asking questions,
@@ -95,7 +95,7 @@ Gotta' find a little faith to fall back on
 Didn't treat my girl like she was mine
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'd love to know just what you're thinkin'
+", u"I'd love to know just what you're thinkin'
 Every little river, runnin' through your mind
 You give and you take, you come and you go
 
@@ -118,7 +118,7 @@ I guess that all I'm tryin' to tell ya'
 Is a minute with you is better than two without
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say that you love me, even if it's not true.
+", u"Say that you love me, even if it's not true.
 And say that this storm is just passing through.
 And, baby, tell me you're not leaving.
 It's just the rainy season.
@@ -132,7 +132,7 @@ We're taking on water.
 And drop after drop we're destroying this house
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"When you try not to look at me
+", u"When you try not to look at me
 Scared that I'll see you hurting
 You're not hiding anything, no
 And frankly its got me worried
@@ -148,7 +148,7 @@ When you cry, I cry with you, with you
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I wish the couple on the corner would just get a room
+", u"I wish the couple on the corner would just get a room
 Seems like everyone around me is on their honey moon
 I'd love to take a pin to a heart shaped balloon
 Everybody's got somebody but me
@@ -161,7 +161,7 @@ But everybody's got somebody but me
 And I miss you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Who wakes you in the morning time, Who calls you every late night
+", u"Who wakes you in the morning time, Who calls you every late night
 Who comforts you when you\u2019re in need, Who always tries to treat you right
 Who gives you all he has to give, Who would dedicate his heart to you
 Who fulfills all his promises and who sees the good in you
@@ -173,4 +173,4 @@ Yeah whatchya gonna do when I\u2019m gone
 I just wanna know
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

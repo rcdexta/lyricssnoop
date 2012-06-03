@@ -32,7 +32,7 @@ Touch me, save my life
 Come on and turn me on
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Doctor, doctor, need you bad, call me, babe
+", u"Doctor, doctor, need you bad, call me, babe
 Doctor, doctor, where you at? Give me something
 I need your love, I need your love, I need your loving
 You got that kind of medicine that keeps me coming
@@ -52,7 +52,7 @@ Touch me, save my life, come on and turn me on
 I'm so young to die, come on and turn me on
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Make me come alive, come on and turn me on
+", u"Make me come alive, come on and turn me on
 Touch me, save my life, come on and turn me on
 I'm too young to die, come on and turn me on
 Make me come alive, come on and turn me on
@@ -62,7 +62,7 @@ I just want you to be my doctor
 I just want you to be my doctor
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Doctor, doctor, need you bad, hold me babe
+", u"Doctor, doctor, need you bad, hold me babe
 Doctor, doctor, where ya at? Give me something
 I need your love, I need your love, I need your loving
 You got that kind of medicine that keeps me going
@@ -84,7 +84,7 @@ If I scream, if I cry
 It's only cause I feel alive...
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Doctor, doctor, need you bad, call me, babe
+", u"Doctor, doctor, need you bad, call me, babe
 Doctor, doctor, where you at? Give me something
 I need your love, I need your love, I need your loving
 You got that kind of medicine that keeps me coming
@@ -104,7 +104,7 @@ Touch me, save my life, come on and turn me on
 I'm so young to die, come on and turn me on
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Doctor, doctor, need you bad, call me, babe
+", u"Doctor, doctor, need you bad, call me, babe
 Doctor, doctor, where you at? Give me something
 I need your love, I need your love, I need your loving
 You got that kind of medicine that keeps me coming
@@ -124,7 +124,7 @@ Touch me, save my life, come on and turn me on
 I'm so young to die, come on and turn me on
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Doctor, doctor, need you bad, call me, babe
+", u"Doctor, doctor, need you bad, call me, babe
 Doctor, doctor, where you at? Give me something
 I need your love, I need your love, I need your loving
 You got that kind of medicine that keeps me coming
@@ -144,4 +144,4 @@ Touch me, save my life, come on and turn me on
 I'm so young to die, come on and turn me on
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

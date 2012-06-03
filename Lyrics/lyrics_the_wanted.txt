@@ -21,7 +21,7 @@ Make you glad you came
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Your in control
+", u"Your in control
 Pressing pause on my heartbeat
 Someone stole all the air
 So I can't speak now
@@ -52,7 +52,7 @@ Oh oh
 I know that it's a little bit frightening
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I can't believe I had to see
+", u"I can't believe I had to see
 The girl of my dreams cheating on me
 The pain you caused has left me dead inside
 I'm gonna make sure you regret that night
@@ -71,7 +71,7 @@ I throw my armour down
 And leave the battleground
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tonight could be forgettable
+", u"Tonight could be forgettable
 Cause I'm drinking all the alcohol
 Girl I'm throwing away my soul
 I'm forgetting everything that's cool
@@ -87,7 +87,7 @@ Just please don't tell the principle
 The feelings irresistible
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Words travel fast,
+", u"Words travel fast,
 so you spend all your time in your head,
 whats the point in that?
 cos words never last,
@@ -108,7 +108,7 @@ dont let me to be the last to know,
 yeaah,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"This is not gonna last forever
+", u"This is not gonna last forever
 It's a time where you must hold on
 And I won't let you surrender
 And I'll heal you if your broken
@@ -132,7 +132,7 @@ In this battle field around you
 Hand in hand we walk together
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see you
+", u"I see you
 I'm waiting to make my move
 But i'm scared
 And I know that you got
@@ -157,7 +157,7 @@ Will you just hold me tight
 And never let me?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Take a moment listen please
+", u"Take a moment listen please
 Words like these don't come with ease
 You took my heart and kept it locked
 Now it's time to let it go
@@ -166,7 +166,7 @@ I want it all or nothing at all, to have you here
 Some people fall to hold on to their tears
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I Just Want You For The Weekend
+", u"I Just Want You For The Weekend
 I Need You Like A Beat Inside My Head
 I Just Want You For The Weekend
 I Know I'm Gonna See Your Face Again
@@ -181,7 +181,7 @@ I Need You Like A Beat Inside My Head
 I Just Want You For The Weekend
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say it, though you're looking down and to the left, now
+", u"Say it, though you're looking down and to the left, now
 Say it, like someone who really means it
 Do it, 'cause if you grow a conscience, now
 We fall down
@@ -201,7 +201,7 @@ but say you will
 Just lie to me, to me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sun goes down
+", u"The sun goes down
 The stars come out
 And all that counts
 Is here and now
@@ -224,7 +224,7 @@ Make you glad you came
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Your in control
+", u"Your in control
 Pressing pause on my heartbeat
 Someone stole all the air
 So I can't speak now
@@ -255,7 +255,7 @@ Oh oh
 I know that it's a little bit frightening
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I can't believe I had to see
+", u"I can't believe I had to see
 The girl of my dreams cheating on me
 The pain you caused has left me dead inside
 I'm gonna make sure you regret that night
@@ -274,7 +274,7 @@ I throw my armour down
 And leave the battleground
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tonight could be forgettable
+", u"Tonight could be forgettable
 Cause I'm drinking all the alcohol
 Girl I'm throwing away my soul
 I'm forgetting everything that's cool
@@ -290,7 +290,7 @@ Just please don't tell the principle
 The feelings irresistible
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Words travel fast,
+", u"Words travel fast,
 so you spend all your time in your head,
 whats the point in that?
 cos words never last,
@@ -311,7 +311,7 @@ dont let me to be the last to know,
 yeaah,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"This is not gonna last forever
+", u"This is not gonna last forever
 It's a time where you must hold on
 And I won't let you surrender
 And I'll heal you if your broken
@@ -335,7 +335,7 @@ In this battle field around you
 Hand in hand we walk together
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see you
+", u"I see you
 I'm waiting to make my move
 But i'm scared
 And I know that you got
@@ -360,7 +360,7 @@ Will you just hold me tight
 And never let me?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Take a moment listen please
+", u"Take a moment listen please
 Words like these don't come with ease
 You took my heart and kept it locked
 Now it's time to let it go
@@ -369,7 +369,7 @@ I want it all or nothing at all, to have you here
 Some people fall to hold on to their tears
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I Just Want You For The Weekend
+", u"I Just Want You For The Weekend
 I Need You Like A Beat Inside My Head
 I Just Want You For The Weekend
 I Know I'm Gonna See Your Face Again
@@ -384,7 +384,7 @@ I Need You Like A Beat Inside My Head
 I Just Want You For The Weekend
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say it, though you're looking down and to the left, now
+", u"Say it, though you're looking down and to the left, now
 Say it, like someone who really means it
 Do it, 'cause if you grow a conscience, now
 We fall down
@@ -404,7 +404,7 @@ but say you will
 Just lie to me, to me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sun goes down
+", u"The sun goes down
 The stars come out
 And all that counts
 Is here and now
@@ -427,7 +427,7 @@ Make you glad you came
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Your in control
+", u"Your in control
 Pressing pause on my heartbeat
 Someone stole all the air
 So I can't speak now
@@ -458,7 +458,7 @@ Oh oh
 I know that it's a little bit frightening
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I can't believe I had to see
+", u"I can't believe I had to see
 The girl of my dreams cheating on me
 The pain you caused has left me dead inside
 I'm gonna make sure you regret that night
@@ -477,7 +477,7 @@ I throw my armour down
 And leave the battleground
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tonight could be forgettable
+", u"Tonight could be forgettable
 Cause I'm drinking all the alcohol
 Girl I'm throwing away my soul
 I'm forgetting everything that's cool
@@ -493,7 +493,7 @@ Just please don't tell the principle
 The feelings irresistible
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Words travel fast,
+", u"Words travel fast,
 so you spend all your time in your head,
 whats the point in that?
 cos words never last,
@@ -514,7 +514,7 @@ dont let me to be the last to know,
 yeaah,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"This is not gonna last forever
+", u"This is not gonna last forever
 It's a time where you must hold on
 And I won't let you surrender
 And I'll heal you if your broken
@@ -538,7 +538,7 @@ In this battle field around you
 Hand in hand we walk together
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see you
+", u"I see you
 I'm waiting to make my move
 But i'm scared
 And I know that you got
@@ -563,7 +563,7 @@ Will you just hold me tight
 And never let me?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Take a moment listen please
+", u"Take a moment listen please
 Words like these don't come with ease
 You took my heart and kept it locked
 Now it's time to let it go
@@ -572,7 +572,7 @@ I want it all or nothing at all, to have you here
 Some people fall to hold on to their tears
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I Just Want You For The Weekend
+", u"I Just Want You For The Weekend
 I Need You Like A Beat Inside My Head
 I Just Want You For The Weekend
 I Know I'm Gonna See Your Face Again
@@ -587,7 +587,7 @@ I Need You Like A Beat Inside My Head
 I Just Want You For The Weekend
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say it, though you're looking down and to the left, now
+", u"Say it, though you're looking down and to the left, now
 Say it, like someone who really means it
 Do it, 'cause if you grow a conscience, now
 We fall down
@@ -607,7 +607,7 @@ but say you will
 Just lie to me, to me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sun goes down
+", u"The sun goes down
 The stars come out
 And all that counts
 Is here and now
@@ -630,7 +630,7 @@ Make you glad you came
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Your in control
+", u"Your in control
 Pressing pause on my heartbeat
 Someone stole all the air
 So I can't speak now
@@ -661,7 +661,7 @@ Oh oh
 I know that it's a little bit frightening
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I can't believe I had to see
+", u"I can't believe I had to see
 The girl of my dreams cheating on me
 The pain you caused has left me dead inside
 I'm gonna make sure you regret that night
@@ -680,7 +680,7 @@ I throw my armour down
 And leave the battleground
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tonight could be forgettable
+", u"Tonight could be forgettable
 Cause I'm drinking all the alcohol
 Girl I'm throwing away my soul
 I'm forgetting everything that's cool
@@ -696,7 +696,7 @@ Just please don't tell the principle
 The feelings irresistible
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Words travel fast,
+", u"Words travel fast,
 so you spend all your time in your head,
 whats the point in that?
 cos words never last,
@@ -717,7 +717,7 @@ dont let me to be the last to know,
 yeaah,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"This is not gonna last forever
+", u"This is not gonna last forever
 It's a time where you must hold on
 And I won't let you surrender
 And I'll heal you if your broken
@@ -741,7 +741,7 @@ In this battle field around you
 Hand in hand we walk together
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see you
+", u"I see you
 I'm waiting to make my move
 But i'm scared
 And I know that you got
@@ -766,7 +766,7 @@ Will you just hold me tight
 And never let me?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Take a moment listen please
+", u"Take a moment listen please
 Words like these don't come with ease
 You took my heart and kept it locked
 Now it's time to let it go
@@ -775,7 +775,7 @@ I want it all or nothing at all, to have you here
 Some people fall to hold on to their tears
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I Just Want You For The Weekend
+", u"I Just Want You For The Weekend
 I Need You Like A Beat Inside My Head
 I Just Want You For The Weekend
 I Know I'm Gonna See Your Face Again
@@ -790,7 +790,7 @@ I Need You Like A Beat Inside My Head
 I Just Want You For The Weekend
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say it, though you're looking down and to the left, now
+", u"Say it, though you're looking down and to the left, now
 Say it, like someone who really means it
 Do it, 'cause if you grow a conscience, now
 We fall down
@@ -810,7 +810,7 @@ but say you will
 Just lie to me, to me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sun goes down
+", u"The sun goes down
 The stars come out
 And all that counts
 Is here and now
@@ -833,7 +833,7 @@ Make you glad you came
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say my name like it's the last time,
+", u"Say my name like it's the last time,
 Live today like its your last night,
 We want to cry but we know its alright,
 Cause I'm with you and your with me,
@@ -851,7 +851,7 @@ Cause some days stay gold forever.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I feel your heart cry for love,
+", u'I feel your heart cry for love,
 But you won\'t let me make it right.
 You were hurt, but I decided,
 That you were worth the fight.
@@ -876,7 +876,7 @@ I\'d fill the vacancy.
 In your heart, in your heart, in your heart,
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"They say that time
+', u"They say that time
 Heals everything\xa0
 But they don't know you\xa0
 And the scars you bring
@@ -893,7 +893,7 @@ I can't take it I can't take it
 I'm gonna lose my mind\xa0
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Praying won't do it,
+", u"Praying won't do it,
 Hating won't do it,
 Drinking won't do it,
 Fighting won't knock you out,
@@ -918,7 +918,7 @@ Get down.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Praying won't do it,
+", u"Praying won't do it,
 Hating won't do it,
 Drinking won't do it,
 Fighting won't knock you out,
@@ -943,7 +943,7 @@ Get down.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I feel your heart cry for love,
+", u'I feel your heart cry for love,
 But you won\'t let me make it right.
 You were hurt, but I decided,
 That you were worth the fight.
@@ -968,7 +968,7 @@ I\'d fill the vacancy.
 In your heart, in your heart, in your heart,
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"They say that time
+', u"They say that time
 Heals everything\xa0
 But they don't know you\xa0
 And the scars you bring
@@ -985,7 +985,7 @@ I can't take it I can't take it
 I'm gonna lose my mind\xa0
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You know I never want to hurt you
+", u"You know I never want to hurt you
 I don't know why I'd ever want to
 Oh oh oh
 
@@ -1012,7 +1012,7 @@ Tryin' to replace
 Replace your heart
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm gonna see some friends
+", u"I'm gonna see some friends
 From outta state
 I've already dreamt that's you
 Was supposed to take a while ago
@@ -1029,7 +1029,7 @@ For yesterday\xa0
 High and Low For you and I\xa0
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Now this melody's a healer
+", u"Now this melody's a healer
 It's got my baby in a fever
 And I hope it gets the better of you
 
@@ -1051,7 +1051,7 @@ Just come and go with me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see you walk away walk away
+", u"I see you walk away walk away
 So why you looking back at me like that like that
 If you're not messing with messing with
 Me then why you go on and kiss me like that like that
@@ -1070,7 +1070,7 @@ That you don't want me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Don't live in black and white do we?
+", u"Don't live in black and white do we?
 It's just another fight to me
 If we don't take it on we won't get far
 
@@ -1088,7 +1088,7 @@ We loved to dream aloud
 With both feet on the ground
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She aims a smile with the safety off
+", u"She aims a smile with the safety off
 And she's not afraid to use it
 She holds my gaze just long enough
 For me to feel like I'm gonna lose it
@@ -1107,7 +1107,7 @@ She is my weakness
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Left, left, left, right, left
+", u"Left, left, left, right, left
 Left, left, left, right, left
 
 Tell me whats going on
@@ -1126,7 +1126,7 @@ I will take them on with all my might
 Cry my tears on my shoulder
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Praying won't do it,
+", u"Praying won't do it,
 Hating won't do it,
 Drinking won't do it,
 Fighting won't knock you out,
@@ -1151,7 +1151,7 @@ Get down.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I feel your heart cry for love,
+", u'I feel your heart cry for love,
 But you won\'t let me make it right.
 You were hurt, but I decided,
 That you were worth the fight.
@@ -1176,7 +1176,7 @@ I\'d fill the vacancy.
 In your heart, in your heart, in your heart,
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"They say that time
+', u"They say that time
 Heals everything\xa0
 But they don't know you\xa0
 And the scars you bring
@@ -1193,7 +1193,7 @@ I can't take it I can't take it
 I'm gonna lose my mind\xa0
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You know I never want to hurt you
+", u"You know I never want to hurt you
 I don't know why I'd ever want to
 Oh oh oh
 
@@ -1220,7 +1220,7 @@ Tryin' to replace
 Replace your heart
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm gonna see some friends
+", u"I'm gonna see some friends
 From outta state
 I've already dreamt that's you
 Was supposed to take a while ago
@@ -1237,7 +1237,7 @@ For yesterday\xa0
 High and Low For you and I\xa0
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Now this melody's a healer
+", u"Now this melody's a healer
 It's got my baby in a fever
 And I hope it gets the better of you
 
@@ -1259,7 +1259,7 @@ Just come and go with me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see you walk away walk away
+", u"I see you walk away walk away
 So why you looking back at me like that like that
 If you're not messing with messing with
 Me then why you go on and kiss me like that like that
@@ -1278,7 +1278,7 @@ That you don't want me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Don't live in black and white do we?
+", u"Don't live in black and white do we?
 It's just another fight to me
 If we don't take it on we won't get far
 
@@ -1296,7 +1296,7 @@ We loved to dream aloud
 With both feet on the ground
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She aims a smile with the safety off
+", u"She aims a smile with the safety off
 And she's not afraid to use it
 She holds my gaze just long enough
 For me to feel like I'm gonna lose it
@@ -1315,7 +1315,7 @@ She is my weakness
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Left, left, left, right, left
+", u"Left, left, left, right, left
 Left, left, left, right, left
 
 Tell me whats going on
@@ -1334,7 +1334,7 @@ I will take them on with all my might
 Cry my tears on my shoulder
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Praying won't do it,
+", u"Praying won't do it,
 Hating won't do it,
 Drinking won't do it,
 Fighting won't knock you out,
@@ -1359,7 +1359,7 @@ Get down.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Praying won't do it,
+", u"Praying won't do it,
 Hating won't do it,
 Drinking won't do it,
 Fighting won't knock you out,
@@ -1384,7 +1384,7 @@ Get down.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Praying won't do it,
+", u"Praying won't do it,
 Hating won't do it,
 Drinking won't do it,
 Fighting won't knock you out,
@@ -1409,7 +1409,7 @@ Get down.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Too much of anything can make you sick
+", u"Too much of anything can make you sick
 Even the good can be a curse
 Makes it hard to know which road to go down
 Knowing too much can get you hurt.
@@ -1431,7 +1431,7 @@ Anything that's worth having
 Is sure enough worth fighting for
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Praying won't do it,
+", u"Praying won't do it,
 Hating won't do it,
 Drinking won't do it,
 Fighting won't knock you out,
@@ -1456,4 +1456,4 @@ Get down.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

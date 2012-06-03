@@ -10,7 +10,7 @@ Don't that look like a picture of us
 A match made in heaven if there ever was
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If you don't get in the water, you're never gonna learn to swim
+", u"If you don't get in the water, you're never gonna learn to swim
 He said a snake is just as scared of you, as you are of him
 He could tell by the moon when the fish would bite
 Seems there was nothing that he didn't know
@@ -26,7 +26,7 @@ He said life was made for you to live
 The best love is the love that you give
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Her long legs looked like trouble
+", u"Her long legs looked like trouble
 As she sashayed through the door
 And my mind flashed a warning sign
 That I chose to ignore
@@ -41,7 +41,7 @@ Beat a heart that was made of ice
 God knows as far as I could see
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Steve Seskin/Mark Alan Springer)
+", u"(Steve Seskin/Mark Alan Springer)
 
 With a little luck this ol' truck will get me home today
 With a little more I'll still have this job tomorrow
@@ -54,7 +54,7 @@ I'll always have you to hold
 And that's all I need to know
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'(Bob McDill)
+", u'(Bob McDill)
 
 If I quit my job for the simple life
 Honey would you stand by me
@@ -69,7 +69,7 @@ Honey would you stand by me
 If I tried my luck in Hollywood
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Well, I got a little girl and she's got a daddy
+', u"Well, I got a little girl and she's got a daddy
 Who's got a lotta money and it makes me happy
 To follow them around like a little whipped puppy dog
 
@@ -85,7 +85,7 @@ Well, I traded that rusty old GMC
 Got a long black Cadillac limousine
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Skip Ewing/Ray Herndon)
+", u"(Skip Ewing/Ray Herndon)
 
 Ordinary no, really don't think so
 Not a love this true
@@ -99,7 +99,7 @@ Suited perfectly for eternity
 Me and you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Kenny Chesney/Sanger D. Shafer)
+", u"(Kenny Chesney/Sanger D. Shafer)
 
 Their shadows danced closer on the honky tonk walls
 As the band plays the last verse to that goin' home waltz
@@ -108,7 +108,7 @@ And some cars and a pickup won't be picked up 'til noon
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Bob DiPiero/John Scott Sherrill/Dennis Robbins)
+", u"(Bob DiPiero/John Scott Sherrill/Dennis Robbins)
 
 I may not have a whole lot of money
 But I got enough girl for you and me
@@ -120,7 +120,7 @@ Got good tires and a good CB
 Put on some lipstick your mascara
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Kenny Chesney/Stacey Slate/David Lowe)
+", u"(Kenny Chesney/Stacey Slate/David Lowe)
 
 Saw a man in the movies that didn't have a heart
 How I wish I could give him mine
@@ -132,7 +132,7 @@ I wish I were a tin man
 You could hurt me all you wanted
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ooooo, don't you think it's a pretty good plan?
+", u"Ooooo, don't you think it's a pretty good plan?
 All I want for christmas is a real good tan.
 
 All I want for Christmas is a real good tan,
@@ -151,7 +151,7 @@ instead of turkey we'll have mahi-mahi grill,
 and Pina Coladas in the blender chillin'.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Jingle bells, jingle bells
+", u'Jingle bells, jingle bells
 Jingle all the way
 Oh, what fun it is to ride
 In a one horse sleigh, hey.
@@ -169,7 +169,7 @@ Bells on bobtail ring
 Making sprits bright
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"I'm dreaming tonight
+', u"I'm dreaming tonight
 Of a place I love
 Even more than I usually do.
 And although I know
@@ -182,13 +182,13 @@ Please have snow and mistletoe
 And presents under the tree.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Chorus:
+", u"Chorus:
 Chirstmas in Dixie, it's snowin' in the pines
 Merry Christmas from Dixie, to everyone tonight
 It's windy in Chicago. The kids are out of school
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If it weren't for kids have you ever thought
+", u"If it weren't for kids have you ever thought
 There wouldn't be no Santa Clause
 Look what the store just brought
 Thank God for kids
@@ -202,7 +202,7 @@ Thank God for kids there's magic for a while
 A special kind of sunshine in a smile
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"City side walks, busy side walks
+", u"City side walks, busy side walks
 Dressed in holiday style
 In the air there's a feeling of Christmas
 Children laughing
@@ -215,7 +215,7 @@ Silver Bells
 It's Christmas time in the city
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well, the news spread through Jerusalem
+", u"Well, the news spread through Jerusalem
 Tonight a child is born
 There are shepherds falling to their knees
 And angels blowing horns.
@@ -235,7 +235,7 @@ Was knocking on His door
 For miracles and wonders
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Slide on over baby
+", u"Slide on over baby
 Underneath this mistletoe
 Here's a toast to us together
 Let me wrap you in this bow.
@@ -250,7 +250,7 @@ Best present anybody ever gave me
 I got it decorated, all lite up, gift's underneath
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Kenny Chesney & Willie Nelson
+", u'Kenny Chesney & Willie Nelson
 Chorus:
 Pretty paper, pretty ribbons of blue
 Wrap your presents to your darling from you
@@ -260,7 +260,7 @@ Crowded street, busy feet, hustle by him
 Downtown shoppers, Christmas is nigh
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Silent Night, holy night
+', u"Silent Night, holy night
 All is calm, all is bright
 'Round yon virgin mother and child
 Holy infant so tender and loved
@@ -271,7 +271,7 @@ Silent Night, holy night
 Sheapards quake at the sight
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's a blue rocking chair
+", u"There's a blue rocking chair
 Sittin' in the sand
 Weathered by the storms
 And well oiled hands
@@ -291,7 +291,7 @@ But nothing compares
 To the way that I see it
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Man, I could use a Pina Colada
+", u"Man, I could use a Pina Colada
 Little bit of sun on my skin
 A hammock, a book, never gonna look back
 Once my feet hit the sand
@@ -306,7 +306,7 @@ Play my guitar in the Caribbean sun
 Hang with the locals at the Quiet Mon
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tired of my beeper, tired of my phone
+", u"Tired of my beeper, tired of my phone
 Tired of this tired ol' tie I got on
 Sick of this traffic jam that I'm in
 We all get sick of it all now and then
@@ -319,7 +319,7 @@ Sixth gear with nowhere to steer
 When enough is enough
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"He left Maine 'cause he needed a change
+", u"He left Maine 'cause he needed a change
 And he was desperate to rearrange priorities
 And he thought the sea would be the best place to be
 So he saved his money, sold his car
@@ -336,7 +336,7 @@ He's finally found his piece of serenity
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Stuck here at a Holiday Inn near Austin, Texas
+", u"Stuck here at a Holiday Inn near Austin, Texas
 Seen all the road that I want to see
 God I hate the snow, they even cancelled the show
 Makes me long for where I really want to be
@@ -350,7 +350,7 @@ To another life somewhere in the sun
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She comes from Boston
+", u"She comes from Boston
 Works at the jewelry store
 Down in the harbor
 Where the ferries come to shore
@@ -367,7 +367,7 @@ She's from Boston
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'"There\'s something sexy about the rain"
+", u'"There\'s something sexy about the rain"
 She said as it came pouring down
 It feels like kisses on my skin
 She spread her arms and spun around
@@ -387,7 +387,7 @@ And it was raining at the airport
 And kept on raining on the plane
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Don't really know what day it is
+', u"Don't really know what day it is
 Been rocking nine days in a row
 All I know is it's hurricane season
 And any minute she's gonna blow
@@ -399,7 +399,7 @@ Sailing out on the sea
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Big straw hat, banana drink
+", u"Big straw hat, banana drink
 I can't remember what it is I think
 And my, my, my, my key lime pie
 
@@ -417,7 +417,7 @@ Bikini bottom and a tie-dyed shirt
 And my, my, my, my key lime pie
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Sherry's living in paradise
+", u"Sherry's living in paradise
 Slinging drinks at a bar down by the beach
 And you know she came here from L.A.
 Southern California could not hold her dreams
@@ -429,7 +429,7 @@ Had a lot of lovers that were good for nothing
 And she's thought about leaving once or twice
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I had a $100 ring in my hand,
+", u"I had a $100 ring in my hand,
 So weak and tired,
 I can bearly stand,
 From being up all night,
@@ -457,7 +457,7 @@ One things for sure,
 It's real love,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I haven't seen you in forever,
+", u"I haven't seen you in forever,
 aw you haven't changed a bit.
 you didn't think that I remembered,
 how could I forget?
@@ -472,7 +472,7 @@ Oh that's somethin' that just Don't Happen Twice.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'a little country church
+", u'a little country church
 on a two lane road
 a bride and a groom coming out the door
 a white laced dress and a red bouqet
@@ -483,7 +483,7 @@ a match made in heaven if there ever was
 dont that make you want to fall in love
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"(Steve Seskin/Mark Alan Springer)
+', u"(Steve Seskin/Mark Alan Springer)
 
 With a little luck this ol' truck will get me home today
 With a little more I'll still have this job tomorrow
@@ -496,7 +496,7 @@ I'll always have you to hold
 And that's all I need to know
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's somethin' sacred when your 17
+", u"There's somethin' sacred when your 17
 'Bout a football jacket and a high school ring
 And it sure looked nice
 When you wore mine
@@ -516,7 +516,7 @@ We gave everything and then
 Graduation came
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Skip Ewing/Ray Herndon)
+", u"(Skip Ewing/Ray Herndon)
 
 Ordinary no, really don't think so
 Not a love this true
@@ -530,7 +530,7 @@ Suited perfectly for eternity
 Me and you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Mark Alan Springer/Nettie Musick)
+", u"(Mark Alan Springer/Nettie Musick)
 
 There's so many things
 I didn't say
@@ -548,7 +548,7 @@ Can't leave you behind
 When I close my eyes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She's got every quality
+", u"She's got every quality
 From A all the way to Z
 It's easy to see she's the perfect girl
 
@@ -566,7 +566,7 @@ I could give someone such devotion
 Every sweet memory I can recall
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Bill Luther/Tom Damphier)
+", u"(Bill Luther/Tom Damphier)
 
 I keep tellin myself this is the right thing to do
 I was wastin her time, waitin on dreams that just weren't comin true
@@ -581,7 +581,7 @@ And run to her, take her in my arms
 Make her see how sorry I am, well that shouldn't be so hard
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Big orange ball, sinkin' in the water.
+", u"Big orange ball, sinkin' in the water.
 Toes in the sand, couldn't get much hotter.
 Little umbrella shaped margaritas
 Coconut oil, tan senioritas
@@ -594,7 +594,7 @@ I could feel the speed from my head to my toes
 Now I know how Richard Petty feels
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'One word, that\'s all you said
+", u'One word, that\'s all you said
 Somethin\' in your voice caused me to turn my head.
 Your smile, just captured me
 And you were in my future as far as I could see
@@ -610,7 +610,7 @@ It was over from the start, you completely stole my heart
 And now you won\'t let go
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'She said, "You never tell me
+', u'She said, "You never tell me
 That you love me anymore
 So I can\'t help but wonder if you do"
 
@@ -627,7 +627,7 @@ Then she said, "Kiss me, kiss me, kiss me
 Hold me, hold me like you want me
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"(Jeff Stevens/Steve Bogard)
+', u"(Jeff Stevens/Steve Bogard)
 
 Darlin if you think back
 To the heartbroken past
@@ -644,7 +644,7 @@ Life is good
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'(Paul Overstreet/Billy Aerts)
+", u'(Paul Overstreet/Billy Aerts)
 
 I just found this old picture in my wallet
 Of you and me, down in Mexico
@@ -658,7 +658,7 @@ Every turn, livin right inside us
 I believe love goes
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Plowin' these fields in the hot summer sun,
+', u"Plowin' these fields in the hot summer sun,
 Over by the gate, Lordy, here she comes
 With a basket full of chicken 
 and a big cold jug of sweet tea.
@@ -676,7 +676,7 @@ She's even kinda crazy 'bout my farmer's tan
 She's the only one who really understands what gets me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Aimee Mayo/Bill Luther/Chris Lindsey)
+", u"(Aimee Mayo/Bill Luther/Chris Lindsey)
 
 She lived at the end of a little dirt road
 In a house where secrets go untold
@@ -692,7 +692,7 @@ And I'm leavin everything behind
 You can't help, but feel a little bit touched
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The Summer breeze, made ripples on the pond
+", u"The Summer breeze, made ripples on the pond
 And rattled through the reeds, and the willow trees beyond
 Daddy in his good hat, and momma in her Sunday dress
 Watched with pride as I stood there, in the water up to my chest
@@ -706,7 +706,7 @@ I didn't see no angels, just a few saints on the shore
 But I felt like a newborn baby, cradled up in the arms of the Lord
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She can't put her finger on
+", u"She can't put her finger on
 A single lipstick stain
 Perfume doesn't linger in his shirt
 There's no matchbook in his pocket
@@ -719,7 +719,7 @@ She can feel her all over her man
 A woman knows
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I had a $100 ring in my hand,
+", u"I had a $100 ring in my hand,
 So weak and tired,
 I can bearly stand,
 From being up all night,
@@ -747,7 +747,7 @@ One things for sure,
 It's real love,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I haven't seen you in forever,
+", u"I haven't seen you in forever,
 aw you haven't changed a bit.
 you didn't think that I remembered,
 how could I forget?
@@ -762,7 +762,7 @@ Oh that's somethin' that just Don't Happen Twice.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Kenny Chesney/Stacey Slate/David Lowe)
+", u"(Kenny Chesney/Stacey Slate/David Lowe)
 
 Saw a man in the movies that didn't have a heart
 How I wish I could give him mine
@@ -774,7 +774,7 @@ I wish I were a tin man
 You could hurt me all you wanted
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'a little country church
+", u'a little country church
 on a two lane road
 a bride and a groom coming out the door
 a white laced dress and a red bouqet
@@ -785,7 +785,7 @@ a match made in heaven if there ever was
 dont that make you want to fall in love
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"(Steve Seskin/Mark Alan Springer)
+', u"(Steve Seskin/Mark Alan Springer)
 
 With a little luck this ol' truck will get me home today
 With a little more I'll still have this job tomorrow
@@ -798,7 +798,7 @@ I'll always have you to hold
 And that's all I need to know
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's somethin' sacred when your 17
+", u"There's somethin' sacred when your 17
 'Bout a football jacket and a high school ring
 And it sure looked nice
 When you wore mine
@@ -818,7 +818,7 @@ We gave everything and then
 Graduation came
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Skip Ewing/Ray Herndon)
+", u"(Skip Ewing/Ray Herndon)
 
 Ordinary no, really don't think so
 Not a love this true
@@ -832,7 +832,7 @@ Suited perfectly for eternity
 Me and you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Thank ya\'ll very much!
+", u'Thank ya\'ll very much!
 Okay, Dallas, I wanna play ya\'ll a song now...
 That... uh... I gotta say It\'s one of my favorite songs I\'ve ever recorded
 For a lot of reasons...
@@ -854,7 +854,7 @@ Back where I come from...
 Back where I come from
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"(Mark Alan Springer/Nettie Musick)
+', u"(Mark Alan Springer/Nettie Musick)
 
 There's so many things
 I didn't say
@@ -872,7 +872,7 @@ Can't leave you behind
 When I close my eyes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She's got every quality
+", u"She's got every quality
 From A all the way to Z
 It's easy to see she's the perfect girl
 
@@ -890,7 +890,7 @@ I could give someone such devotion
 Every sweet memory I can recall
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I had a $100 ring in my hand,
+", u"I had a $100 ring in my hand,
 So weak and tired,
 I can bearly stand,
 From being up all night,
@@ -918,7 +918,7 @@ One things for sure,
 It's real love,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I haven't seen you in forever,
+", u"I haven't seen you in forever,
 aw you haven't changed a bit.
 you didn't think that I remembered,
 how could I forget?
@@ -933,7 +933,7 @@ Oh that's somethin' that just Don't Happen Twice.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Kenny Chesney/Stacey Slate/David Lowe)
+", u"(Kenny Chesney/Stacey Slate/David Lowe)
 
 Saw a man in the movies that didn't have a heart
 How I wish I could give him mine
@@ -945,7 +945,7 @@ I wish I were a tin man
 You could hurt me all you wanted
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Kenny Chesney/Buddy Brock/Kim Williams)
+", u"(Kenny Chesney/Buddy Brock/Kim Williams)
 
 A little country church on a two lane road
 A bride and groom coming out the door
@@ -957,7 +957,7 @@ Don't that look like a picture of us
 A match made in heaven if there ever was
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Steve Seskin/Mark Alan Springer)
+", u"(Steve Seskin/Mark Alan Springer)
 
 With a little luck this ol' truck will get me home today
 With a little more I'll still have this job tomorrow
@@ -970,7 +970,7 @@ I'll always have you to hold
 And that's all I need to know
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's somethin' sacred when your 17
+", u"There's somethin' sacred when your 17
 'Bout a football jacket and a high school ring
 And it sure looked nice
 When you wore mine
@@ -990,7 +990,7 @@ We gave everything and then
 Graduation came
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Skip Ewing/Ray Herndon)
+", u"(Skip Ewing/Ray Herndon)
 
 Ordinary no, really don't think so
 Not a love this true
@@ -1004,7 +1004,7 @@ Suited perfectly for eternity
 Me and you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well in the town where I was raised,
+", u"Well in the town where I was raised,
 the clock ticks and the cattle grazed
 Time passed with amazing grace,
 Back where I come from
@@ -1025,7 +1025,7 @@ We learned in the Sunday school,
 who made the sun shine through
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Mark Alan Springer/Nettie Musick)
+", u"(Mark Alan Springer/Nettie Musick)
 
 There's so many things
 I didn't say
@@ -1043,7 +1043,7 @@ Can't leave you behind
 When I close my eyes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She's got every quality
+", u"She's got every quality
 From A all the way to Z
 It's easy to see she's the perfect girl
 
@@ -1061,7 +1061,7 @@ I could give someone such devotion
 Every sweet memory I can recall
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'We went out last night
+", u'We went out last night
 Like we swore we wouldn\u2019t do
 Drank too much beer last night
 A lot more than we wanted to
@@ -1080,7 +1080,7 @@ Yeah, life was good everywhere
 We went out last night
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"The body's a temple, that's what we're taught
+', u"The body's a temple, that's what we're taught
 I've treated this one like an old honky-tonk
 Greasy cheeseburgers and cheap cigarettes
 One day they'll get me if they ain't got me yet
@@ -1096,7 +1096,7 @@ They work in their office, drive SUV's
 They pray for their babies and they worry 'bout me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Lookin' back now well it makes me laugh,
+", u"Lookin' back now well it makes me laugh,
 We were growin' our hair,
 We were cuttin' class,
 Knew it all already there was nothing to learn,
@@ -1113,7 +1113,7 @@ We were wannabe rebels that didn't have a clue
 In our rock n roll tee shirts and our typically bad attitudes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Summertime is finally here
+", u"Summertime is finally here
 That old ballpark, man, is back in gear
 Out on forty nine
 Man I can see the lights
@@ -1134,7 +1134,7 @@ It's a smile, it's a kiss
 It's a sip of wine, it's summertime
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'When I was a boy
+", u'When I was a boy
 
 Four houses down from me
 Was a family with an only child
@@ -1153,7 +1153,7 @@ And She said she really wanted to
 Down the road
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Starin' out into the wild blue yonder
+', u"Starin' out into the wild blue yonder
 So many thoughts to sit and ponder
 'Bout life and love and lack of 
 And this emptiness in my heart
@@ -1170,7 +1170,7 @@ Sit right here and have another Beer In Mexico
 Let the warm air melt these blues away
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'All he could think about was
+", u'All he could think about was
 I\'m too young for this
 Got my whole life ahead
 Hell I\'m just a kid myself
@@ -1191,7 +1191,7 @@ There goes my life"
 A couple years of up all night and
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Suntanned toes ticklin' the sand
+', u"Suntanned toes ticklin' the sand
 Cold drink chillin' in my right hand
 
 Watchin' you sleep in the evenin' light
@@ -1212,7 +1212,7 @@ When the sun goes down we'll be feelin' alright
 When the sun sinks down over the water
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Walking along beneath the lights of that miracle mile
+", u"Walking along beneath the lights of that miracle mile
 Me and Mary making our way into the night
 You can hear the cries from the carnival rides, the pinball bells, and the skee ball slots
 Watching the summer sun fall out of sight
@@ -1229,7 +1229,7 @@ Anything but mine
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Man, I could use a Pina Colada
+", u"Man, I could use a Pina Colada
 Little bit of sun on my skin
 A hammock, a book, never gonna look back
 Once my feet hit the sand
@@ -1244,7 +1244,7 @@ Play my guitar in the Caribbean sun
 Hang with the locals at the Quiet Mon
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'We went out last night
+", u'We went out last night
 Like we swore we wouldn\u2019t do
 Drank too much beer last night
 A lot more than we wanted to
@@ -1263,7 +1263,7 @@ Yeah, life was good everywhere
 We went out last night
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"The body's a temple, that's what we're taught
+', u"The body's a temple, that's what we're taught
 I've treated this one like an old honky-tonk
 Greasy cheeseburgers and cheap cigarettes
 One day they'll get me if they ain't got me yet
@@ -1279,7 +1279,7 @@ They work in their office, drive SUV's
 They pray for their babies and they worry 'bout me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Lookin' back now well it makes me laugh,
+", u"Lookin' back now well it makes me laugh,
 We were growin' our hair,
 We were cuttin' class,
 Knew it all already there was nothing to learn,
@@ -1296,7 +1296,7 @@ We were wannabe rebels that didn't have a clue
 In our rock n roll tee shirts and our typically bad attitudes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Summertime is finally here
+", u"Summertime is finally here
 That old ballpark, man, is back in gear
 Out on forty nine
 Man I can see the lights
@@ -1317,7 +1317,7 @@ It's a smile, it's a kiss
 It's a sip of wine, it's summertime
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'When I was a boy
+", u'When I was a boy
 
 Four houses down from me
 Was a family with an only child
@@ -1336,7 +1336,7 @@ And She said she really wanted to
 Down the road
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Starin' out into the wild blue yonder
+', u"Starin' out into the wild blue yonder
 So many thoughts to sit and ponder
 'Bout life and love and lack of 
 And this emptiness in my heart
@@ -1353,7 +1353,7 @@ Sit right here and have another Beer In Mexico
 Let the warm air melt these blues away
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'All he could think about was
+", u'All he could think about was
 I\'m too young for this
 Got my whole life ahead
 Hell I\'m just a kid myself
@@ -1374,7 +1374,7 @@ There goes my life"
 A couple years of up all night and
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Suntanned toes ticklin' the sand
+', u"Suntanned toes ticklin' the sand
 Cold drink chillin' in my right hand
 
 Watchin' you sleep in the evenin' light
@@ -1395,7 +1395,7 @@ When the sun goes down we'll be feelin' alright
 When the sun sinks down over the water
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Walking along beneath the lights of that miracle mile
+", u"Walking along beneath the lights of that miracle mile
 Me and Mary making our way into the night
 You can hear the cries from the carnival rides, the pinball bells, and the skee ball slots
 Watching the summer sun fall out of sight
@@ -1412,7 +1412,7 @@ Anything but mine
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Man, I could use a Pina Colada
+", u"Man, I could use a Pina Colada
 Little bit of sun on my skin
 A hammock, a book, never gonna look back
 Once my feet hit the sand
@@ -1427,7 +1427,7 @@ Play my guitar in the Caribbean sun
 Hang with the locals at the Quiet Mon
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"When I feel that chill, smell that fresh cut grass
+", u"When I feel that chill, smell that fresh cut grass
 I'm back in my helmet, cleats and shoulder pads
 Standing in the huddle listening to the call
 Fans going crazy for the boys of fall
@@ -1444,7 +1444,7 @@ And it's knocking heads and talking trash
 It's slinging mud and dirt and grass
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Stressed out, running late, racing down the interstate
+", u"Stressed out, running late, racing down the interstate
 Spilled hot coffee, down the front of my jeans
 It's work, work, pay the rent, money and my time's spent
 Not a minute left for me to be me
@@ -1459,7 +1459,7 @@ Live a little, love a lot
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tank top, love handles
+", u"Tank top, love handles
 Tube socks, Jesus sandals
 Cheap blender, ice bucket
 Raw oysters, yeah, give me one and shuck it
@@ -1474,7 +1474,7 @@ Catch a local cover band
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Baby here I am again
+", u"Baby here I am again
 Kickin\u2019 dust in the Canyon wind
 Waitin\u2019 for that sun to go down
 Made it up Mulholland Drive
@@ -1489,7 +1489,7 @@ One more is never enough
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"A Saturday downpour carved out rivers in the sand
+", u"A Saturday downpour carved out rivers in the sand
 She said it was her first time to see the sea
 Helping her climb across those jetty rocks
 Was the first time I touched her hand
@@ -1507,7 +1507,7 @@ I've lived those seven days a thousand times
 Those seven days a thousand
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Honey, you think he\u2019s got an attitude
+", u'Honey, you think he\u2019s got an attitude
 So you treat him just a little too rude
 Buddy, you think she\u2019s a little too cold
 So you act like a two year old
@@ -1525,7 +1525,7 @@ And you\u2019re both wanting to die
 Don\u2019t you feel like a jerk, Kirk?
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"There's still marks on the pantry door of that little house
+', u"There's still marks on the pantry door of that little house
 Where Mama used to measure us
 I'm proud to say that's my home where I was raised
 But that ain't where I grew up
@@ -1542,7 +1542,7 @@ That's where I grew up
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"For me it's a beach bar
+", u"For me it's a beach bar
 Or on a boat underneath the stars
 Or with my band up on a stage
 For a while everything's okay
@@ -1558,7 +1558,7 @@ So let's take a chance and live this fantasy
 'Cause everybody needs to break free from reality, oh yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Some folks livin' in the country can't wait
+", u"Some folks livin' in the country can't wait
 To get in their pick-up trucks and go to town
 There's people living in a penthouse
 Dying to get out in the sticks and ride around
@@ -1576,7 +1576,7 @@ Is to get that golden ring upon their hand
 In the middle of nowhere where there's nobody
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If you're going out with someone new
+", u"If you're going out with someone new
 I'm going out with someone too
 I won't feel sorry for me, I'm getting drunk
 But I'd much rather be somewhere with you
@@ -1597,4 +1597,4 @@ Call up an ex to rescue me, climb in their bed
 When I'd much rather sleep somewhere with you
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

@@ -17,7 +17,7 @@ This world wide open
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"It's been a long week
+", u"It's been a long week
 I've got a slow leak in my left front tire
 I'm sick of where I work
 My boss is such a jerk, don't care if I get fired
@@ -37,7 +37,7 @@ At the break of day
 I'll be a runaway
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I don't understand why we do
+", u"I don't understand why we do
 What we do to each other
 According to His word we're all born
 Sisters and brothers
@@ -51,7 +51,7 @@ We come so close to loving each other
 And then we go dancing in circles again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Right now you got it made
+", u"Right now you got it made
 Got everybody fooled
 Got everything you want
 It's all about you
@@ -78,7 +78,7 @@ A rock in your hand
 Before you throw that thing
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Some people try to hide
+", u"Some people try to hide
 They try to move on
 Can't stand the pain of you gone
 But baby that's not me
@@ -101,7 +101,7 @@ They conquer the impossible
 And make you feel alive
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Mountains, staring at me as they\'re rollin\' by.
+", u'Mountains, staring at me as they\'re rollin\' by.
 Sunset, paints a path across the southern sky.
 Headin\' down the dusty highway, there he was in the middle of the road.
 And I said "Old man let me help you, I can take you home"
@@ -117,7 +117,7 @@ To where you\'ve never been.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"You took your heart.
+', u"You took your heart.
 And broke down the wall.
 Even though I thought that I had seen it all.
 The waters still.
@@ -133,7 +133,7 @@ Your love is all I wanna know.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I cover my eyes as the 
+", u"I cover my eyes as the 
 Sun's pouring in 
 No, I never thought 
 Last night would end 
@@ -150,7 +150,7 @@ And this place sure feels haunted
 I guess I got what I wanted 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Chorus:
+", u"Chorus:
 I said slow down--
 Slow down and live, my friend
 Take time--take time to understand
@@ -168,7 +168,7 @@ Rising at the crack of dawn and working overtime
 You know, he never told me how much happiness he found
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohh
+", u"Ohh
 
 Like a thundercloud without a chance of rain
 Like a stretch of sandy beach without the waves
@@ -188,7 +188,7 @@ I want to be so strong
 But I don't know how to begin
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I need to move, I need to breathe
+", u"I need to move, I need to breathe
 Shake the things that pull on me
 Holding me down, slowing me down
 I need to run, I need to fight
@@ -207,7 +207,7 @@ This world wide open
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"It's been a long week
+", u"It's been a long week
 I've got a slow leak in my left front tire
 I'm sick of where I work
 My boss is such a jerk, don't care if I get fired
@@ -227,7 +227,7 @@ At the break of day
 I'll be a runaway
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I don't understand why we do
+", u"I don't understand why we do
 What we do to each other
 According to His word we're all born
 Sisters and brothers
@@ -241,7 +241,7 @@ We come so close to loving each other
 And then we go dancing in circles again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Right now you got it made
+", u"Right now you got it made
 Got everybody fooled
 Got everything you want
 It's all about you
@@ -268,7 +268,7 @@ A rock in your hand
 Before you throw that thing
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Some people try to hide
+", u"Some people try to hide
 They try to move on
 Can't stand the pain of you gone
 But baby that's not me
@@ -291,7 +291,7 @@ They conquer the impossible
 And make you feel alive
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Mountains, staring at me as they\'re rollin\' by.
+", u'Mountains, staring at me as they\'re rollin\' by.
 Sunset, paints a path across the southern sky.
 Headin\' down the dusty highway, there he was in the middle of the road.
 And I said "Old man let me help you, I can take you home"
@@ -307,7 +307,7 @@ To where you\'ve never been.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"You took your heart.
+', u"You took your heart.
 And broke down the wall.
 Even though I thought that I had seen it all.
 The waters still.
@@ -323,7 +323,7 @@ Your love is all I wanna know.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I cover my eyes as the 
+", u"I cover my eyes as the 
 Sun's pouring in 
 No, I never thought 
 Last night would end 
@@ -340,7 +340,7 @@ And this place sure feels haunted
 I guess I got what I wanted 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Chorus:
+", u"Chorus:
 I said slow down--
 Slow down and live, my friend
 Take time--take time to understand
@@ -358,7 +358,7 @@ Rising at the crack of dawn and working overtime
 You know, he never told me how much happiness he found
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohh
+", u"Ohh
 
 Like a thundercloud without a chance of rain
 Like a stretch of sandy beach without the waves
@@ -378,7 +378,7 @@ I want to be so strong
 But I don't know how to begin
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She likes whiskey with her water
+", u"She likes whiskey with her water
 She starts dancing when the stars come out
 She ain't your typical preacher's daughter
 She'll leave you dreamin' yeah there ain't no doubt
@@ -392,4 +392,4 @@ Saturday night she's rockin' out by the bonfire
 Flirtin' from that tail gate and crankin' up the dial
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

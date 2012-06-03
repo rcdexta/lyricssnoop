@@ -9,7 +9,7 @@ But it came back with a story to say.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Taking over this town, they should worry,
+', u"Taking over this town, they should worry,
 But these problems aside I think I taught you well.
 That we won't run, and we won't run, and we won't run.
 
@@ -29,14 +29,14 @@ Though far away, though far away, though far away
 We're still the same, we're still the same, we're still the same.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Fishing for a friend,
+", u"Fishing for a friend,
 Can't remember when it was dark
 Or the sun coming up.
 Far across the ocean lone,
 While numb bears at home
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sea said goodbye to the shore so the sun wouldn't notice
+", u"The sea said goodbye to the shore so the sun wouldn't notice
 The sea it wrapped its arms around you
 
 The calm on my cheek feels like the fall grass 
@@ -48,7 +48,7 @@ and I'll meet your eyes for the very first time, for the very last
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey! Hey! Hey!
+", u"Hey! Hey! Hey!
 I don't like walking around this old and empty house
 So hold my hand, I'll walk with you my dear
 The stairs creak as I sleep, it's keeping me awake
@@ -74,7 +74,7 @@ Your mind is playing tricks on you, my dear
 'Cause though the truth may vary
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'We came here on his back
+", u'We came here on his back
 And we caught your eye.
 The salty ocean wind
 Made the seagulls cry.
@@ -83,7 +83,7 @@ Had me holding on
 But I knew that I was safe
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Slow, slow me down,
+', u"Slow, slow me down,
 her blood, on my bones.
 Let go, lay to rest.
 
@@ -104,7 +104,7 @@ we share the same cold meal.
 I float on, float on down .
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well, maybe I'm a crook for stealing your heart away
+", u"Well, maybe I'm a crook for stealing your heart away
 And maybe I'm a crook for not caring for it
 Yeah, maybe I'm a bad, bad, bad... bad person
 Well, baby I know
@@ -119,7 +119,7 @@ Filled with people that are less important than you
 When you know I can't love you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"In the spring we made a boat
+", u"In the spring we made a boat
 Out of feathers, out of bones.
 We set fire to our homes,
 Walking barefoot in the snow.
@@ -132,7 +132,7 @@ Troubled spirits on my chest
 Where they laid to rest.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'
+", u'
 Oh, I miss the comfort of this house.
 Where we are, where we are.
 Where we are, where we are,
@@ -146,7 +146,7 @@ We climbed up to the top in worn out shoes,
 but she ran down, she ran down.
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Jumping up and down the floor,
+', u'Jumping up and down the floor,
 My head is an animal.
 And once there was an animal,
 It had a son that mowed the lawn.
@@ -157,7 +157,7 @@ But it came back with a story to say.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Taking over this town, they should worry,
+', u"Taking over this town, they should worry,
 But these problems aside I think I taught you well.
 That we won't run, and we won't run, and we won't run.
 
@@ -177,7 +177,7 @@ Though far away, though far away, though far away
 We're still the same, we're still the same, we're still the same.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Heaven calling in the distance
+", u'Heaven calling in the distance
 So I packed my things and ran
 Far away from all the trouble
 I had caused with my two hands
@@ -196,7 +196,7 @@ Through the woods we ran
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'The lights go out, I am all alone
+', u'The lights go out, I am all alone
 All the trees outside are buried in the snow
 I spent my night dancing with my own shadow
 And it holds me
@@ -210,7 +210,7 @@ Past the ones that I used to know
 My dear old friend, take me for a spin
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'We came here on his back
+', u'We came here on his back
 And we caught your eye.
 The salty ocean wind
 Made the seagulls cry.
@@ -219,7 +219,7 @@ Had me holding on
 But I knew that I was safe
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Hey! Hey! Hey!
+', u"Hey! Hey! Hey!
 I don't like walking around this old and empty house
 So hold my hand, I'll walk with you my dear
 The stairs creak as I sleep, it's keeping me awake
@@ -245,7 +245,7 @@ Your mind is playing tricks on you, my dear
 'Cause though the truth may vary
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Slow, slow me down,
+", u"Slow, slow me down,
 her blood, on my bones.
 Let go, lay to rest.
 
@@ -266,7 +266,7 @@ we share the same cold meal.
 I float on, float on down .
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well, maybe I'm a crook for stealing your heart away
+", u"Well, maybe I'm a crook for stealing your heart away
 And maybe I'm a crook for not caring for it
 Yeah, maybe I'm a bad, bad, bad... bad person
 Well, baby I know
@@ -281,7 +281,7 @@ Filled with people that are less important than you
 When you know I can't love you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"In the spring we made a boat
+", u"In the spring we made a boat
 Out of feathers, out of bones.
 We set fire to our homes,
 Walking barefoot in the snow.
@@ -294,7 +294,7 @@ Troubled spirits on my chest
 Where they laid to rest.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sea said goodbye to the shore so the sun wouldn't notice
+", u"The sea said goodbye to the shore so the sun wouldn't notice
 The sea it wrapped its arms around you
 
 The calm on my cheek feels like the fall grass 
@@ -306,7 +306,7 @@ and I'll meet your eyes for the very first time, for the very last
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Jumping up and down the floor,
+", u'Jumping up and down the floor,
 My head is an animal.
 And once there was an animal,
 It had a son that mowed the lawn.
@@ -317,7 +317,7 @@ But it came back with a story to say.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Taking over this town, they should worry,
+', u"Taking over this town, they should worry,
 But these problems aside I think I taught you well.
 That we won't run, and we won't run, and we won't run.
 
@@ -337,7 +337,7 @@ Though far away, though far away, though far away
 We're still the same, we're still the same, we're still the same.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Heaven calling in the distance
+", u'Heaven calling in the distance
 So I packed my things and ran
 Far away from all the trouble
 I had caused with my two hands
@@ -356,7 +356,7 @@ Through the woods we ran
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'The lights go out, I am all alone
+', u'The lights go out, I am all alone
 All the trees outside are buried in the snow
 I spent my night dancing with my own shadow
 And it holds me
@@ -370,7 +370,7 @@ Past the ones that I used to know
 My dear old friend, take me for a spin
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'We came here on his back
+', u'We came here on his back
 And we caught your eye.
 The salty ocean wind
 Made the seagulls cry.
@@ -379,7 +379,7 @@ Had me holding on
 But I knew that I was safe
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Hey! Hey! Hey!
+', u"Hey! Hey! Hey!
 I don't like walking around this old and empty house
 So hold my hand, I'll walk with you my dear
 The stairs creak as I sleep, it's keeping me awake
@@ -405,7 +405,7 @@ Your mind is playing tricks on you, my dear
 'Cause though the truth may vary
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Slow, slow me down,
+", u"Slow, slow me down,
 her blood, on my bones.
 Let go, lay to rest.
 
@@ -426,7 +426,7 @@ we share the same cold meal.
 I float on, float on down .
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well, maybe I'm a crook for stealing your heart away
+", u"Well, maybe I'm a crook for stealing your heart away
 And maybe I'm a crook for not caring for it
 Yeah, maybe I'm a bad, bad, bad... bad person
 Well, baby I know
@@ -441,7 +441,7 @@ Filled with people that are less important than you
 When you know I can't love you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"In the spring we made a boat
+", u"In the spring we made a boat
 Out of feathers, out of bones.
 We set fire to our homes,
 Walking barefoot in the snow.
@@ -454,7 +454,7 @@ Troubled spirits on my chest
 Where they laid to rest.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sea said goodbye to the shore so the sun wouldn't notice
+", u"The sea said goodbye to the shore so the sun wouldn't notice
 The sea it wrapped its arms around you
 
 The calm on my cheek feels like the fall grass 
@@ -466,7 +466,7 @@ and I'll meet your eyes for the very first time, for the very last
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Jumping up and down the floor,
+", u'Jumping up and down the floor,
 My head is an animal.
 And once there was an animal,
 It had a son that mowed the lawn.
@@ -477,7 +477,7 @@ But it came back with a story to say.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Taking over this town, they should worry,
+', u"Taking over this town, they should worry,
 But these problems aside I think I taught you well.
 That we won't run, and we won't run, and we won't run.
 
@@ -497,7 +497,7 @@ Though far away, though far away, though far away
 We're still the same, we're still the same, we're still the same.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Heaven calling in the distance
+", u'Heaven calling in the distance
 So I packed my things and ran
 Far away from all the trouble
 I had caused with my two hands
@@ -516,7 +516,7 @@ Through the woods we ran
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'The lights go out, I am all alone
+', u'The lights go out, I am all alone
 All the trees outside are buried in the snow
 I spent my night dancing with my own shadow
 And it holds me
@@ -530,7 +530,7 @@ Past the ones that I used to know
 My dear old friend, take me for a spin
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'We came here on his back
+', u'We came here on his back
 And we caught your eye.
 The salty ocean wind
 Made the seagulls cry.
@@ -539,7 +539,7 @@ Had me holding on
 But I knew that I was safe
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Hey! Hey! Hey!
+', u"Hey! Hey! Hey!
 I don't like walking around this old and empty house
 So hold my hand, I'll walk with you my dear
 The stairs creak as I sleep, it's keeping me awake
@@ -565,7 +565,7 @@ Your mind is playing tricks on you, my dear
 'Cause though the truth may vary
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Slow, slow me down,
+", u"Slow, slow me down,
 her blood, on my bones.
 Let go, lay to rest.
 
@@ -586,7 +586,7 @@ we share the same cold meal.
 I float on, float on down .
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well, maybe I'm a crook for stealing your heart away
+", u"Well, maybe I'm a crook for stealing your heart away
 And maybe I'm a crook for not caring for it
 Yeah, maybe I'm a bad, bad, bad... bad person
 Well, baby I know
@@ -601,7 +601,7 @@ Filled with people that are less important than you
 When you know I can't love you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"In the spring we made a boat
+", u"In the spring we made a boat
 Out of feathers, out of bones.
 We set fire to our homes,
 Walking barefoot in the snow.
@@ -614,7 +614,7 @@ Troubled spirits on my chest
 Where they laid to rest.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sea said goodbye to the shore so the sun wouldn't notice
+", u"The sea said goodbye to the shore so the sun wouldn't notice
 The sea it wrapped its arms around you
 
 The calm on my cheek feels like the fall grass 
@@ -626,7 +626,7 @@ and I'll meet your eyes for the very first time, for the very last
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Jumping up and down the floor,
+", u'Jumping up and down the floor,
 My head is an animal.
 And once there was an animal,
 It had a son that mowed the lawn.
@@ -637,7 +637,7 @@ But it came back with a story to say.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Taking over this town, they should worry,
+', u"Taking over this town, they should worry,
 But these problems aside I think I taught you well.
 That we won't run, and we won't run, and we won't run.
 
@@ -657,7 +657,7 @@ Though far away, though far away, though far away
 We're still the same, we're still the same, we're still the same.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Heaven calling in the distance
+", u'Heaven calling in the distance
 So I packed my things and ran
 Far away from all the trouble
 I had caused with my two hands
@@ -676,7 +676,7 @@ Through the woods we ran
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'The lights go out, I am all alone
+', u'The lights go out, I am all alone
 All the trees outside are buried in the snow
 I spent my night dancing with my own shadow
 And it holds me
@@ -690,7 +690,7 @@ Past the ones that I used to know
 My dear old friend, take me for a spin
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'We came here on his back
+', u'We came here on his back
 And we caught your eye.
 The salty ocean wind
 Made the seagulls cry.
@@ -699,7 +699,7 @@ Had me holding on
 But I knew that I was safe
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Hey! Hey! Hey!
+', u"Hey! Hey! Hey!
 I don't like walking around this old and empty house
 So hold my hand, I'll walk with you my dear
 The stairs creak as I sleep, it's keeping me awake
@@ -725,7 +725,7 @@ Your mind is playing tricks on you, my dear
 'Cause though the truth may vary
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Slow, slow me down,
+", u"Slow, slow me down,
 her blood, on my bones.
 Let go, lay to rest.
 
@@ -746,7 +746,7 @@ we share the same cold meal.
 I float on, float on down .
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well, maybe I'm a crook for stealing your heart away
+", u"Well, maybe I'm a crook for stealing your heart away
 And maybe I'm a crook for not caring for it
 Yeah, maybe I'm a bad, bad, bad... bad person
 Well, baby I know
@@ -761,7 +761,7 @@ Filled with people that are less important than you
 When you know I can't love you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"In the spring we made a boat
+", u"In the spring we made a boat
 Out of feathers, out of bones.
 We set fire to our homes,
 Walking barefoot in the snow.
@@ -774,7 +774,7 @@ Troubled spirits on my chest
 Where they laid to rest.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sea said goodbye to the shore so the sun wouldn't notice
+", u"The sea said goodbye to the shore so the sun wouldn't notice
 The sea it wrapped its arms around you
 
 The calm on my cheek feels like the fall grass 
@@ -786,7 +786,7 @@ and I'll meet your eyes for the very first time, for the very last
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey! Hey! Hey!
+", u"Hey! Hey! Hey!
 I don't like walking around this old and empty house
 So hold my hand, I'll walk with you my dear
 The stairs creak as I sleep, it's keeping me awake
@@ -812,7 +812,7 @@ Your mind is playing tricks on you, my dear
 'Cause though the truth may vary
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey! Hey! Hey!
+", u"Hey! Hey! Hey!
 I don't like walking around this old and empty house
 So hold my hand, I'll walk with you my dear
 The stairs creak as I sleep, it's keeping me awake
@@ -838,7 +838,7 @@ Your mind is playing tricks on you, my dear
 'Cause though the truth may vary
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey! Hey! Hey!
+", u"Hey! Hey! Hey!
 I don't like walking around this old and empty house
 So hold my hand, I'll walk with you my dear
 The stairs creak as I sleep, it's keeping me awake
@@ -864,7 +864,7 @@ Your mind is playing tricks on you, my dear
 'Cause though the truth may vary
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Slow, slow me down,
+", u"Slow, slow me down,
 her blood, on my bones.
 Let go, lay to rest.
 
@@ -885,7 +885,7 @@ we share the same cold meal.
 I float on, float on down .
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well, maybe I'm a crook for stealing your heart away
+", u"Well, maybe I'm a crook for stealing your heart away
 And maybe I'm a crook for not caring for it
 Yeah, maybe I'm a bad, bad, bad... bad person
 Well, baby I know
@@ -900,7 +900,7 @@ Filled with people that are less important than you
 When you know I can't love you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'We came here on his back
+", u'We came here on his back
 And we caught your eye.
 The salty ocean wind
 Made the seagulls cry.
@@ -909,4 +909,4 @@ Had me holding on
 But I knew that I was safe
 ...
 
-******* This Lyrics is NOT for Commercial use *******']
+']

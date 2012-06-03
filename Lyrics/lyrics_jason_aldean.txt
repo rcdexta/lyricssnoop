@@ -21,7 +21,7 @@ We let it rip when we got the money
 Let it roll if we got the gas
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'He gets up before the dawn
+', u'He gets up before the dawn
 Packs a lunch and a thermos full of coffee
 It\'s another day in the dusty haze
 Those burnin\' rays are wearing down his body
@@ -38,7 +38,7 @@ He says, "Lord, I never complain, I never ask why
 But please don\'t let my dream to run dry
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'It\'s 3 AM and I finally say
+', u'It\'s 3 AM and I finally say
 I\'m sorry for acting that way
 I didn\'t really mean to make you cry
 Oh baby, sometimes I wonder why
@@ -51,7 +51,7 @@ And why do I always use the words
 That cut the deepest?
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"I'm on the brink
+', u"I'm on the brink
 I can barely think
 With all of these thoughts
 Running through my head
@@ -70,7 +70,7 @@ And just stop lovin' you
 Even if I wanted to
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I drove half way to town last night
+", u"I drove half way to town last night
 And I turned around
 In a field of fireflies makin' such a lonely sound
 As my headlights flashed on a mailbox by the road
@@ -87,7 +87,7 @@ I'm livin' in Lonesome, Lonesome USA
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The sun has opened up my eyes
+", u"The sun has opened up my eyes
 And I don't want to leave your side
 For that lonesome road but here I go
 Climbing back behind the wheel of
@@ -101,7 +101,7 @@ Born to run underneath the stars
 Pay no mind to my lonely heart
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm a blue collar man had a hammer in my hand
+", u"I'm a blue collar man had a hammer in my hand
 For the last few years of my life
 Working double overtime
 While you sleep alone at night
@@ -118,7 +118,7 @@ I do the best that I can
 And i hope you understand
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I've always been there every time he let you down.
+", u"I've always been there every time he let you down.
 I caught your fallin' tears before they hit the ground.
 But I just heard somebody say that you finally told him goodbye.
 Well, girl now you've finally made your move, now I'm here to make mine.
@@ -131,7 +131,7 @@ You're the love I wanna be in, ah yeah.
 I've kept my feelins' under lock and key.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Waitin' at a stoplight yesterday
+", u"Waitin' at a stoplight yesterday
 As a funeral precession made its way
 Through the gates
 I watched it roll up a windin' road
@@ -154,7 +154,7 @@ Man, I think I'm good to go
 I'm good to go
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I've never been superstitious
+", u"I've never been superstitious
 I've never feared the unknown
 But ever since you left me
 I've believed in ghosts
@@ -170,7 +170,7 @@ Girl, I believe in ghosts
 I swear I keep seeing shadows
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's still black marks on that county road
+", u"There's still black marks on that county road
 Where we drag raced our pickups, and mustangs
 And weathered all the sun and rain
 And to this day up on that overpass
@@ -186,7 +186,7 @@ We laid a lot of memories down
 Like tattoos on this town
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Yeah, I'm chillin' on a dirt road,
+", u"Yeah, I'm chillin' on a dirt road,
 Laid back swervin' like I'm George Jones.
 Smoke rollin' out the window,
 An' ice cold beer sittin' in the console.
@@ -211,7 +211,7 @@ Man that talk is gettin' old.
 Ya better mind your business, man, watch your mouth,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Not a whole lot going on, a small town Friday night
+", u"Not a whole lot going on, a small town Friday night
 Revving up at a red light, on your mark get set go
 Past a mom and pop restaurant
 Same four trucks parked out front
@@ -232,7 +232,7 @@ Why do I hang around
 In this church pew or bar stool kind of town
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Worked all week
+", u"Worked all week
 Cleaned up, clean cut, and clean shaved
 I got the cover off a '68
 Fire it up, and let them horses sing
@@ -254,7 +254,7 @@ Get down in that Georgia clay
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"
+", u"
 
 I can hear that rooster crowing down the road,
 I felt my eyes open up real slow
@@ -268,7 +268,7 @@ one more day I'm still here.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"A couple guys in first class on a flight
+", u"A couple guys in first class on a flight
 From new York to Los Angeles,
 Kinda making small talk killing time,
 Flirting with the flight attendants,
@@ -284,7 +284,7 @@ Met the men who plowed that earth,
 Planted that seed, busted his ass for you and me,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I really hate to let this moment go
+", u"I really hate to let this moment go
 Touching your skin, and your hair falling slow
 When a goodbye kiss, feels like this
 
@@ -301,7 +301,7 @@ When you're on this high, it's a sad goodbye
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Let's don't say goodbye
+", u"Let's don't say goodbye
 I hate the way it sounds
 So, if you don't mind
 Let's just say for now
@@ -317,7 +317,7 @@ And I hope its some day soon
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I walk a hard line winding road
+", u"I walk a hard line winding road
 Don't really know where it's gonna go
 Seems like trouble's my best friend
 Soon as I get out I'm back in again
@@ -328,7 +328,7 @@ It ain't easy loving me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohio was a riverbank
+", u"Ohio was a riverbank
 A ten speed laying in the weeds
 Cannonball off an old rope swing
 Long, long summer days
@@ -342,7 +342,7 @@ But Texas was green eyes crying goodbye
 Was a long drive, a heartache
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's still black marks on that county road
+", u"There's still black marks on that county road
 Where we drag raced our pickups, and mustangs
 And weathered all the sun and rain
 And to this day up on that overpass
@@ -358,7 +358,7 @@ We laid a lot of memories down
 Like tattoos on this town
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Yeah, I'm chillin' on a dirt road,
+", u"Yeah, I'm chillin' on a dirt road,
 Laid back swervin' like I'm George Jones.
 Smoke rollin' out the window,
 An' ice cold beer sittin' in the console.
@@ -383,7 +383,7 @@ Man that talk is gettin' old.
 Ya better mind your business, man, watch your mouth,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Not a whole lot going on, a small town Friday night
+", u"Not a whole lot going on, a small town Friday night
 Revving up at a red light, on your mark get set go
 Past a mom and pop restaurant
 Same four trucks parked out front
@@ -404,7 +404,7 @@ Why do I hang around
 In this church pew or bar stool kind of town
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"
+", u"
 
 I can hear that rooster crowing down the road,
 I felt my eyes open up real slow
@@ -418,7 +418,7 @@ one more day I'm still here.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"A couple guys in first class on a flight
+", u"A couple guys in first class on a flight
 From new York to Los Angeles,
 Kinda making small talk killing time,
 Flirting with the flight attendants,
@@ -434,7 +434,7 @@ Met the men who plowed that earth,
 Planted that seed, busted his ass for you and me,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Worked all week
+", u"Worked all week
 Cleaned up, clean cut, and clean shaved
 I got the cover off a '68
 Fire it up, and let them horses sing
@@ -456,7 +456,7 @@ Get down in that Georgia clay
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's something about lightnin up a marlboro red
+", u"There's something about lightnin up a marlboro red
 That nicotine rush into my head
 And a taste of southern comfort on my lips
 Tells me I aint ready to quit
@@ -471,7 +471,7 @@ If you think you seen love you aint seen nothing yet
 How could I ever get tired
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I walk a hard line winding road
+", u"I walk a hard line winding road
 Don't really know where it's gonna go
 Seems like trouble's my best friend
 Soon as I get out I'm back in again
@@ -482,7 +482,7 @@ It ain't easy loving me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She was raised up in Jersey
+", u"She was raised up in Jersey
 I said oh Lord have mercy
 Never seen a one light town 'til she moved down here
 She said I'm so bored out of my mind
@@ -501,7 +501,7 @@ Drank muscadine wine
 Just give me a chance to change your mind
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I've beenhere a bunch of times
+", u"I've beenhere a bunch of times
 It all starts with the same old lines
 It's over, Baby it's over
 Nothing 'bout it ever feels good
@@ -518,7 +518,7 @@ That won't stop comin' down
 They won't stop rainin' on down
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"
+", u"
 (Watch ya got)
 
 Quit my job flipped off the boss took my name of the payroll.
@@ -537,7 +537,7 @@ Baby we ain't ever comin' back.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Laughed Until We Cried
+", u"Laughed Until We Cried
 
 Going through my closet the other day
 Found an old yearbook, flipped right to the page
@@ -553,7 +553,7 @@ This past year my family
 Was sittin cross-legged 'round the Christmas tree
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"When the sun slowly chases the moon from the sky
+", u"When the sun slowly chases the moon from the sky
 And touches your face as you open your eyes
 What are you thinking? Do you like what you see?
 Is it all that you dreamed of or do you wish it was me?
@@ -566,7 +566,7 @@ Are you satisfied, baby, or do you wish it was me?
 I know that you did what you thought you should do
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I Use What I Got
+", u"I Use What I Got
 
 Nobody ever thought I'd make it in this town
 They all said i should leave my truck, pack, and turn right back around
@@ -581,7 +581,7 @@ Then I give it some more
 Keep on climbing up that mountain
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Who's Kissing You Tonight
+", u"Who's Kissing You Tonight
 
 I don't think of you every day and night
 I got things to do, yeah I'm doing alright
@@ -591,7 +591,7 @@ Oh I know it's really over and you're never coming back
 And there's no way that I can make it right
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I toss and turn, I'm losing sleep
+", u"I toss and turn, I'm losing sleep
 Can't seem to make any sense of anything
 I keep wandering around in circles, in a daze
 Just when I start awakeneing
@@ -606,7 +606,7 @@ Just like the waves against the sand
 Over and over and time and time again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"My Memory Ain't What It Used To Be
+", u"My Memory Ain't What It Used To Be
 
 It must have been a mountain standing in our way
 Or some small misunderstanding
@@ -622,7 +622,7 @@ It's crazy, but holding you close to me
 Seeing you smile at me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"No
+", u"No
 
 Looking back
 At the dead ends and the detours
@@ -638,7 +638,7 @@ But lying here with you
 Would I change one thing about that road?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"It's two A.M. in my new home this motel room
+", u"It's two A.M. in my new home this motel room
 An ash tray full of lucky strikes
 A half spent case of warm Bud Lite
 Counting regrets... fighting back tears
@@ -651,7 +651,7 @@ Where there's no love left
 It's like tryin to put smoke back in this cigarette
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Pain, It's Only A Little Pain, 
+", u"Pain, It's Only A Little Pain, 
 It'll Be Gone In A Couple Of Days, 
 Maybe A Life Or Two, 
 A Heart, 
@@ -668,7 +668,7 @@ Hey, Hey, Hey
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The corner cafe,
+", u"The corner cafe,
 She scrapes some quarters off the table,
 Says thanks yeah now maybe I'll be able,
 To get that black Mercedes,
@@ -685,7 +685,7 @@ She said this ain't where my road ends
 Chorus
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I can't count the barns I've past
+", u"I can't count the barns I've past
 Painted red, white and black
 See Rock city
 And up ahead there's a turn
@@ -705,7 +705,7 @@ This I gotta see
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Goodbye crack of dawn
+", u"Goodbye crack of dawn
 Goodbye harvester
 Goodbye hello baby
 After a long hard day
@@ -722,7 +722,7 @@ And toughing it out
 Hey, what's past is past
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Roll into town, step off the bus
+", u"Roll into town, step off the bus
 Shake off the where you came from dust
 Grab you guitar, walk down the street
 Sign says Nashville, Tennessee
@@ -740,7 +740,7 @@ We love it, we hate it, we're all just trying to make it
 In this crazy town
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I don't to church enough
+", u"I don't to church enough
 I curse out loud, I drink too much
 I'm more of a sinner than a saint
 
@@ -756,7 +756,7 @@ When I don't know who I am
 Or what I'm supposed to be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You boys ever met a real country girl?
+", u"You boys ever met a real country girl?
 I'm talkin' true blue, out in the woods
 Down home country
 
@@ -778,7 +778,7 @@ Brother she's country
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"On my highway the yellow lines
+", u"On my highway the yellow lines
 Disappear from time to time
 And I wound up on the wrong side of the road
 
@@ -796,7 +796,7 @@ Smiling as I watch the years roll by
 I'm learning how to take it day by day on my highway
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"This life is full of choices
+", u"This life is full of choices
 Hard to make one
 All the voices in my head
 Those blue eyes I'm in love with
@@ -812,7 +812,7 @@ Like a sword with a double edge blade
 It's gonna cut deep either way
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'She had a shiny little Beemer with the rag top down
+", u'She had a shiny little Beemer with the rag top down
 Sittin\' in the drive but she wouldn\'t get out
 The dogs were all barkin\' and waggin\' around
 And I just laughed and said y\'all get in
@@ -830,7 +830,7 @@ Down through the woods and out to the pasture
 Climb up in my lap and drive if you want to
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Tell 'em all I'm on vacation
+', u"Tell 'em all I'm on vacation
 Say I went to visit friends
 That you ain't heard or seen from me in quite a while
 When they ask you where I've been
@@ -847,7 +847,7 @@ Yeah, don't tell 'em all the truth
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You boys ever met a real country girl?
+", u"You boys ever met a real country girl?
 I'm talkin' true blue, out in the woods
 Down home country
 
@@ -869,4 +869,4 @@ Brother she's country
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

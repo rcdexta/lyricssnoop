@@ -17,7 +17,7 @@ I'll stay until the sun comes down, down, down.
 Look over my shoulder,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You seem too good 
+", u"You seem too good 
 Too good to be true
 You're 
 Holding me stronger 
@@ -50,7 +50,7 @@ Don't go out
 With the girls tonight 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Make my house of bricks
+", u"Make my house of bricks
 And I'll stick here when the world
 Comes crashing down around me
 
@@ -74,7 +74,7 @@ Keep your eyes on me
 And I'll look to you so I can see
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tell me, baby is it yes or no?
+", u"Tell me, baby is it yes or no?
 You've got a face that just don't show what's going on inside
 Tell me, I swear I'll take it on the chin
 Don't sugarcoat where I fit in, what's going on?
@@ -85,7 +85,7 @@ Oh, I've got this love for you but what is it for?
 If you can hear me then tell me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You undo me
+", u'You undo me
 I\'m a happy mess
 My dress slips to the floor
 And I pose, what an amateur
@@ -107,7 +107,7 @@ Worlds collide
 I see a side of you
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Sunshine
+', u'Sunshine
 On my shoulders
 Makes me happy
 Sunshine
@@ -134,7 +134,7 @@ On my shoulders
 Makes me happy
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Hot pink skies,
+', u"Hot pink skies,
 Twilight of the day
 I think that I've been going about this
 The wrong way
@@ -148,7 +148,7 @@ Oh time dont blind me
 I am so sorry 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"sweet talker
+", u"sweet talker
 i'm not going to stop you
 you talk so swwet
 it's dribbling like honey
@@ -169,7 +169,7 @@ through your window
 and i'll give you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I survive on hotel shampoos
+", u"I survive on hotel shampoos
 I'll be running out soon
 He's gona away again
 Gone to collect some more
@@ -189,7 +189,7 @@ I don't want to wash my own dishes
 He's gona away again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Sour Candy, endings...
+", u"Sour Candy, endings...
 Coffee stains, where oh I'm so tangled up in my
 Big sunglasses and, bed hungry
 Second day fair
@@ -205,7 +205,7 @@ We went under
 I've been very cautious
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I threw a wish in the well,
+", u'I threw a wish in the well,
 Don\u2019t ask me, I\u2019ll never tell
 I looked to you as it fell,
 and now you\u2019re in my way
@@ -241,7 +241,7 @@ You took your time with the call,
 I took no time with the fall
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'I threw a wish in the well,
+', u'I threw a wish in the well,
 Don\u2019t ask me, I\u2019ll never tell
 I looked to you as it fell,
 and now you\u2019re in my way
@@ -277,7 +277,7 @@ You took your time with the call,
 I took no time with the fall
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Bows and flows of angel hair
+', u'Bows and flows of angel hair
 And ice cream castles in the air
 Feather cannons everywhere
 I\u2019ve looked at clouds that way
@@ -298,4 +298,4 @@ Moons and Junes and ferris wheels
 The dizzy, dancing way you feel
 ...
 
-******* This Lyrics is NOT for Commercial use *******']
+']

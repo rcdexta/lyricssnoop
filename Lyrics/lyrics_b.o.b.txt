@@ -34,7 +34,7 @@ Rack 'em up, knock 'em down, dominoes
 Then I go, as my story goes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Beautiful girls all over the world
+", u"Beautiful girls all over the world
 I could be chasing, but my time would be wasted
 They got nothing on you, baby
 Nothing on you, baby
@@ -65,7 +65,7 @@ And all the bad thoughts, just let them go
 Go, go
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[B.O.B]
+", u"[B.O.B]
 If you asked me what's on my mind you probably won't believe it
 Cause if life was one big pool I'd be in the deep end
 So I play my role and never ever speak it
@@ -100,7 +100,7 @@ Past my shades
 And you can't see past my shades
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can we pretend that airplanes in the night sky are like shooting stars?
+", u"Can we pretend that airplanes in the night sky are like shooting stars?
 I could really use a wish right now, wish right now, wish right now
 Can we pretend that airplanes in the night sky are like shooting stars?
 I could really use a wish right now, wish right now, wish right now
@@ -119,7 +119,7 @@ You get another hand soon after you fold
 And when your plans unravel
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(feat. T.I. & Playboy Tre)
+", u"(feat. T.I. & Playboy Tre)
 
 [Chorus - B.o.B]
 Put me on anything still I bet I bust
@@ -168,7 +168,7 @@ Matter of fact, you can bet I bust
 [Chorus - B.o.B]
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tell me where am I supposed to go
+", u"Tell me where am I supposed to go
 And who am I supposed to believe?
 If only you knew what I knew
 Then you could see just what I see
@@ -198,7 +198,7 @@ How I run, in fact we're all so blind
 If you could open up your eyes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Drug boy said it's show time
+", u"Drug boy said it's show time
 Streets don't give a damn
 They filled with such pollution
 The kids don't stand a chance
@@ -222,7 +222,7 @@ Always in detention for the lack of my attention
 You could call it deficit, really I just didn't listen
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"{Hi, my name is Bob, and I approve this message}
+", u"{Hi, my name is Bob, and I approve this message}
 
 I got the magic in me
 Every time I touch that track
@@ -262,7 +262,7 @@ What's up man, what's happenin'?
 So come one, come all
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Don't you cry, no
+", u"Don't you cry, no
 What about that assent?
 Don't you...
 
@@ -291,7 +291,7 @@ then I go up in the booth where they cage me in
 feel regular then I go insane again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Maybe one day we can go
+", u"Maybe one day we can go
 Hand in hand down a golden road
 And if I get there before you go
 I'll be waiting at your door
@@ -316,7 +316,7 @@ We could float off to space
 Hold my hand, I'll lead the way
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well it was just a dream
+", u"Well it was just a dream
 Just a moment ago
 I was up so high
 Looking down at the sky
@@ -352,7 +352,7 @@ Rack 'em up, knock 'em down, dominoes
 Then I go, as my story goes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Beautiful girls all over the world, I could be chasing
+", u'Beautiful girls all over the world, I could be chasing
 But my time would be wasted, they got nothing on you, baby
 Nothing on you, baby
 They might say hi, and I might say hey
@@ -383,7 +383,7 @@ But my time would be wasted, they got nothing on you, baby
 (no-no-nothing on you, baby, no-no-nothing on you)
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"If you asked me what's on my mind
+', u"If you asked me what's on my mind
 You probably won't believe it
 'Cause if life was one big pool I'd be in the deep end
 So I play my role and never ever speak it, like a secret
@@ -415,7 +415,7 @@ And you can't see past my shades
 Past my shades, past my shades
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can we pretend that airplanes in the night sky are like shooting stars?
+", u"Can we pretend that airplanes in the night sky are like shooting stars?
 I could really use a wish right now, wish right now, wish right now
 Can we pretend that airplanes in the night sky are like shooting stars?
 I could really use a wish right now, wish right now, wish right now
@@ -434,7 +434,7 @@ You get another hand soon after you fold
 And when your plans unravel
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Put me on anything, still I bet I bust
+", u"Put me on anything, still I bet I bust
 Put me anywhere on the map, I bet I bust
 This is what I does, so please don't gas me up
 Matter of fact, gimme 15 minutes and a bag of bud
@@ -479,7 +479,7 @@ Put me anywhere on the map, I bet I bust
 This is what I does, so please don't gas me up
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tell me where am I supposed to go
+", u"Tell me where am I supposed to go
 And who am I supposed to believe?
 If only you knew what I knew
 Then you could see just what I see
@@ -509,7 +509,7 @@ How I run, in fact we're all so blind
 If you could open up your eyes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Drug boy said it's show time
+", u"Drug boy said it's show time
 Streets don't give a damn
 They filled with such pollution
 The kids don't stand a chance
@@ -533,7 +533,7 @@ Always in detention for the lack of my attention
 You could call it deficit, really I just didn't listen
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I got the magic in me
+", u"I got the magic in me
 Every time I touch that track
 It turns into gold
 Everybody knows
@@ -566,7 +566,7 @@ And see the show tonight
 Prepare to be astounded
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Don't you cry, no
+", u"Don't you cry, no
 What about that assent?
 Don't you...
 
@@ -595,7 +595,7 @@ then I go up in the booth where they cage me in
 feel regular then I go insane again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Maybe one day we can go
+", u"Maybe one day we can go
 Hand in hand down a golden road
 And if I get there before you go
 I'll be waiting at your door
@@ -620,7 +620,7 @@ We could float off to space
 Hold my hand, I'll lead the way
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Well it was just a dream
+", u"Well it was just a dream
 Just a moment ago
 I was up so high
 Looking down at the sky
@@ -656,7 +656,7 @@ Rack 'em up, knock 'em down, dominoes
 Then I go, as my story goes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Beautiful girls all over the world
+", u"Beautiful girls all over the world
 I could be chasing, but my time would be wasted
 They got nothing on you, baby
 Nothing on you, baby
@@ -687,7 +687,7 @@ And all the bad thoughts, just let them go
 Go, go
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[B.O.B]
+", u"[B.O.B]
 If you asked me what's on my mind you probably won't believe it
 Cause if life was one big pool I'd be in the deep end
 So I play my role and never ever speak it
@@ -722,7 +722,7 @@ Past my shades
 And you can't see past my shades
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can we pretend that airplanes in the night sky are like shooting stars?
+", u"Can we pretend that airplanes in the night sky are like shooting stars?
 I could really use a wish right now, wish right now, wish right now
 Can we pretend that airplanes in the night sky are like shooting stars?
 I could really use a wish right now, wish right now, wish right now
@@ -741,7 +741,7 @@ You get another hand soon after you fold
 And when your plans unravel
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(feat. T.I. & Playboy Tre)
+", u"(feat. T.I. & Playboy Tre)
 
 [Chorus - B.o.B]
 Put me on anything still I bet I bust
@@ -790,7 +790,7 @@ Matter of fact, you can bet I bust
 [Chorus - B.o.B]
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tell me where am I supposed to go
+", u"Tell me where am I supposed to go
 And who am I supposed to believe?
 If only you knew what I knew
 Then you could see just what I see
@@ -820,7 +820,7 @@ How I run, in fact we're all so blind
 If you could open up your eyes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I, ll be in the sky
+", u"I, ll be in the sky
 I, ll be there
 Ooh all right
 (x2)
@@ -870,7 +870,7 @@ now ima drippin in mo fame,
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Drug boy said it's show time
+", u"Drug boy said it's show time
 Streets don't give a damn
 They filled with such pollution
 The kids don't stand a chance
@@ -894,7 +894,7 @@ Always in detention for the lack of my attention
 You could call it deficit, really I just didn't listen
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"{Hi, my name is Bob, and I approve this message}
+", u"{Hi, my name is Bob, and I approve this message}
 
 I got the magic in me
 Every time I touch that track
@@ -934,7 +934,7 @@ What's up man, what's happenin'?
 So come one, come all
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Don't you cry, no
+", u"Don't you cry, no
 What about that assent?
 Don't you...
 
@@ -963,7 +963,7 @@ then I go up in the booth where they cage me in
 feel regular then I go insane again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Turn your mo' fuckin speakers up
+", u"Turn your mo' fuckin speakers up
 'Cause this Fear Factor 'musin you, bastards
 
 Alright, alright, alright, alright, alright
@@ -997,7 +997,7 @@ Ain't no man gon' celebrate, no
 It's not professional
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Chorus:]
+", u"[Chorus:]
 We got em goin down for the count,
 Lookin at the ground,
 That's why we got haters, that's why we got haters,
@@ -1019,7 +1019,7 @@ But can't speak up whenever you face em,
 That's what you call microphone gangsta,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You know who it is without a doubt of hesitation
+", u'You know who it is without a doubt of hesitation
 If money talks I got my masters in communications
 But you can\u2019t hold a conversation
 Probably find me burning something good you can call that smoking aces
@@ -1048,7 +1048,7 @@ Your face\u2019ll look like Stuarts head
 Girls call me Tre day
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'[Hook: B.o.B.]
+', u'[Hook: B.o.B.]
 If you think that I\u2019m out cold
 If you think that I\u2019ll run
 If you think that it\u2019s over
@@ -1066,7 +1066,7 @@ Yeah, they be the type, constantly in search for beefing
 That\u2019s why on this beat it\u2019s no doubt
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"[Hook] (Roscoe Dash):
+', u"[Hook] (Roscoe Dash):
 I be over here, I be over there
 You be on the outside wishin you were here
 I be at the club, I be at the spot
@@ -1088,7 +1088,7 @@ Authentic Italian linguine, Pasta, no Prego
 Call me luetinet, ridin in a whip windows tinted
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"ahhh x8
+", u"ahhh x8
 
 its been a long time coming and the clocks says it quarter to four,
 i'm feelin like its now or never and your body's tellin me its a go,
@@ -1114,7 +1114,7 @@ thier eyes said to me, systems go,
 its about that time, we should go,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Opening doors like an answer key, I make the life answer to me, no fantasy
+", u"Opening doors like an answer key, I make the life answer to me, no fantasy
 An evil genius, I leave my mark of the beast on the beat
 Actually, I'm all like a natural disaster, I make you a casuality
 Added up, mathematically, putting numbers up, like 23
@@ -1127,7 +1127,7 @@ My life is very impressionable, like a Van Gogh painting be
 Told me Vincent inside the dimension, that's my mantra
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Verse 1:
+", u"Verse 1:
 This is the finish my friend, this is the end
 It's a revolution, it's a civilian revenge
 There's no need to move or adjust your television
@@ -1144,7 +1144,7 @@ You wanted the Benz, but you couldn't afford it
 Now you would kill to put your foot in a Taurus
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"bitches kissing and hugging, niggers tripping and bugging
+", u"bitches kissing and hugging, niggers tripping and bugging
 you watching mine i'm on my grind, and i ain't quitting for nothing
 tell your mothers and uncles, brothers, sisters and cousins
 my flow so nasty deranged, that nigger TIP is disgusting
@@ -1170,7 +1170,7 @@ to live my life you'd have to try to hit the lottery twice
 find it amusing, i'm giggling, at what you made in a year
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"On the battlefield I am the commander in
+", u"On the battlefield I am the commander in
 The war between the worlds, time to wheel the cannons in
 I'm out here salamandering
 They out here slandering
@@ -1193,7 +1193,7 @@ I'm guessing I'm the nigga that they love to hate
 But they still watch a nigga, and they pay attention more!
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Bun B:
+", u"Bun B:
 
 5 on the Kush
 20 on the Drinks
@@ -1215,7 +1215,7 @@ Patron pass to ya
 Top self we toasted
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"How bout we hit the club and walk up straight through vip?
+", u"How bout we hit the club and walk up straight through vip?
 How bout
 How bout we get some Portorican girls and Japanese
 How bout
@@ -1241,7 +1241,7 @@ How bout
 How bout we get some Portorican girls and Japanese
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'[Samples The Beatles \'Elenor Rigby\']:
+", u'[Samples The Beatles \'Elenor Rigby\']:
 "I look at all the lonely people"
 "I look at all the lonely people"
 "I look at all the lonely people"
@@ -1277,7 +1277,7 @@ Where do they all come from?"
 [Samples The Beatles \'Elenor Rigby\']:
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'i just wanna grip your body(body)(go head)
+', u'i just wanna grip your body(body)(go head)
 i jus i jus wanna grip your body(body)
 i jus i jus wanna grip your body
 ijus i jus wanna grip your body(body)
@@ -1312,7 +1312,7 @@ i just wanna grip your body(body)
 i jus i jus wanna grip your body
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"I really don't know how long I've been doing this shit
+', u"I really don't know how long I've been doing this shit
 I guess 2010\u2032s the first year you gave a shit
 I was the underdog, so please excuse me a bit
 I need some space so please someone make me some room in this bitch
@@ -1338,7 +1338,7 @@ So stay meditating so your head is facing into the direction you aim bitch!
 Okay then, know what my name is
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Yes sir is Bobby Ray, aka A. B.O.B. (O)
+", u"Yes sir is Bobby Ray, aka A. B.O.B. (O)
 I can't be eco conscious, I'm always burning trees
 And is there fire, fire, call it that third degree,
 And call me supersonic I shake the earth beneath ya
@@ -1360,7 +1360,7 @@ Got me chasing you to see if I could cop a feel, huh
 I gotta keep it real, kosher, kosher, kosher
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(B.o.B.) cut the check, man
+", u"(B.o.B.) cut the check, man
 Bob how u do that
 How how how u do that
 Bob Bob how u do that
@@ -1401,7 +1401,7 @@ Today's world the craze is
 To make to main page
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Feet don't fail me now
+", u"Feet don't fail me now
 I said feet don't fail me now
 I said feet don't fail me now
 
@@ -1430,7 +1430,7 @@ While these niggas run they mouth
 I'm a run this city so feet don't fail me now
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Chorus:
+", u"Chorus:
 Shoot up the station,
 T.V. station, T.V.
 Shoot up the station,
@@ -1453,7 +1453,7 @@ On your corporate main frame,
 We don't want that watered down,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Chorus - B.o.B]
+", u"[Chorus - B.o.B]
 Just because I'm losing doesn't mean I'm lost
 They gave me nothing but doubt
 First they waited, than they hated, than counted me out
@@ -1477,7 +1477,7 @@ I'm trying to drive straight on a road made of nails
 Yeah, I got to pay the toll if I fail
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'[B.o.B - Verse 1]
+", u'[B.o.B - Verse 1]
 Well me and her were the 2
 me and her were together like glue
 but we lived packed in a shack
@@ -1504,7 +1504,7 @@ you left me cold tonight
 So I went to my girl and said \x93quit playin\x92 and give me the cash\x94
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'[B.o.B]
+', u'[B.o.B]
 Yes, I feel the end, the end is close
 The same thing happened eon\u2019s ago
 To know exactly you have to read up some more
@@ -1526,7 +1526,7 @@ Saying every rapper is in the freemasons
 While the cops giving out free mase to your face
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'[B.o.B - Verse 1]
+', u'[B.o.B - Verse 1]
 Soon as I enter
 you know who it is-a
 it\u2019s the representer from the East side of Atlanta
@@ -1554,7 +1554,7 @@ Every other city we go
 every other city we go
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"As the war between light and darkness continues
+', u"As the war between light and darkness continues
 Heroes and villains become harder to identify
 Kindred spirits separated at birth
 Fighting for their place in time to be solidified
@@ -1585,7 +1585,7 @@ Drink wine out of chalices on Sunday like we Catholics
 And if this is an embassy, consider me ambassador
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You wanna pop bottles until you're on the floor
+", u"You wanna pop bottles until you're on the floor
 Hang with all the models and all the centerfolds
 Showin' off her body, now watch her strike a pose
 Tryin' to get beside me so she can get a hold
@@ -1610,7 +1610,7 @@ Ain't no incidentals
 She want them bands like a freelance parade (All day)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Since day one I said fuck the fame and everything it dealt
+", u"Since day one I said fuck the fame and everything it dealt
 But the fame is really here just to facilitate the wealth
 But the wealth attracts you haters like misquotes to a whale
 And the waters getting deeper so I must set out to sail
@@ -1629,7 +1629,7 @@ I've seen the mountains, a wild childhood
 That's why I sing about it
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'
+", u'
 I wish I was strong enough to lift not one but both us
 Someday I will be strong enough to lift not one but both of us
 
@@ -1654,7 +1654,7 @@ Why so shallow, I\u2019m just asking
 What\u2019s the pattern to the madness?
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Well, if you guessin\u2019 it\u2019s me, you guessed correctly
+', u'Well, if you guessin\u2019 it\u2019s me, you guessed correctly
 I just stay with a stallion, you would swear I was an equestrian
 I hit her with that pipe, call that Nancy Kerrigan
 Stay on the greenest greens, call us vegetarians
@@ -1684,7 +1684,7 @@ And all we do it light it up
 All night, all you see is strange clouds
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Drinking a German beer with a Cuban cigar
+', u"Drinking a German beer with a Cuban cigar
 In the middle of Paris with a Dominican bar
 Great head on her shoulders, she probably studied abroad
 She transfered to Albert, and king's college in march
@@ -1717,7 +1717,7 @@ Five hour late, over from Norway to Egypt
 Until the point like the pyramids of Giza 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'How much must I repeat?
+", u'How much must I repeat?
 We only play for keeps
 No time-outs, no free throws
 No refs, no penalties
@@ -1744,7 +1744,7 @@ Better do your research
 Feeling like I fell out of the sky and landed feet first
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"If anybody feeling fresh in the building
+', u"If anybody feeling fresh in the building
 Take your hand, hold it high to the ceiling right now
 And say damn I'm killing them, damn I'm killing them
 I know they feeling me now
@@ -1778,7 +1778,7 @@ Take your hand, hold it high to the ceiling right now
 And say damn I'm killing them, damn I'm killing them
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm, I'm, I'm, I'm
+", u"I'm, I'm, I'm, I'm
 I'm out of my, out of my mind
 Out of my fucking mind
 I'm, I'm
@@ -1824,7 +1824,7 @@ I'm, I'm, I'm
 I'm out of my, out of my mind (Mind, mind, mind, mind)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"They can take these clothes offExplain my back
+", u"They can take these clothes offExplain my back
 They can take my money
 Don't care about that
 They can\u2019t take my words
@@ -1861,7 +1861,7 @@ Only thing I know, is I'll never let you go
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Let them hate cause I\u2019m straight
+", u'Let them hate cause I\u2019m straight
 I be balling on these niggas, all day, all day
 They gonn have to call a nigga, MJ, MJ
 I will be balling on these niggers, all day, all day
@@ -1893,7 +1893,7 @@ And you don\u2019t even know when it\u2019s dropped
 And you don\u2019t even know what I\u2019m bout
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"As the war between light and darkness continues
+', u"As the war between light and darkness continues
 Heroes and villains become harder to identify
 Kindred spirits separated at birth
 Fighting for their place in time to be solidified
@@ -1924,7 +1924,7 @@ Drink wine out of chalices on Sunday like we Catholics
 And if this is an embassy, consider me ambassador
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'(Yeah)
+", u'(Yeah)
 (ladies and ladies this yo jam)
 
 Don\u2019t stop it
@@ -1961,7 +1961,7 @@ She\u2019s that rasta, she\u2019s on that vodka,
 That things a monster i call that chewbacca
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"You wanna pop bottles until you're on the floor
+', u"You wanna pop bottles until you're on the floor
 Hang with all the models and all the centerfolds
 Showin' off her body, now watch her strike a pose
 Tryin' to get beside me so she can get a hold
@@ -1986,7 +1986,7 @@ Ain't no incidentals
 She want them bands like a freelance parade (All day)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"ahhh x8
+", u"ahhh x8
 
 its been a long time coming and the clocks says it quarter to four,
 i'm feelin like its now or never and your body's tellin me its a go,
@@ -2012,7 +2012,7 @@ thier eyes said to me, systems go,
 its about that time, we should go,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Since day one I said fuck the fame and everything it dealt
+", u"Since day one I said fuck the fame and everything it dealt
 But the fame is really here just to facilitate the wealth
 But the wealth attracts you haters like misquotes to a whale
 And the waters getting deeper so I must set out to sail
@@ -2031,7 +2031,7 @@ I've seen the mountains, a wild childhood
 That's why I sing about it
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Hook] (Roscoe Dash):
+", u"[Hook] (Roscoe Dash):
 I be over here, I be over there
 You be on the outside wishin you were here
 I be at the club, I be at the spot
@@ -2053,7 +2053,7 @@ Authentic Italian linguine, Pasta, no Prego
 Call me luetinet, ridin in a whip windows tinted
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'
+", u'
 I wish I was strong enough to lift not one but both us
 Someday I will be strong enough to lift not one but both of us
 
@@ -2078,7 +2078,7 @@ Why so shallow, I\u2019m just asking
 What\u2019s the pattern to the madness?
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You are so professional
+', u'You are so professional
 Working 9 to 5
 Try to make a revenue
 Standing five for five
@@ -2104,7 +2104,7 @@ Try to make a revenue
 Standing five for five
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Well, if you guessin\u2019 it\u2019s me, you guessed correctly
+', u'Well, if you guessin\u2019 it\u2019s me, you guessed correctly
 I just stay with a stallion, you would swear I was an equestrian
 I hit her with that pipe, call that Nancy Kerrigan
 Stay on the greenest greens, call us vegetarians
@@ -2134,7 +2134,7 @@ And all we do it light it up
 All night, all you see is strange clouds
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"As the war between light and darkness continues
+', u"As the war between light and darkness continues
 Heroes and villains become harder to identify
 Kindred spirits separated at birth
 Fighting for their place in time to be solidified
@@ -2165,7 +2165,7 @@ Drink wine out of chalices on Sunday like we Catholics
 And if this is an embassy, consider me ambassador
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You wanna pop bottles until you're on the floor
+", u"You wanna pop bottles until you're on the floor
 Hang with all the models and all the centerfolds
 Showin' off her body, now watch her strike a pose
 Tryin' to get beside me so she can get a hold
@@ -2190,7 +2190,7 @@ Ain't no incidentals
 She want them bands like a freelance parade (All day)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Since day one I said fuck the fame and everything it dealt
+", u"Since day one I said fuck the fame and everything it dealt
 But the fame is really here just to facilitate the wealth
 But the wealth attracts you haters like misquotes to a whale
 And the waters getting deeper so I must set out to sail
@@ -2209,7 +2209,7 @@ I've seen the mountains, a wild childhood
 That's why I sing about it
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'
+", u'
 I wish I was strong enough to lift not one but both us
 Someday I will be strong enough to lift not one but both of us
 
@@ -2234,7 +2234,7 @@ Why so shallow, I\u2019m just asking
 What\u2019s the pattern to the madness?
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Well, if you guessin\u2019 it\u2019s me, you guessed correctly
+', u'Well, if you guessin\u2019 it\u2019s me, you guessed correctly
 I just stay with a stallion, you would swear I was an equestrian
 I hit her with that pipe, call that Nancy Kerrigan
 Stay on the greenest greens, call us vegetarians
@@ -2264,7 +2264,7 @@ And all we do it light it up
 All night, all you see is strange clouds
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Drinking a German beer with a Cuban cigar
+', u"Drinking a German beer with a Cuban cigar
 In the middle of Paris with a Dominican bar
 Great head on her shoulders, she probably studied abroad
 She transfered to Albert, and king's college in march
@@ -2297,7 +2297,7 @@ Five hour late, over from Norway to Egypt
 Until the point like the pyramids of Giza 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'How much must I repeat?
+", u'How much must I repeat?
 We only play for keeps
 No time-outs, no free throws
 No refs, no penalties
@@ -2324,7 +2324,7 @@ Better do your research
 Feeling like I fell out of the sky and landed feet first
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"If anybody feeling fresh in the building
+', u"If anybody feeling fresh in the building
 Take your hand, hold it high to the ceiling right now
 And say damn I'm killing them, damn I'm killing them
 I know they feeling me now
@@ -2358,7 +2358,7 @@ Take your hand, hold it high to the ceiling right now
 And say damn I'm killing them, damn I'm killing them
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm, I'm, I'm, I'm
+", u"I'm, I'm, I'm, I'm
 I'm out of my, out of my mind
 Out of my fucking mind
 I'm, I'm
@@ -2404,7 +2404,7 @@ I'm, I'm, I'm
 I'm out of my, out of my mind (Mind, mind, mind, mind)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"They can take these clothes offExplain my back
+", u"They can take these clothes offExplain my back
 They can take my money
 Don't care about that
 They can\u2019t take my words
@@ -2441,4 +2441,4 @@ Only thing I know, is I'll never let you go
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

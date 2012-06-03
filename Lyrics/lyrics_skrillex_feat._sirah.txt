@@ -61,7 +61,7 @@ On the weekends
 I think
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'I think
+', u'I think
 You
 I think
 You
@@ -124,4 +124,4 @@ On the weekends
 I think
 ...
 
-******* This Lyrics is NOT for Commercial use *******']
+']

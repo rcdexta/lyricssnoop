@@ -22,7 +22,7 @@ About Midnight
 He Tells Her
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Down a back road
+", u"Down a back road
 Long hot summer
 A couple kids running loose and wild
 He kissed her
@@ -46,7 +46,7 @@ About Midnight
 He Tells Her
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I dropped you off
+", u'I dropped you off
 Just a little after midnight
 Sat in my car
 Till you turned off your porch light
@@ -66,7 +66,7 @@ And I kissed you
 Goodnight
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Well, I've been watching you, girl
+', u"Well, I've been watching you, girl
 The way you move got the room on fire
 Oh, yeah, rock my world
 Wanna take you home with me
@@ -90,4 +90,4 @@ Can't you see? I wanna take you home with me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

@@ -13,7 +13,7 @@ With an ice cold beer pressed against her lips
 In that farmer's field, will make a boy a man
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey pretty girl, won't you look my way
+", u"Hey pretty girl, won't you look my way
 Love's in the air tonight
 Bet you could make this ol' boy stay
 Hey pretty girl, won't you look my way
@@ -29,7 +29,7 @@ Hey pretty girl, it feels so right
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Something about a truck in a farmer's field
+", u"Something about a truck in a farmer's field
 A no trespass sign, you got time to kill
 Nobody's gonna get hurt, so what's the big deal
 Something about a truck in a farmer's field
@@ -44,7 +44,7 @@ With an ice cold beer pressed against her lips
 In that farmer's field, will make a boy a man
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey pretty girl, won't you look my way
+", u"Hey pretty girl, won't you look my way
 Love's in the air tonight
 Bet you could make this ol' boy stay
 Hey pretty girl, won't you look my way
@@ -60,7 +60,7 @@ Hey pretty girl, it feels so right
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Something about a truck in a farmer's field
+", u"Something about a truck in a farmer's field
 A no trespass sign, you got time to kill
 Nobody's gonna get hurt, so what's the big deal
 Something about a truck in a farmer's field
@@ -75,4 +75,4 @@ With an ice cold beer pressed against her lips
 In that farmer's field, will make a boy a man
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

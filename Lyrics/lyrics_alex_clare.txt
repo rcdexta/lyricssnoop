@@ -21,7 +21,7 @@ We gonna end up in the morning
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"My heart just sank the moment I saw you
+", u"My heart just sank the moment I saw you
 You're the image of a girl that I used to know
 Don't be alarmed if it seems hard for me to explain
 But every detail of your face makes me recall her name
@@ -33,7 +33,7 @@ I'm sure I'll fuck things up in the same way
 Maybe it's another chance to mug myself again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Relax my beloved, don't worry for me
+", u"Relax my beloved, don't worry for me
 Don't shed a tear for me, always be near for me
 Be comforted my love, don't bow you head for me
 Promise you'll smile for me, don't ever cry for me
@@ -45,7 +45,7 @@ Than you'd imagine me to
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You know I\u2019m not one to break promises
+", u'You know I\u2019m not one to break promises
 I don\u2019t want to hurt you but I need to breathe
 At the end of it all, you\u2019re still my best friend
 But there\u2019s something inside that I need to release
@@ -61,7 +61,7 @@ And it feels like I am just too close to love you
 So I\u2019ll be on my way
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Dig if you will the picture
+', u"Dig if you will the picture
 Of you and I engaged in a kiss
 The sweat of your body covers me
 Can you my darling
@@ -83,7 +83,7 @@ Why do we scream at each other
 This is what it sounds like
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Like a hummingbird in flight you are
+", u"Like a hummingbird in flight you are
 Hovering, hovering near me
 As I would need you to fly away, don't fly away
 What can I say? You have to wait
@@ -92,7 +92,7 @@ I know that there's nowhere else you'd rather be
 It seems so clear I know it true
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Care about no history
+", u"Care about no history
 I just wanna go and raise a family with you
 raise 'em true, raise 'em properly
 I'm built for cover do it built for speed
@@ -114,7 +114,7 @@ like old brand whiskey and chicken wings
 See that's a promise I can keep
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Life's a tightrope,
+", u"Life's a tightrope,
 and your standing on one toe,
 Don't let the fear take hold of you,
 your bound to fall to the ground below,
@@ -133,7 +133,7 @@ just go,
 keep on rowing on,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Whispering, whispering, whispering, whispering
+", u'Whispering, whispering, whispering, whispering
 As I pass myself down to my knees
 Whispering, whispering, whispering, whispering
 As I fall through the willow trees, and I said
@@ -147,7 +147,7 @@ Who will care for the fallen?
 Autumn shades, calm my shaking hands,
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Though I left you there sleeping
+', u'Though I left you there sleeping
 No I dare not say a word
 Silently weeping
 Knowing what I heard
@@ -157,7 +157,7 @@ My tongue always got it wrong
 Hoping that you knew all along
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Waking up in someone else's bed
+', u"Waking up in someone else's bed
 Was what I was waiting for
 Oh my days, what have I done
 She saw me sneaking out the door
@@ -180,7 +180,7 @@ We gonna end up in the morning
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"My heart just sank the moment I saw you
+", u"My heart just sank the moment I saw you
 You're the image of a girl that I used to know
 Don't be alarmed if it seems hard for me to explain
 But every detail of your face makes me recall her name
@@ -192,7 +192,7 @@ I'm sure I'll fuck things up in the same way
 Maybe it's another chance to mug myself again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Relax my beloved, don't worry for me
+", u"Relax my beloved, don't worry for me
 Don't shed a tear for me, always be near for me
 Be comforted my love, don't bow you head for me
 Promise you'll smile for me, don't ever cry for me
@@ -204,7 +204,7 @@ Than you'd imagine me to
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You know I\u2019m not one to break promises
+", u'You know I\u2019m not one to break promises
 I don\u2019t want to hurt you but I need to breathe
 At the end of it all, you\u2019re still my best friend
 But there\u2019s something inside that I need to release
@@ -220,7 +220,7 @@ And it feels like I am just too close to love you
 So I\u2019ll be on my way
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Dig if you will the picture
+', u"Dig if you will the picture
 Of you and I engaged in a kiss
 The sweat of your body covers me
 Can you my darling
@@ -242,7 +242,7 @@ Why do we scream at each other
 This is what it sounds like
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Like a hummingbird in flight you are
+", u"Like a hummingbird in flight you are
 Hovering, hovering near me
 As I would need you to fly away, don't fly away
 What can I say? You have to wait
@@ -251,7 +251,7 @@ I know that there's nowhere else you'd rather be
 It seems so clear I know it true
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Care about no history
+", u"Care about no history
 I just wanna go and raise a family with you
 raise 'em true, raise 'em properly
 I'm built for cover do it built for speed
@@ -273,7 +273,7 @@ like old brand whiskey and chicken wings
 See that's a promise I can keep
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Life's a tightrope,
+", u"Life's a tightrope,
 and your standing on one toe,
 Don't let the fear take hold of you,
 your bound to fall to the ground below,
@@ -292,7 +292,7 @@ just go,
 keep on rowing on,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Whispering, whispering, whispering, whispering
+", u'Whispering, whispering, whispering, whispering
 As I pass myself down to my knees
 Whispering, whispering, whispering, whispering
 As I fall through the willow trees, and I said
@@ -306,7 +306,7 @@ Who will care for the fallen?
 Autumn shades, calm my shaking hands,
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Though I left you there sleeping
+', u'Though I left you there sleeping
 No I dare not say a word
 Silently weeping
 Knowing what I heard
@@ -316,7 +316,7 @@ My tongue always got it wrong
 Hoping that you knew all along
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You know I\u2019m not one to break promises
+', u'You know I\u2019m not one to break promises
 I don\u2019t want to hurt you but I need to breathe
 At the end of it all, you\u2019re still my best friend
 But there\u2019s something inside that I need to release
@@ -332,7 +332,7 @@ And it feels like I am just too close to love you
 So I\u2019ll be on my way
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"You know I'm not one to break promises
+', u"You know I'm not one to break promises
 I don't want to hurt you but I need to breathe
 At the end of it all, you're still my best friend
 But there's something inside that I need to release
@@ -348,7 +348,7 @@ And it feels like I am just too close to love you
 So I'll be on my way
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"My heart just sank the moment I saw you
+", u"My heart just sank the moment I saw you
 You're the image of a girl that I used to know
 Don't be alarmed if it seems hard for me to explain
 But every detail of your face makes me recall her name
@@ -360,7 +360,7 @@ I'm sure I'll fuck things up in the same way
 Maybe it's another chance to mug myself again
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Waking up in someone else's bed
+", u"Waking up in someone else's bed
 Was what I was waiting for
 Oh my days, what have I done
 She saw me sneaking out the door
@@ -383,4 +383,4 @@ We gonna end up in the morning
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

@@ -31,7 +31,7 @@ I got the moves like jagger
 I got the mooooooves like jagger
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You shoot for the stars
+', u'You shoot for the stars
 If it feels right
 And in for my heart
 If you feel like
@@ -64,7 +64,7 @@ I got the moves like jagger
 I got the mooooooves like jagger
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You shoot for the stars
+', u'You shoot for the stars
 If it feels right
 And in for my heart
 If you feel like
@@ -97,7 +97,7 @@ I got the moves like jagger
 I got the mooooooves like jagger
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You shoot for the stars
+', u'You shoot for the stars
 If it feels right
 And in for my heart
 If you feel like
@@ -130,7 +130,7 @@ I got the moves like jagger
 I got the mooooooves like jagger
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You shoot for the stars
+', u'You shoot for the stars
 If it feels right
 And in for my heart
 If you feel like
@@ -163,7 +163,7 @@ I got the moves like jagger
 I got the mooooooves like jagger
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You shoot for the stars
+', u'You shoot for the stars
 If it feels right
 And in for my heart
 If you feel like
@@ -196,7 +196,7 @@ I got the moves like jagger
 I got the mooooooves like jagger
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You shoot for the stars
+', u'You shoot for the stars
 If it feels right
 And in for my heart
 If you feel like
@@ -229,7 +229,7 @@ I got the moves like jagger
 I got the mooooooves like jagger
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You shoot for the stars
+', u'You shoot for the stars
 If it feels right
 And in for my heart
 If you feel like
@@ -262,4 +262,4 @@ I got the moves like jagger
 I got the mooooooves like jagger
 ...
 
-******* This Lyrics is NOT for Commercial use *******']
+']

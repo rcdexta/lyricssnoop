@@ -15,7 +15,7 @@ They're all spies
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Bones sinkin' like stones
+", u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -26,7 +26,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I wanna be bigger, stronger
+", u'I wanna be bigger, stronger
 Drive a faster car
 To take me anywhere in seconds
 To take me anywhere I wanna go
@@ -43,7 +43,7 @@ And drive around my faster car
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Can anybody fly this thing
+', u"Can anybody fly this thing
 Before my head explodes or my head starts to ring?
 We've been living life inside a bubble
 We've been living life inside a bubble
@@ -52,7 +52,7 @@ Confidence in you is confidence in me
 Is confidence in high speed
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I look in your direction
+", u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -74,7 +74,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, I see
+", u"Oh no, I see
 A spider web is tangled up with me
 And I lost my head
 The thought of all the stupid things I'd said
@@ -85,7 +85,7 @@ So I turned to run
 The thought of all the stupid things I'd done
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Look at the stars
+", u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -103,7 +103,7 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"And when I counted up my demons
+', u"And when I counted up my demons
 Saw there was one for every day
 With the good ones on my shoulders
 I send the other ones away
@@ -139,7 +139,7 @@ Oh oh yeah
 Come on, yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Look at the stars
+", u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -157,7 +157,7 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Bones sinkin' like stones
+', u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -168,7 +168,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I awake to find no peace of mind
+", u"I awake to find no peace of mind
 I said how do you live
 As a fugitive?
 Down here, where I cannot see so clear
@@ -185,7 +185,7 @@ They're all spies
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I wanna be bigger, stronger
+", u'I wanna be bigger, stronger
 Drive a faster car
 To take me anywhere in seconds
 To take me anywhere I wanna go
@@ -202,7 +202,7 @@ And drive around my faster car
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Bones sinkin' like stones
+', u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -213,7 +213,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can anybody fly this thing
+", u"Can anybody fly this thing
 Before my head explodes or my head starts to ring?
 We've been living life inside a bubble
 We've been living life inside a bubble
@@ -222,7 +222,7 @@ Confidence in you is confidence in me
 Is confidence in high speed
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Look at the stars
+", u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -240,7 +240,7 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Oh no, I see
+', u"Oh no, I see
 A spider web is tangled up with me
 And I lost my head
 The thought of all the stupid things I'd said
@@ -251,7 +251,7 @@ So I turned to run
 The thought of all the stupid things I'd done
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I look in your direction
+", u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -273,7 +273,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I want to live life, and never be cruel
+", u'I want to live life, and never be cruel
 And I want to live life, and be good to you,
 And I want to fly, and never come down,
 And live my life, and have friends around
@@ -285,7 +285,7 @@ So I want to live in a wooden house
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"And when I counted up my demons
+', u"And when I counted up my demons
 Saw there was one for every day
 With the good ones on my shoulders
 I send the other ones away
@@ -321,7 +321,7 @@ Oh oh yeah
 Come on, yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You only live twice
+", u"You only live twice
 Or so it seems
 One life for yourself
 And one for your dreams
@@ -333,7 +333,7 @@ And love is it's name
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I awake to find no peace of mind
+", u"I awake to find no peace of mind
 I said how do you live
 As a fugitive?
 Down here, where I cannot see so clear
@@ -350,7 +350,7 @@ They're all spies
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, I see
+", u"Oh no, I see
 A spider web is tangled up with me
 And I lost my head
 The thought of all the stupid things I'd said
@@ -361,7 +361,7 @@ So I turned to run
 The thought of all the stupid things I'd done
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I wanna be bigger, stronger
+", u'I wanna be bigger, stronger
 Drive a faster car
 To take me anywhere in seconds
 To take me anywhere I wanna go
@@ -378,7 +378,7 @@ And drive around my faster car
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Can anybody fly this thing
+', u"Can anybody fly this thing
 Before my head explodes or my head starts to ring?
 We've been living life inside a bubble
 We've been living life inside a bubble
@@ -387,7 +387,7 @@ Confidence in you is confidence in me
 Is confidence in high speed
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I look in your direction
+", u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -409,7 +409,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Did I drive you away?
+", u'Did I drive you away?
 I know what you\'ll say
 You\'ll say, "Oh, sing one we know"
 
@@ -422,7 +422,7 @@ I say "Oh"
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Bones sinkin' like stones
+', u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -433,7 +433,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Look at the stars
+", u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -451,7 +451,7 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"(Yellow EP)
+', u"(Yellow EP)
 
 Stuck here, in the middle of nowhere,
 With a head ache, and a heavy heart,
@@ -461,7 +461,7 @@ Oh come on, come on,
 Oh what a state I'm in,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"And when I counted up my demons
+", u"And when I counted up my demons
 Saw there was one for every day
 With the good ones on my shoulders
 I send the other ones away
@@ -497,7 +497,7 @@ Oh oh yeah
 Come on, yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, I see
+", u"Oh no, I see
 A spider web is tangled up with me
 And I lost my head
 The thought of all the stupid things I'd said
@@ -508,7 +508,7 @@ So I turned to run
 The thought of all the stupid things I'd done
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can anybody fly this thing
+", u"Can anybody fly this thing
 Before my head explodes or my head starts to ring?
 We've been living life inside a bubble
 We've been living life inside a bubble
@@ -517,7 +517,7 @@ Confidence in you is confidence in me
 Is confidence in high speed
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I wanna be bigger, stronger
+", u'I wanna be bigger, stronger
 Drive a faster car
 To take me anywhere in seconds
 To take me anywhere I wanna go
@@ -534,7 +534,7 @@ And drive around my faster car
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"So I look in your direction
+', u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -556,7 +556,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Animals we are,
+", u'Animals we are,
 Disposable
 Collapsable and raw
 In you go,
@@ -580,7 +580,7 @@ Because I\'m scared
 If you\'re gonna go, go now
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Did I drive you away?
+', u'Did I drive you away?
 I know what you\'ll say
 You\'ll say, "Oh, sing one we know"
 
@@ -593,7 +593,7 @@ I say "Oh"
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Bones sinkin' like stones
+', u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -604,7 +604,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Look at the stars
+", u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -622,7 +622,7 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"And when I counted up my demons
+', u"And when I counted up my demons
 Saw there was one for every day
 With the good ones on my shoulders
 I send the other ones away
@@ -658,7 +658,7 @@ Oh oh yeah
 Come on, yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I want to live life, and never be cruel
+", u'I want to live life, and never be cruel
 And I want to live life, and be good to you,
 And I want to fly, and never come down,
 And live my life, and have friends around
@@ -670,7 +670,7 @@ So I want to live in a wooden house
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"I awake to find no peace of mind
+', u"I awake to find no peace of mind
 I said how do you live
 As a fugitive?
 Down here, where I cannot see so clear
@@ -687,7 +687,7 @@ They're all spies
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, I see
+", u"Oh no, I see
 A spider web is tangled up with me
 And I lost my head
 The thought of all the stupid things I'd said
@@ -698,7 +698,7 @@ So I turned to run
 The thought of all the stupid things I'd done
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I look in your direction
+", u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -720,7 +720,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can anybody fly this thing
+", u"Can anybody fly this thing
 Before my head explodes or my head starts to ring?
 We've been living life inside a bubble
 We've been living life inside a bubble
@@ -729,7 +729,7 @@ Confidence in you is confidence in me
 Is confidence in high speed
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Bones sinkin' like stones
+", u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -740,7 +740,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Animals we are,
+", u'Animals we are,
 Disposable
 Collapsable and raw
 In you go,
@@ -764,7 +764,7 @@ Because I\'m scared
 If you\'re gonna go, go now
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Did I drive you away?
+', u'Did I drive you away?
 I know what you\'ll say
 You\'ll say, "Oh, sing one we know"
 
@@ -777,7 +777,7 @@ I say "Oh"
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'Look at the stars
+', u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -795,7 +795,7 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"And when I counted up my demons
+', u"And when I counted up my demons
 Saw there was one for every day
 With the good ones on my shoulders
 I send the other ones away
@@ -831,7 +831,7 @@ Oh oh yeah
 Come on, yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"In my place, in my place
+", u"In my place, in my place
 Were lines that I couldn't change
 I was lost
 Oh yeah
@@ -849,7 +849,7 @@ Yeah
 How long must you wait for it?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Bones sinkin' like stones
+", u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -860,7 +860,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I look in your direction
+", u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -882,7 +882,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can anybody fly this thing
+", u"Can anybody fly this thing
 Before my head explodes or my head starts to ring?
 We've been living life inside a bubble
 We've been living life inside a bubble
@@ -891,7 +891,7 @@ Confidence in you is confidence in me
 Is confidence in high speed
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Look at the stars
+", u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -909,12 +909,12 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"So I heard you say,
+', u"So I heard you say,
 I got your getaway.
 I'm on a second trail,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, I see
+", u"Oh no, I see
 A spider web is tangled up with me
 And I lost my head
 The thought of all the stupid things I'd said
@@ -925,7 +925,7 @@ So I turned to run
 The thought of all the stupid things I'd done
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I want to live life, and never be cruel
+", u'I want to live life, and never be cruel
 And I want to live life, and be good to you,
 And I want to fly, and never come down,
 And live my life, and have friends around
@@ -937,7 +937,7 @@ So I want to live in a wooden house
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"So I look in your direction
+', u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -959,7 +959,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I awake to find no peace of mind
+", u"I awake to find no peace of mind
 I said how do you live
 As a fugitive?
 Down here, where I cannot see so clear
@@ -976,7 +976,7 @@ They're all spies
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, I see
+", u"Oh no, I see
 A spider web is tangled up with me
 And I lost my head
 The thought of all the stupid things I'd said
@@ -987,7 +987,7 @@ So I turned to run
 The thought of all the stupid things I'd done
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Bones sinkin' like stones
+", u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -998,7 +998,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"And when I counted up my demons
+", u"And when I counted up my demons
 Saw there was one for every day
 With the good ones on my shoulders
 I send the other ones away
@@ -1034,7 +1034,7 @@ Oh oh yeah
 Come on, yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So you lost your trust
+", u"So you lost your trust
 And you never should have
 And you never should have
 But don't break your back
@@ -1048,7 +1048,7 @@ I'll see you soon.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Where do we go, nobody knows
+", u"Where do we go, nobody knows
 I've gotta say I'm on my way down
 God give me style and give me grace
 God put a smile upon my face
@@ -1060,7 +1060,7 @@ Now when you work it out I'm worse than you
 Yeah, when you work it out, I want it too
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Look at the stars
+", u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -1078,7 +1078,7 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"In my place, in my place
+', u"In my place, in my place
 Were lines that I couldn't change
 I was lost
 Oh yeah
@@ -1096,7 +1096,7 @@ Yeah
 How long must you wait for it?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Look at earth from outer space
+", u"Look at earth from outer space
 Everyone must find a place
 Give me time and give me space
 Give me real, don't give me fake
@@ -1109,7 +1109,7 @@ And tell me your own politik
 Open up your eyes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I look in your direction
+", u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -1131,7 +1131,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I awake to find no peace of mind
+", u"I awake to find no peace of mind
 I said how do you live
 As a fugitive?
 Down here, where I cannot see so clear
@@ -1148,7 +1148,7 @@ They're all spies
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'To my surprise
+", u'To my surprise
 And my delight
 I saw a sunrise
 I saw a sunlight
@@ -1161,7 +1161,7 @@ To show the daylight
 Oooh and the sunshine
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Oh no, I see
+', u"Oh no, I see
 A spider web is tangled up with me
 And I lost my head
 The thought of all the stupid things I'd said
@@ -1172,7 +1172,7 @@ So I turned to run
 The thought of all the stupid things I'd done
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Bones sinkin' like stones
+", u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -1183,7 +1183,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"And when I counted up my demons
+", u"And when I counted up my demons
 Saw there was one for every day
 With the good ones on my shoulders
 I send the other ones away
@@ -1219,7 +1219,7 @@ Oh oh yeah
 Come on, yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Where do we go, nobody knows
+", u"Where do we go, nobody knows
 I've gotta say I'm on my way down
 God give me style and give me grace
 God put a smile upon my face
@@ -1234,7 +1234,7 @@ Yeah, when you work it out, I want it too
 Now when you work out where to draw the line
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Look at the stars
+", u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -1252,7 +1252,7 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Come up to meet you, tell you I'm sorry
+', u"Come up to meet you, tell you I'm sorry
 You don't know how lovely you are
 I had to find you, tell you I need you
 Tell you I set you apart
@@ -1266,7 +1266,7 @@ Nobody said it was easy
 It's such a shame for us to part
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Look at earth from outer space
+", u"Look at earth from outer space
 Everyone must find a place
 Give me time and give me space
 Give me real, don't give me fake
@@ -1279,7 +1279,7 @@ And tell me your own politik
 Open up your eyes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I look in your direction
+", u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -1301,7 +1301,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, I see
+", u"Oh no, I see
 A spider web is tangled up with me
 And I lost my head
 The thought of all the stupid things I'd said
@@ -1312,7 +1312,7 @@ So I turned to run
 The thought of all the stupid things I'd done
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Bones sinkin' like stones
+", u"Bones sinkin' like stones
 All that we've fought for
 All these places we've grown
 All of us are done for
@@ -1323,7 +1323,7 @@ We live in a beautiful world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"In my place, in my place
+", u"In my place, in my place
 Were lines that I couldn't change
 I was lost
 Oh yeah
@@ -1341,7 +1341,7 @@ Yeah
 How long must you wait for it?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Where do we go, nobody knows
+", u"Where do we go, nobody knows
 I've gotta say I'm on my way down
 God give me style and give me grace
 God put a smile upon my face
@@ -1356,7 +1356,7 @@ Yeah, when you work it out, I want it too
 Now when you work out where to draw the line
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Look at the stars
+", u'Look at the stars
 Look how they shine for you
 And everything you do
 Yeah, they were all yellow
@@ -1374,7 +1374,7 @@ Your skin
 Oh, yeah, your skin and bones
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Come up to meet you, tell you I'm sorry
+', u"Come up to meet you, tell you I'm sorry
 You don't know how lovely you are
 I had to find you, tell you I need you
 Tell you I set you apart
@@ -1388,7 +1388,7 @@ Nobody said it was easy
 It's such a shame for us to part
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The lights go out and I can't be saved
+", u"The lights go out and I can't be saved
 Tides that I tried to swim against
 You've put me down upon my knees
 Oh, I beg, I beg and plead, singing
@@ -1404,7 +1404,7 @@ You are
 Confusion never stops
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Look at earth from outer space
+", u"Look at earth from outer space
 Everyone must find a place
 Give me time and give me space
 Give me real, don't give me fake
@@ -1417,7 +1417,7 @@ And tell me your own politik
 Open up your eyes
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"In my place, in my place
+", u"In my place, in my place
 Were lines that I couldn't change
 I was lost
 Oh yeah
@@ -1435,7 +1435,7 @@ Yeah
 How long must you wait for it?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I look in your direction
+", u"So I look in your direction
 But you pay me no attention, do you?
 I know you don't listen to me
 'Cause you say you see straight through me
@@ -1457,7 +1457,7 @@ And I wanted to say
 Don't you shiver
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Now I never meant,
+", u"Now I never meant,
 To do you wrong,
 That's what I came here to say.
 
@@ -1466,7 +1466,7 @@ Then I'm sorry,
 I don't let it stand in our way.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I awake to find no peace of mind
+", u"I awake to find no peace of mind
 I said how do you live
 As a fugitive?
 Down here, where I cannot see so clear
@@ -1483,7 +1483,7 @@ They're all spies
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'To my surprise
+", u'To my surprise
 And my delight
 I saw a sunrise
 I saw a sunlight
@@ -1496,4 +1496,4 @@ To show the daylight
 Oooh and the sunshine
 ...
 
-******* This Lyrics is NOT for Commercial use *******']
+']

@@ -10,7 +10,7 @@ And I won't change my mind
 No, I'll see you through
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'
+", u'
 Everybody down in Huston calls him "Texas".
 Everybody way up North calls him "Cornbread".
 You shoulda heard the way that his momma called him "baby",
@@ -24,7 +24,7 @@ I shoulda just called him "Whiskey".
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Out of all the places in this little town
+', u"Out of all the places in this little town
 Yeah you had to come walking in here and sit down
 I'm hiding and hoping my face ain't to red
 Since we been over been trying like crazy to get you out of my head
@@ -49,4 +49,4 @@ If you catch me stareing at you
 Why can't you be cold like any boy ex would do
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

@@ -13,7 +13,7 @@ You take my hand and drag me headfirst, fearless
 And I don't know why but with you I dance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You take a deep breath and you walk through the doors
+", u'You take a deep breath and you walk through the doors
 It\'s the morning of your very first day
 And you say hi to your friends you ain\'t seen in a while
 Try and stay out of everybody\'s way
@@ -33,7 +33,7 @@ You sit in class next to a redhead named Abigail
 And soon enough you\'re best friends
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"We were both young when I first saw you
+', u"We were both young when I first saw you
 I close my eyes and the flashback starts
 I'm standing there
 On a balcony in summer air
@@ -56,7 +56,7 @@ It's a love story, baby, just say yes
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey stephen
+", u"Hey stephen
 I know looks can be deceiving
 But I know I saw a light in you
 As we walked we were talking
@@ -84,7 +84,7 @@ So I've got some things to say to you
 (Ha)I seen it all so I thought
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say you're sorry
+", u"Say you're sorry
 That face of an angel comes out just when you need it to
 As I paced back and forth all this time
 'Cause I honestly believed in you
@@ -102,7 +102,7 @@ I was a dreamer before you went and let me down
 Now it's too late for you and your white horse to come around
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You're on the phone with your girlfriend, she's upset
+", u"You're on the phone with your girlfriend, she's upset
 She's going off about something that you said
 'Cause she doesn't get your humor like I do
 
@@ -123,7 +123,7 @@ Walking the streets with you and your worn-out jeans
 I can't help thinking this is how it ought to be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see your face in my mind as I drive away
+", u"I see your face in my mind as I drive away
 'Cause none of us thought it was gonna end that way
 People are people and sometimes we change our minds
 But it's killing me to see you go after all this time
@@ -143,7 +143,7 @@ You're the only thing I know like the back of my hand
 And I can't breathe
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I took a chance, I took a shot
+", u"I took a chance, I took a shot
 And you might think I'm bulletproof but I'm not
 You took a swing, I took it hard
 And down here from the ground, I see who you are
@@ -164,7 +164,7 @@ Tell me, why?
 You could write a book on how
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"All this time I was wasting
+", u"All this time I was wasting
 Hoping you would come around
 I've been giving out chances every time
 And all you do is let me down
@@ -185,7 +185,7 @@ Like I did before
 You're not sorry, no, no, no, no
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"He is sensible and so incredible
+", u"He is sensible and so incredible
 And all my single friends are jealous
 He says everything I need to hear and it's like
 I couldn't ask for anything better
@@ -207,7 +207,7 @@ And that's the way I loved you
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's somethin' 'bout the way the street looks when it's just rained
+", u"There's somethin' 'bout the way the street looks when it's just rained
 There's a glow off the pavement, you walk me to the car
 And you know I wanna ask you to dance right there
 In the middle of the parking lot, yeah
@@ -222,7 +222,7 @@ You take my hand and drag me headfirst, fearless
 And I don't know why but with you I dance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You take a deep breath and you walk through the doors
+", u'You take a deep breath and you walk through the doors
 It\'s the morning of your very first day
 And you say hi to your friends you ain\'t seen in a while
 Try and stay out of everybody\'s way
@@ -242,7 +242,7 @@ You sit in class next to a redhead named Abigail
 And soon enough you\'re best friends
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"We were both young when I first saw you
+', u"We were both young when I first saw you
 I close my eyes and the flashback starts
 I'm standing there
 On a balcony in summer air
@@ -265,7 +265,7 @@ It's a love story, baby, just say yes
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey stephen
+", u"Hey stephen
 I know looks can be deceiving
 But I know I saw a light in you
 As we walked we were talking
@@ -293,7 +293,7 @@ So I've got some things to say to you
 (Ha)I seen it all so I thought
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say you're sorry
+", u"Say you're sorry
 That face of an angel comes out just when you need it to
 As I paced back and forth all this time
 'Cause I honestly believed in you
@@ -311,7 +311,7 @@ I was a dreamer before you went and let me down
 Now it's too late for you and your white horse to come around
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You're on the phone with your girlfriend, she's upset
+", u"You're on the phone with your girlfriend, she's upset
 She's going off about something that you said
 'Cause she doesn't get your humor like I do
 
@@ -332,7 +332,7 @@ Walking the streets with you and your worn-out jeans
 I can't help thinking this is how it ought to be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see your face in my mind as I drive away
+", u"I see your face in my mind as I drive away
 'Cause none of us thought it was gonna end that way
 People are people and sometimes we change our minds
 But it's killing me to see you go after all this time
@@ -352,7 +352,7 @@ You're the only thing I know like the back of my hand
 And I can't breathe
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I took a chance, I took a shot
+", u"I took a chance, I took a shot
 And you might think I'm bulletproof but I'm not
 You took a swing, I took it hard
 And down here from the ground, I see who you are
@@ -373,7 +373,7 @@ Tell me, why?
 You could write a book on how
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"All this time I was wasting
+", u"All this time I was wasting
 Hoping you would come around
 I've been giving out chances every time
 And all you do is let me down
@@ -394,7 +394,7 @@ Like I did before
 You're not sorry, no, no, no, no
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"He is sensible and so incredible
+", u"He is sensible and so incredible
 And all my single friends are jealous
 He says everything I need to hear and it's like
 I couldn't ask for anything better
@@ -416,7 +416,7 @@ And that's the way I loved you
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's somethin' 'bout the way the street looks when it's just rained
+", u"There's somethin' 'bout the way the street looks when it's just rained
 There's a glow off the pavement, you walk me to the car
 And you know I wanna ask you to dance right there
 In the middle of the parking lot, yeah
@@ -431,7 +431,7 @@ You take my hand and drag me headfirst, fearless
 And I don't know why but with you I dance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You take a deep breath and you walk through the doors
+", u'You take a deep breath and you walk through the doors
 It\'s the morning of your very first day
 And you say hi to your friends you ain\'t seen in a while
 Try and stay out of everybody\'s way
@@ -451,7 +451,7 @@ You sit in class next to a redhead named Abigail
 And soon enough you\'re best friends
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"We were both young when I first saw you
+', u"We were both young when I first saw you
 I close my eyes and the flashback starts
 I'm standing there
 On a balcony in summer air
@@ -474,7 +474,7 @@ It's a love story, baby, just say yes
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey stephen
+", u"Hey stephen
 I know looks can be deceiving
 But I know I saw a light in you
 As we walked we were talking
@@ -502,7 +502,7 @@ So I've got some things to say to you
 (Ha)I seen it all so I thought
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say you're sorry
+", u"Say you're sorry
 That face of an angel comes out just when you need it to
 As I paced back and forth all this time
 'Cause I honestly believed in you
@@ -520,7 +520,7 @@ I was a dreamer before you went and let me down
 Now it's too late for you and your white horse to come around
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You're on the phone with your girlfriend, she's upset
+", u"You're on the phone with your girlfriend, she's upset
 She's going off about something that you said
 'Cause she doesn't get your humor like I do
 
@@ -541,7 +541,7 @@ Walking the streets with you and your worn-out jeans
 I can't help thinking this is how it ought to be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see your face in my mind as I drive away
+", u"I see your face in my mind as I drive away
 'Cause none of us thought it was gonna end that way
 People are people and sometimes we change our minds
 But it's killing me to see you go after all this time
@@ -561,7 +561,7 @@ You're the only thing I know like the back of my hand
 And I can't breathe
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I took a chance, I took a shot
+", u"I took a chance, I took a shot
 And you might think I'm bulletproof but I'm not
 You took a swing, I took it hard
 And down here from the ground, I see who you are
@@ -582,7 +582,7 @@ Tell me, why?
 You could write a book on how
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"All this time I was wasting
+", u"All this time I was wasting
 Hoping you would come around
 I've been giving out chances every time
 And all you do is let me down
@@ -603,7 +603,7 @@ Like I did before
 You're not sorry, no, no, no, no
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"He is sensible and so incredible
+", u"He is sensible and so incredible
 And all my single friends are jealous
 He says everything I need to hear and it's like
 I couldn't ask for anything better
@@ -625,7 +625,7 @@ And that's the way I loved you
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's somethin' 'bout the way the street looks when it's just rained
+", u"There's somethin' 'bout the way the street looks when it's just rained
 There's a glow off the pavement, you walk me to the car
 And you know I wanna ask you to dance right there
 In the middle of the parking lot, yeah
@@ -640,7 +640,7 @@ You take my hand and drag me headfirst, fearless
 And I don't know why but with you I dance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You take a deep breath and you walk through the doors
+", u'You take a deep breath and you walk through the doors
 It\'s the morning of your very first day
 And you say hi to your friends you ain\'t seen in a while
 Try and stay out of everybody\'s way
@@ -660,7 +660,7 @@ You sit in class next to a redhead named Abigail
 And soon enough you\'re best friends
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"We were both young when I first saw you
+', u"We were both young when I first saw you
 I close my eyes and the flashback starts
 I'm standing there
 On a balcony in summer air
@@ -683,7 +683,7 @@ It's a love story, baby, just say yes
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey stephen
+", u"Hey stephen
 I know looks can be deceiving
 But I know I saw a light in you
 As we walked we were talking
@@ -711,7 +711,7 @@ So I've got some things to say to you
 (Ha)I seen it all so I thought
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say you're sorry
+", u"Say you're sorry
 That face of an angel comes out just when you need it to
 As I paced back and forth all this time
 'Cause I honestly believed in you
@@ -729,7 +729,7 @@ I was a dreamer before you went and let me down
 Now it's too late for you and your white horse to come around
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You're on the phone with your girlfriend, she's upset
+", u"You're on the phone with your girlfriend, she's upset
 She's going off about something that you said
 'Cause she doesn't get your humor like I do
 
@@ -750,7 +750,7 @@ Walking the streets with you and your worn-out jeans
 I can't help thinking this is how it ought to be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see your face in my mind as I drive away
+", u"I see your face in my mind as I drive away
 'Cause none of us thought it was gonna end that way
 People are people and sometimes we change our minds
 But it's killing me to see you go after all this time
@@ -770,7 +770,7 @@ You're the only thing I know like the back of my hand
 And I can't breathe
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I took a chance, I took a shot
+", u"I took a chance, I took a shot
 And you might think I'm bulletproof but I'm not
 You took a swing, I took it hard
 And down here from the ground, I see who you are
@@ -791,7 +791,7 @@ Tell me, why?
 You could write a book on how
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"All this time I was wasting
+", u"All this time I was wasting
 Hoping you would come around
 I've been giving out chances every time
 And all you do is let me down
@@ -812,7 +812,7 @@ Like I did before
 You're not sorry, no, no, no, no
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"He is sensible and so incredible
+", u"He is sensible and so incredible
 And all my single friends are jealous
 He says everything I need to hear and it's like
 I couldn't ask for anything better
@@ -834,7 +834,7 @@ And that's the way I loved you
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's somethin' 'bout the way the street looks when it's just rained
+", u"There's somethin' 'bout the way the street looks when it's just rained
 There's a glow off the pavement, you walk me to the car
 And you know I wanna ask you to dance right there
 In the middle of the parking lot, yeah
@@ -849,7 +849,7 @@ You take my hand and drag me headfirst, fearless
 And I don't know why but with you I dance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You take a deep breath and you walk through the doors
+", u'You take a deep breath and you walk through the doors
 It\'s the morning of your very first day
 And you say hi to your friends you ain\'t seen in a while
 Try and stay out of everybody\'s way
@@ -869,7 +869,7 @@ You sit in class next to a redhead named Abigail
 And soon enough you\'re best friends
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"We were both young when I first saw you
+', u"We were both young when I first saw you
 I close my eyes and the flashback starts
 I'm standing there
 On a balcony in summer air
@@ -892,7 +892,7 @@ It's a love story, baby, just say yes
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey stephen
+", u"Hey stephen
 I know looks can be deceiving
 But I know I saw a light in you
 As we walked we were talking
@@ -920,7 +920,7 @@ So I've got some things to say to you
 (Ha)I seen it all so I thought
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say you're sorry
+", u"Say you're sorry
 That face of an angel comes out just when you need it to
 As I paced back and forth all this time
 'Cause I honestly believed in you
@@ -938,7 +938,7 @@ I was a dreamer before you went and let me down
 Now it's too late for you and your white horse to come around
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You're on the phone with your girlfriend, she's upset
+", u"You're on the phone with your girlfriend, she's upset
 She's going off about something that you said
 'Cause she doesn't get your humor like I do
 
@@ -959,7 +959,7 @@ Walking the streets with you and your worn-out jeans
 I can't help thinking this is how it ought to be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see your face in my mind as I drive away
+", u"I see your face in my mind as I drive away
 'Cause none of us thought it was gonna end that way
 People are people and sometimes we change our minds
 But it's killing me to see you go after all this time
@@ -979,7 +979,7 @@ You're the only thing I know like the back of my hand
 And I can't breathe
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I took a chance, I took a shot
+", u"I took a chance, I took a shot
 And you might think I'm bulletproof but I'm not
 You took a swing, I took it hard
 And down here from the ground, I see who you are
@@ -1000,7 +1000,7 @@ Tell me, why?
 You could write a book on how
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"All this time I was wasting
+", u"All this time I was wasting
 Hoping you would come around
 I've been giving out chances every time
 And all you do is let me down
@@ -1021,7 +1021,7 @@ Like I did before
 You're not sorry, no, no, no, no
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"He is sensible and so incredible
+", u"He is sensible and so incredible
 And all my single friends are jealous
 He says everything I need to hear and it's like
 I couldn't ask for anything better
@@ -1043,7 +1043,7 @@ And that's the way I loved you
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's somethin' 'bout the way the street looks when it's just rained
+", u"There's somethin' 'bout the way the street looks when it's just rained
 There's a glow off the pavement, you walk me to the car
 And you know I wanna ask you to dance right there
 In the middle of the parking lot, yeah
@@ -1058,7 +1058,7 @@ You take my hand and drag me headfirst, fearless
 And I don't know why but with you I dance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You take a deep breath and you walk through the doors
+", u'You take a deep breath and you walk through the doors
 It\'s the morning of your very first day
 And you say hi to your friends you ain\'t seen in a while
 Try and stay out of everybody\'s way
@@ -1078,7 +1078,7 @@ You sit in class next to a redhead named Abigail
 And soon enough you\'re best friends
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"We were both young when I first saw you
+', u"We were both young when I first saw you
 I close my eyes and the flashback starts
 I'm standing there
 On a balcony in summer air
@@ -1101,7 +1101,7 @@ It's a love story, baby, just say yes
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey stephen
+", u"Hey stephen
 I know looks can be deceiving
 But I know I saw a light in you
 As we walked we were talking
@@ -1129,7 +1129,7 @@ So I've got some things to say to you
 (Ha)I seen it all so I thought
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Say you're sorry
+", u"Say you're sorry
 That face of an angel comes out just when you need it to
 As I paced back and forth all this time
 'Cause I honestly believed in you
@@ -1147,7 +1147,7 @@ I was a dreamer before you went and let me down
 Now it's too late for you and your white horse to come around
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You're on the phone with your girlfriend, she's upset
+", u"You're on the phone with your girlfriend, she's upset
 She's going off about something that you said
 'Cause she doesn't get your humor like I do
 
@@ -1168,7 +1168,7 @@ Walking the streets with you and your worn-out jeans
 I can't help thinking this is how it ought to be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I see your face in my mind as I drive away
+", u"I see your face in my mind as I drive away
 'Cause none of us thought it was gonna end that way
 People are people and sometimes we change our minds
 But it's killing me to see you go after all this time
@@ -1188,7 +1188,7 @@ You're the only thing I know like the back of my hand
 And I can't breathe
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I took a chance, I took a shot
+", u"I took a chance, I took a shot
 And you might think I'm bulletproof but I'm not
 You took a swing, I took it hard
 And down here from the ground, I see who you are
@@ -1209,7 +1209,7 @@ Tell me, why?
 You could write a book on how
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"All this time I was wasting
+", u"All this time I was wasting
 Hoping you would come around
 I've been giving out chances every time
 And all you do is let me down
@@ -1230,7 +1230,7 @@ Like I did before
 You're not sorry, no, no, no, no
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"He is sensible and so incredible
+", u"He is sensible and so incredible
 And all my single friends are jealous
 He says everything I need to hear and it's like
 I couldn't ask for anything better
@@ -1252,7 +1252,7 @@ And that's the way I loved you
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I like the way you sound in the morning
+", u"I like the way you sound in the morning
 We're on the phone and without a warning
 I realize your love is the best sound
 I have ever heard
@@ -1279,7 +1279,7 @@ Well, I like the way your hair falls in your face
 You got the keys to me, I love each freckle on your face
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Untouchable like a distant diamond sky
+", u"Untouchable like a distant diamond sky
 I'm reaching out
 And I just can't tell you why
 I'm caught up in you
@@ -1317,7 +1317,7 @@ When I'm in this dream
 It's like a million little stars
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Once upon a time, I believe it was a Tuesday
+", u"Once upon a time, I believe it was a Tuesday
 When I caught your eye
 And we caught onto something, I hold on to the night
 You looked me in the eye and told me you loved me
@@ -1338,7 +1338,7 @@ Oh, and it rains in your bedroom, everything is wrong
 It rains when you're here and it rains when you're gone
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I could go back,
+", u"I could go back,
 To every laugh,
 But, I don't want to go there anymore
 And I know all the steps, 
@@ -1355,7 +1355,7 @@ I'll leave my window open,
 Just know I'm right here hopin'
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"This is wrong but
+", u"This is wrong but
 I can't help but feel like
 There ain't nothing more out there
 Misty morning comes again and I can't
@@ -1372,7 +1372,7 @@ I'm no one special, just another wide-eyed girl
 Who's desperately in love with you
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'In the heat of the fight
+", u'In the heat of the fight
 I walked away.
 Ignoring words that you were saying
 Trying to make me stay.
@@ -1397,7 +1397,7 @@ Going through the photographs,
 Staring at the phone.
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"There's somethin' 'bout the way the street looks when it's just rained
+', u"There's somethin' 'bout the way the street looks when it's just rained
 There's a glow off the pavement, you walk me to the car
 And you know I wanna ask you to dance right there
 In the middle of the parking lot, yeah
@@ -1412,7 +1412,7 @@ You take my hand and drag me headfirst, fearless
 And I don't know why but with you I dance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You take a deep breath and you walk through the doors
+", u'You take a deep breath and you walk through the doors
 It\'s the morning of your very first day
 And you say hi to your friends you ain\'t seen in a while
 Try and stay out of everybody\'s way
@@ -1432,7 +1432,7 @@ You sit in class next to a redhead named Abigail
 And soon enough you\'re best friends
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"We were both young when I first saw you
+', u"We were both young when I first saw you
 I close my eyes and the flashback starts
 I'm standing there
 On a balcony in summer air
@@ -1455,7 +1455,7 @@ It's a love story, baby, just say yes
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey stephen
+", u"Hey stephen
 I know looks can be deceiving
 But I know I saw a light in you
 As we walked we were talking
@@ -1483,7 +1483,7 @@ So I've got some things to say to you
 (Ha)I seen it all so I thought
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You have my heart
+", u"You have my heart
 We'll never be
 World's apart
 May be in magazine
@@ -1498,7 +1498,7 @@ That's when you
 Need me there
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'I was ridin\' shotgun with my hair undone,
+", u'I was ridin\' shotgun with my hair undone,
 In the front seat of his car
 He\'s got a one-hand feel on the steering wheel,
 The other on my heart
@@ -1518,7 +1518,7 @@ The first date "Man, I didn\'t kiss her, and I should have"
 And when I got home, before I said, "Amen"
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Drew looks at me
+', u"Drew looks at me
 I fake a smile so he won't see
 What I want and I need
 And everything that we should be
@@ -1538,7 +1538,7 @@ He's finally got it right
 I wonder if he knows
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"It's strange to think the songs we used to sing
+", u"It's strange to think the songs we used to sing
 The smiles, the flowers, everything
 Is gone
 Yesterday I found out about you
@@ -1562,7 +1562,7 @@ You shouldn't be begging for forgiveness at my feet
 You should've said no,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I don't know what I want,
+", u"I don't know what I want,
 So, don't ask me,
 'Cause I'm still trying to figure it out
 Don't know what's down this road
@@ -1582,7 +1582,7 @@ Trying to find a place in this world
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'She said, "I was seven and you were nine
+", u'She said, "I was seven and you were nine
 I looked at you like the stars that shine,
 In the sky,
 The pretty lights
@@ -1604,7 +1604,7 @@ Oh, my, my, my
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'You said the way my blue eyes shined
+', u'You said the way my blue eyes shined
 Put those Georgia stars to shame that night
 I said, "That\'s a lie"
 
@@ -1631,7 +1631,7 @@ When you think Tim McGraw
 I hope you think of me
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'State the obvious
+', u'State the obvious
 I didn\u2019t get my perfect fantasy
 I realized you love yourself
 More that you could ever love me
@@ -1656,7 +1656,7 @@ I\u2019m just sitting here planning my revenge
 There\u2019s nothing stopping me
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"You were in college working part-time waiting tables
+', u"You were in college working part-time waiting tables
 Left a small town, never looked back
 I was a flight risk, with a fear of falling
 Wondering why we bother with love, if it never lasts
@@ -1680,7 +1680,7 @@ You say we'll never make my parents' mistakes
 But we got bills to pay
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The way you move is like a full on rainstorm
+", u"The way you move is like a full on rainstorm
 And I'm a house of cards
 You're the kind of reckless
 That should send me runnin'
@@ -1700,7 +1700,7 @@ Give me something that'll haunt me when you're not around
 'cause I see sparks fly whenever you smile
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm so glad you made time to see me
+", u"I'm so glad you made time to see me
 How's life, tell me how's your family
 I haven't seen them in a while
 You've been good, busier then ever
@@ -1721,7 +1721,7 @@ I'd go back to December all the time
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I am not the kind of girl
+", u"I am not the kind of girl
 Who should be rudely barging in on a white veil occasion
 But you are not the kind of boy
 Who should be marrying the wrong girl
@@ -1745,7 +1745,7 @@ Fond gestures are exchanged
 And the organ starts to play
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Long were the nights when my days once revolved around you
+", u"Long were the nights when my days once revolved around you
 Counting my footsteps, praying the floor wont fall through, again
 My mother accused me of losing my mind, but I swore I was fine
 
@@ -1767,7 +1767,7 @@ And I'll look back and regret, I ignored when they said run as fast as you can
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You, with your words like knives
+", u'You, with your words like knives
 And swords and weapons that you use against me,
 You, have knocked me off my feet again,
 Got me feeling like I\u2019m nothing.
@@ -1789,7 +1789,7 @@ You, with your switching sides,
 And your walk by lies and your humiliation
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"I used to think one day we'd tell the story of us
+', u"I used to think one day we'd tell the story of us
 How we met and the sparks flew instantly
 People would say they're the lucky ones
 
@@ -1816,7 +1816,7 @@ Next chapter
 How'd we end up this way?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Your little hands wrapped around my finger
+", u"Your little hands wrapped around my finger
 And it's so quiet in the world tonight
 Your little eyelids flutter cause you're dreaming
 So I tuck you in, turn on your favorite night light
@@ -1847,7 +1847,7 @@ And you cant wait to move out someday and call your own shots
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'There I was again tonight, forcing laughter, faking smiles
+", u'There I was again tonight, forcing laughter, faking smiles
 Same old, tired place lonely place
 Walls of insincerity, shifting eyes and vacancy
 Vanished when I saw your face
@@ -1869,7 +1869,7 @@ I was enchanted to meet you
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Now go stand in the corner and think about what you did !
+', u"Now go stand in the corner and think about what you did !
 
 
 
@@ -1898,7 +1898,7 @@ There is nothing I do better than revenge, Ha
 She lives her life like it's a party and she's on the list
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Elevator buttons and morning air
+", u"Elevator buttons and morning air
 Strangers' silence makes me wanna take the stairs
 If you were here we'd laugh about their vacant stares
 But right now, my time is theirs
@@ -1916,7 +1916,7 @@ The water's rough
 But this love is ours
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You were in college working part-time waiting tables
+", u"You were in college working part-time waiting tables
 Left a small town, never looked back
 I was a flight risk, with a fear of falling
 Wondering why we bother with love, if it never lasts
@@ -1940,7 +1940,7 @@ You say we'll never make my parents' mistakes
 But we got bills to pay
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Last night I heard my own heart beating
+", u"Last night I heard my own heart beating
 Sounded like footsteps on my stairs
 Six months gone and I'm still reaching
 Even though I know you're not there
@@ -1962,7 +1962,7 @@ But I remember how it was back then
 Wrapped up in your arms and our friends were laughing
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"The way you move is like a full on rainstorm
+", u"The way you move is like a full on rainstorm
 And I'm a house of cards
 You're the kind of reckless
 That should send me runnin'
@@ -1982,7 +1982,7 @@ Give me something that'll haunt me when you're not around
 'cause I see sparks fly whenever you smile
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Tall, dark and Superman
+", u"Tall, dark and Superman
 He puts his papers in his briefcase and drives away
 To save the world or go to work
 It's the same thing to me
@@ -2006,7 +2006,7 @@ When you come back down
 Tall, dark and beautiful
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm so glad you made time to see me
+", u"I'm so glad you made time to see me
 How's life, tell me how's your family
 I haven't seen them in a while
 You've been good, busier then ever
@@ -2027,7 +2027,7 @@ I'd go back to December all the time
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm so glad you made time to see me
+", u"I'm so glad you made time to see me
 How's life, tell me how's your family
 I haven't seen them in a while
 You've been good, busier then ever
@@ -2048,7 +2048,7 @@ I'd go back to December all the time
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I am not the kind of girl
+", u"I am not the kind of girl
 Who should be rudely barging in on a white veil occasion
 But you are not the kind of boy
 Who should be marrying the wrong girl
@@ -2072,7 +2072,7 @@ Fond gestures are exchanged
 And the organ starts to play
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You and I walk a fragile line
+", u"You and I walk a fragile line
 I have known it all this time
 But I never thought I'd live to see it break
 
@@ -2099,7 +2099,7 @@ Cant turn back, now I'm haunted
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Long were the nights when my days once revolved around you
+", u"Long were the nights when my days once revolved around you
 Counting my footsteps, praying the floor wont fall through, again
 My mother accused me of losing my mind, but I swore I was fine
 
@@ -2121,4 +2121,4 @@ And I'll look back and regret, I ignored when they said run as fast as you can
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

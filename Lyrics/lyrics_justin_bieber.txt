@@ -24,7 +24,7 @@ I\'ll buy you anything, I\'ll buy you any ring
 And I\'m in pieces, baby fix me
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"For you I'd write a symphony
+', u"For you I'd write a symphony
 I'd tell the violin it's time to sink or swim
 Watch me play for ya
 
@@ -59,7 +59,7 @@ Smile for me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"With you, with you
+", u"With you, with you
 
 I wish we had another time
 I wish we had another place
@@ -87,7 +87,7 @@ I wish we had another time
 I wish we had another place
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh
+", u"Oh
 Yeah
 Hmm
 
@@ -119,7 +119,7 @@ I'm always gonna do what they say
 If you need me i'll come runnin'
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You see my baby up and hit the road
+", u"You see my baby up and hit the road
 Where she's going that's when nobody knows
 I need to find her 'fore another man does
 I wouldn't want him to steal my love
@@ -136,7 +136,7 @@ I won't stop until I find my runaway love
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, oh no, oh
+", u"Oh no, oh no, oh
 
 They say that hate has been sent
 So let loose the talk of love
@@ -160,7 +160,7 @@ So baby, know for sure that I'll never let you go
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Jessica)
+", u"(Jessica)
 It feels like we've been out at sea, whoa
 So back and forth that's how it seems, whoa
 And when I wanna talk you say to me
@@ -188,7 +188,7 @@ Whoa
 (Justin)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Eenie, meenie, miney, mo
+", u"Eenie, meenie, miney, mo
 Catch a bad chick by her toe
 If she holla
 If, if, if she holla, let her go
@@ -213,7 +213,7 @@ Shorty is a eenie, meenie, miney, mo, lova
 Shorty is a eenie, meenie, miney, mo, lova
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Is a big, big world
+", u"Is a big, big world
 It's easy to get lost, baby
 You've always been my girl
 And I'm not ready to go like this
@@ -238,7 +238,7 @@ I'm gonna leash you with pearls, oh
 From every ocean that we're swimming in
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Everybody's laughin in my mind
+", u"Everybody's laughin in my mind
 Rumors spreadin' about this other guy
 Do you do what you did when you did with me
 Does he love you the way I can
@@ -258,7 +258,7 @@ That should be me
 Yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You know you love me, I know you care
+", u'You know you love me, I know you care
 Just shout whenever, and I\'ll be there
 You are my love, you are my heart
 And we will never, ever, ever be apart
@@ -284,7 +284,7 @@ I\'ll buy you anything, I\'ll buy you any ring
 And I\'m in pieces, baby fix me
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"For you I'd write a symphony
+', u"For you I'd write a symphony
 I'd tell the violin it's time to sink or swim
 Watch me play for ya
 
@@ -319,7 +319,7 @@ Smile for me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"With you, with you
+", u"With you, with you
 
 I wish we had another time
 I wish we had another place
@@ -347,7 +347,7 @@ I wish we had another time
 I wish we had another place
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh
+", u"Oh
 Yeah
 Hmm
 
@@ -379,7 +379,7 @@ I'm always gonna do what they say
 If you need me i'll come runnin'
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You see my baby up and hit the road
+", u"You see my baby up and hit the road
 Where she's going that's when nobody knows
 I need to find her 'fore another man does
 I wouldn't want him to steal my love
@@ -396,7 +396,7 @@ I won't stop until I find my runaway love
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, oh no, oh
+", u"Oh no, oh no, oh
 
 They say that hate has been sent
 So let loose the talk of love
@@ -420,7 +420,7 @@ So baby, know for sure that I'll never let you go
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Jessica)
+", u"(Jessica)
 It feels like we've been out at sea, whoa
 So back and forth that's how it seems, whoa
 And when I wanna talk you say to me
@@ -448,7 +448,7 @@ Whoa
 (Justin)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Eenie, meenie, miney, mo
+", u"Eenie, meenie, miney, mo
 Catch a bad chick by her toe
 If she holla
 If, if, if she holla, let her go
@@ -473,7 +473,7 @@ Shorty is a eenie, meenie, miney, mo, lova
 Shorty is a eenie, meenie, miney, mo, lova
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Is a big, big world
+", u"Is a big, big world
 It's easy to get lost, baby
 You've always been my girl
 And I'm not ready to go like this
@@ -498,7 +498,7 @@ I'm gonna leash you with pearls, oh
 From every ocean that we're swimming in
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Everybody's laughin in my mind
+", u"Everybody's laughin in my mind
 Rumors spreadin' about this other guy
 Do you do what you did when you did with me
 Does he love you the way I can
@@ -518,7 +518,7 @@ That should be me
 Yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You know you love me, I know you care
+", u'You know you love me, I know you care
 Just shout whenever, and I\'ll be there
 You are my love, you are my heart
 And we will never, ever, ever be apart
@@ -544,7 +544,7 @@ I\'ll buy you anything, I\'ll buy you any ring
 And I\'m in pieces, baby fix me
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"For you I'd write a symphony
+', u"For you I'd write a symphony
 I'd tell the violin it's time to sink or swim
 Watch me play for ya
 
@@ -579,7 +579,7 @@ Smile for me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"With you, with you
+", u"With you, with you
 
 I wish we had another time
 I wish we had another place
@@ -607,7 +607,7 @@ I wish we had another time
 I wish we had another place
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh
+", u"Oh
 Yeah
 Hmm
 
@@ -639,7 +639,7 @@ I'm always gonna do what they say
 If you need me i'll come runnin'
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You see my baby up and hit the road
+", u"You see my baby up and hit the road
 Where she's going that's when nobody knows
 I need to find her 'fore another man does
 I wouldn't want him to steal my love
@@ -656,7 +656,7 @@ I won't stop until I find my runaway love
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh no, oh no, oh
+", u"Oh no, oh no, oh
 
 They say that hate has been sent
 So let loose the talk of love
@@ -680,7 +680,7 @@ So baby, know for sure that I'll never let you go
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Jessica)
+", u"(Jessica)
 It feels like we've been out at sea, whoa
 So back and forth that's how it seems, whoa
 And when I wanna talk you say to me
@@ -708,7 +708,7 @@ Whoa
 (Justin)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Eenie, meenie, miney, mo
+", u"Eenie, meenie, miney, mo
 Catch a bad chick by her toe
 If she holla
 If, if, if she holla, let her go
@@ -733,7 +733,7 @@ Shorty is a eenie, meenie, miney, mo, lova
 Shorty is a eenie, meenie, miney, mo, lova
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Is a big, big world
+", u"Is a big, big world
 It's easy to get lost, baby
 You've always been my girl
 And I'm not ready to go like this
@@ -758,7 +758,7 @@ I'm gonna leash you with pearls, oh
 From every ocean that we're swimming in
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Everybody's laughin in my mind
+", u"Everybody's laughin in my mind
 Rumors spreadin' about this other guy
 Do you do what you did when you did with me
 Does he love you the way I can
@@ -778,7 +778,7 @@ That should be me
 Yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey, Hey, Hey, Hey
+", u"Hey, Hey, Hey, Hey
 Hey, Hey, Hey, Hey
 
 Me plus you, I'ma tell you one time
@@ -809,7 +809,7 @@ Always making time for you
 I'ma tell you one time
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh uh uh oh,
+", u"Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
@@ -848,7 +848,7 @@ To impress these Mr. Wrongs
 You can be yourself with me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohhh, ohhh, oh 
+", u"Ohhh, ohhh, oh 
 I never thought that it'd be easy, 
 Cause we're both so distant now, 
 And the walls are closing in on us and we're wondering how, 
@@ -872,7 +872,7 @@ Back down to earth
 Back down to earth
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"her love, her love is, bigger
+", u"her love, her love is, bigger
 her love, her love is, bigger
 bigger
 
@@ -909,7 +909,7 @@ whooaaa
 i remember when my heart was young
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Alright, let's go
+", u"Alright, let's go
 
 There's gonna be one less lonely girl
 (One less lonely girl)
@@ -947,7 +947,7 @@ There's gonna be one less lonely girl
 I'm coming for you, I'm gonna put you first
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Usher: It's your chance take her hand to the floor
+", u"Usher: It's your chance take her hand to the floor
 (fellas just the moment you've been waiting for)
 Girl if you see something you like then let 'em know
 (ladies i know your ready)
@@ -975,7 +975,7 @@ CHORUS:
 Only if you give, give the first dance to me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh
+", u"Oh
 Thank you baby
 Oh
 It's JB
@@ -1009,7 +1009,7 @@ Love me, love me
 Say that you love me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"It fills the air
+", u"It fills the air
 And I fall in love with you all over again
 Ooh, you're the light that faced the sun in my world
 I'd face a thousand years of pain for my girl
@@ -1026,7 +1026,7 @@ You're the common denominator, oh, oh, ooh, oh
 You're the common denominator, oh, yeah, woah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You know you love me, I know you care
+", u'You know you love me, I know you care
 Just shout whenever, and I\'ll be there
 You are my love, you are my heart
 And we will never, ever, ever be apart
@@ -1052,7 +1052,7 @@ I\'ll buy you anything, I\'ll buy you any ring
 And I\'m in pieces, baby fix me
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"For you I'd write a symphony
+', u"For you I'd write a symphony
 I'd tell the violin it's time to sink or swim
 Watch me play for ya
 
@@ -1087,7 +1087,7 @@ Smile for me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey, Hey, Hey, Hey
+", u"Hey, Hey, Hey, Hey
 Hey, Hey, Hey, Hey
 
 Me plus you, I'ma tell you one time
@@ -1118,7 +1118,7 @@ Always making time for you
 I'ma tell you one time
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh uh uh oh,
+", u"Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
@@ -1157,7 +1157,7 @@ To impress these Mr. Wrongs
 You can be yourself with me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohhh, ohhh, oh 
+", u"Ohhh, ohhh, oh 
 I never thought that it'd be easy, 
 Cause we're both so distant now, 
 And the walls are closing in on us and we're wondering how, 
@@ -1181,7 +1181,7 @@ Back down to earth
 Back down to earth
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"her love, her love is, bigger
+", u"her love, her love is, bigger
 her love, her love is, bigger
 bigger
 
@@ -1218,7 +1218,7 @@ whooaaa
 i remember when my heart was young
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Alright, let's go
+", u"Alright, let's go
 
 There's gonna be one less lonely girl
 (One less lonely girl)
@@ -1256,7 +1256,7 @@ There's gonna be one less lonely girl
 I'm coming for you, I'm gonna put you first
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Usher: It's your chance take her hand to the floor
+", u"Usher: It's your chance take her hand to the floor
 (fellas just the moment you've been waiting for)
 Girl if you see something you like then let 'em know
 (ladies i know your ready)
@@ -1284,7 +1284,7 @@ CHORUS:
 Only if you give, give the first dance to me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh
+", u"Oh
 Thank you baby
 Oh
 It's JB
@@ -1318,7 +1318,7 @@ Love me, love me
 Say that you love me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"It fills the air
+", u"It fills the air
 And I fall in love with you all over again
 Ooh, you're the light that faced the sun in my world
 I'd face a thousand years of pain for my girl
@@ -1335,7 +1335,7 @@ You're the common denominator, oh, oh, ooh, oh
 You're the common denominator, oh, yeah, woah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'You know you love me, I know you care
+", u'You know you love me, I know you care
 Just shout whenever, and I\'ll be there
 You are my love, you are my heart
 And we will never, ever, ever be apart
@@ -1361,7 +1361,7 @@ I\'ll buy you anything, I\'ll buy you any ring
 And I\'m in pieces, baby fix me
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"For you I'd write a symphony
+', u"For you I'd write a symphony
 I'd tell the violin it's time to sink or swim
 Watch me play for ya
 
@@ -1396,7 +1396,7 @@ Smile for me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey, Hey, Hey, Hey
+", u"Hey, Hey, Hey, Hey
 Hey, Hey, Hey, Hey
 
 Me plus you, I'ma tell you one time
@@ -1427,7 +1427,7 @@ Always making time for you
 I'ma tell you one time
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Ohh wooaah Ohh wooaah Ohh wooaah 
+", u'Ohh wooaah Ohh wooaah Ohh wooaah 
 You know you love me, I know you care
 Just shout whenever, And I\'ll be there
 You are my love, You are my heart
@@ -1457,7 +1457,7 @@ And I wanna play it cool, But I\'m losing you
 I\'ll buy you anything, ill buy you any ring
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Alright, let's go
+', u"Alright, let's go
 
 There's gonna be one less lonely girl
 (One less lonely girl)
@@ -1495,7 +1495,7 @@ There's gonna be one less lonely girl
 I'm coming for you, I'm gonna put you first
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohhh, ohhh, oh 
+", u"Ohhh, ohhh, oh 
 I never thought that it'd be easy, 
 Cause we're both so distant now, 
 And the walls are closing in on us and we're wondering how, 
@@ -1519,7 +1519,7 @@ Back down to earth
 Back down to earth
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh
+", u"Oh
 Yeah
 Hmm
 
@@ -1551,7 +1551,7 @@ I'm always gonna do what they say
 If you need me i'll come runnin'
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"With you, with you
+", u"With you, with you
 
 I wish we had another time
 I wish we had another place
@@ -1579,7 +1579,7 @@ I wish we had another time
 I wish we had another place
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh uh uh oh,
+", u"Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
@@ -1618,7 +1618,7 @@ To impress these Mr. Wrongs
 You can be yourself with me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Everybody's laughin in my mind
+", u"Everybody's laughin in my mind
 Rumors spreadin' about this other guy
 Do you do what you did when you did with me
 Does he love you the way I can
@@ -1638,7 +1638,7 @@ That should be me
 Yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Never say never
+", u"Never say never
 Never ever, never, never ever, never ever
 
 See I never thought that I could walk through fire
@@ -1676,7 +1676,7 @@ When your heart's under attack
 Gonna give everything I have
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohh Ohh Ohh . and I pray
+", u"Ohh Ohh Ohh . and I pray
 I just cant sleep tonight.
 Knowing that things aint right.
 Its in the papers, its on the tv, its everywhere that I go.
@@ -1693,7 +1693,7 @@ I close my eyes and pray
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey, Hey, Hey, Hey
+", u"Hey, Hey, Hey, Hey
 Hey, Hey, Hey, Hey
 
 Me plus you, I'ma tell you one time
@@ -1724,7 +1724,7 @@ Always making time for you
 I'ma tell you one time
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey, Hey, Hey, Hey
+", u"Hey, Hey, Hey, Hey
 Hey, Hey, Hey, Hey
 
 Me plus you, I'ma tell you one time
@@ -1755,7 +1755,7 @@ Always making time for you
 I'ma tell you one time
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh uh uh oh,
+", u"Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
@@ -1794,7 +1794,7 @@ To impress these Mr. Wrongs
 You can be yourself with me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Ohh wooaah Ohh wooaah Ohh wooaah 
+", u'Ohh wooaah Ohh wooaah Ohh wooaah 
 You know you love me, I know you care
 Just shout whenever, And I\'ll be there
 You are my love, You are my heart
@@ -1824,7 +1824,7 @@ And I wanna play it cool, But I\'m losing you
 I\'ll buy you anything, ill buy you any ring
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Ohhh, ohhh, oh 
+', u"Ohhh, ohhh, oh 
 I never thought that it'd be easy, 
 Cause we're both so distant now, 
 And the walls are closing in on us and we're wondering how, 
@@ -1848,7 +1848,7 @@ Back down to earth
 Back down to earth
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Alright, let's go
+", u"Alright, let's go
 
 There's gonna be one less lonely girl
 (One less lonely girl)
@@ -1886,7 +1886,7 @@ There's gonna be one less lonely girl
 I'm coming for you, I'm gonna put you first
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"her love, her love is, bigger
+", u"her love, her love is, bigger
 her love, her love is, bigger
 bigger
 
@@ -1923,7 +1923,7 @@ whooaaa
 i remember when my heart was young
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohhh, ohhh, oh 
+", u"Ohhh, ohhh, oh 
 I never thought that it'd be easy, 
 Cause we're both so distant now, 
 And the walls are closing in on us and we're wondering how, 
@@ -1947,7 +1947,7 @@ Back down to earth
 Back down to earth
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh
+", u"Oh
 Yeah
 Hmm
 
@@ -1979,7 +1979,7 @@ I'm always gonna do what they say
 If you need me i'll come runnin'
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Alright, let's go
+", u"Alright, let's go
 
 There's gonna be one less lonely girl
 (One less lonely girl)
@@ -2017,7 +2017,7 @@ There's gonna be one less lonely girl
 I'm coming for you, I'm gonna put you first
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey, Hey, Hey, Hey
+", u"Hey, Hey, Hey, Hey
 Hey, Hey, Hey, Hey
 
 Me plus you, I'ma tell you one time
@@ -2048,7 +2048,7 @@ Always making time for you
 I'ma tell you one time
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey, Hey, Hey, Hey
+", u"Hey, Hey, Hey, Hey
 Hey, Hey, Hey, Hey
 
 Me plus you, I'ma tell you one time
@@ -2079,7 +2079,7 @@ Always making time for you
 I'ma tell you one time
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh uh uh oh,
+", u"Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
@@ -2118,7 +2118,7 @@ To impress these Mr. Wrongs
 You can be yourself with me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Ohh wooaah Ohh wooaah Ohh wooaah 
+", u'Ohh wooaah Ohh wooaah Ohh wooaah 
 You know you love me, I know you care
 Just shout whenever, And I\'ll be there
 You are my love, You are my heart
@@ -2148,7 +2148,7 @@ And I wanna play it cool, But I\'m losing you
 I\'ll buy you anything, ill buy you any ring
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Ohhh, ohhh, oh 
+', u"Ohhh, ohhh, oh 
 I never thought that it'd be easy, 
 Cause we're both so distant now, 
 And the walls are closing in on us and we're wondering how, 
@@ -2172,7 +2172,7 @@ Back down to earth
 Back down to earth
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Alright, let's go
+", u"Alright, let's go
 
 There's gonna be one less lonely girl
 (One less lonely girl)
@@ -2210,7 +2210,7 @@ There's gonna be one less lonely girl
 I'm coming for you, I'm gonna put you first
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"her love, her love is, bigger
+", u"her love, her love is, bigger
 her love, her love is, bigger
 bigger
 
@@ -2247,7 +2247,7 @@ whooaaa
 i remember when my heart was young
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohhh, ohhh, oh 
+", u"Ohhh, ohhh, oh 
 I never thought that it'd be easy, 
 Cause we're both so distant now, 
 And the walls are closing in on us and we're wondering how, 
@@ -2271,7 +2271,7 @@ Back down to earth
 Back down to earth
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Alright, let's go
+", u"Alright, let's go
 
 There's gonna be one less lonely girl
 (One less lonely girl)
@@ -2309,7 +2309,7 @@ There's gonna be one less lonely girl
 I'm coming for you, I'm gonna put you first
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh
+", u"Oh
 Yeah
 Hmm
 
@@ -2341,7 +2341,7 @@ I'm always gonna do what they say
 If you need me i'll come runnin'
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey, Hey, Hey, Hey
+", u"Hey, Hey, Hey, Hey
 Hey, Hey, Hey, Hey
 
 Me plus you, I'ma tell you one time
@@ -2372,7 +2372,7 @@ Always making time for you
 I'ma tell you one time
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Hey, Hey, Hey, Hey
+", u"Hey, Hey, Hey, Hey
 Hey, Hey, Hey, Hey
 
 Me plus you, I'ma tell you one time
@@ -2403,7 +2403,7 @@ Always making time for you
 I'ma tell you one time
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh uh uh oh,
+", u"Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
 Oh uh uh oh,
@@ -2442,7 +2442,7 @@ To impress these Mr. Wrongs
 You can be yourself with me
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Ohh wooaah Ohh wooaah Ohh wooaah 
+", u'Ohh wooaah Ohh wooaah Ohh wooaah 
 You know you love me, I know you care
 Just shout whenever, And I\'ll be there
 You are my love, You are my heart
@@ -2472,7 +2472,7 @@ And I wanna play it cool, But I\'m losing you
 I\'ll buy you anything, ill buy you any ring
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Ohhh, ohhh, oh 
+', u"Ohhh, ohhh, oh 
 I never thought that it'd be easy, 
 Cause we're both so distant now, 
 And the walls are closing in on us and we're wondering how, 
@@ -2496,7 +2496,7 @@ Back down to earth
 Back down to earth
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Alright, let's go
+", u"Alright, let's go
 
 There's gonna be one less lonely girl
 (One less lonely girl)
@@ -2534,7 +2534,7 @@ There's gonna be one less lonely girl
 I'm coming for you, I'm gonna put you first
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"her love, her love is, bigger
+", u"her love, her love is, bigger
 her love, her love is, bigger
 bigger
 
@@ -2571,7 +2571,7 @@ whooaaa
 i remember when my heart was young
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ohhh, ohhh, oh 
+", u"Ohhh, ohhh, oh 
 I never thought that it'd be easy, 
 Cause we're both so distant now, 
 And the walls are closing in on us and we're wondering how, 
@@ -2595,7 +2595,7 @@ Back down to earth
 Back down to earth
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Alright, let's go
+", u"Alright, let's go
 
 There's gonna be one less lonely girl
 (One less lonely girl)
@@ -2633,7 +2633,7 @@ There's gonna be one less lonely girl
 I'm coming for you, I'm gonna put you first
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh
+", u"Oh
 Yeah
 Hmm
 
@@ -2665,7 +2665,7 @@ I'm always gonna do what they say
 If you need me i'll come runnin'
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Never say never
+", u"Never say never
 Never ever, never, never ever, never ever
 
 See I never thought that I could walk through fire
@@ -2703,7 +2703,7 @@ When your heart's under attack
 Gonna give everything I have
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Everybody's laughin in my mind
+", u"Everybody's laughin in my mind
 Rumors spreadin' about this other guy
 Do you do what you did when you did with me
 Does he love you the way I can
@@ -2723,7 +2723,7 @@ That should be me
 Yeah
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"For you I'd write a symphony
+", u"For you I'd write a symphony
 I'd tell the violin it's time to sink or swim
 Watch me play for ya
 
@@ -2758,7 +2758,7 @@ Smile for me
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Is a big, big world
+", u"Is a big, big world
 It's easy to get lost, baby
 You've always been my girl
 And I'm not ready to go like this
@@ -2783,7 +2783,7 @@ I'm gonna leash you with pearls, oh
 From every ocean that we're swimming in
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"It feels like we've been out at sea, oh
+", u"It feels like we've been out at sea, oh
 So back and forth that's how it seems, whoa
 And when I want to talk, you say to me
 That if it's meant to be, it will be, whoa, whoa
@@ -2804,7 +2804,7 @@ Lifesaver, oh, lifesaver
 Whoa, wow
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You see my baby up and hit the road
+", u"You see my baby up and hit the road
 Where she's going that's when nobody knows
 I need to find her 'fore another man does
 I wouldn't want him to steal my love
@@ -2821,7 +2821,7 @@ I won't stop until I find my runaway love
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's a dream in my soul,
+", u"There's a dream in my soul,
 a fire that's deep inside me
 There's a me no one knows
 waiting to be set free.
@@ -2844,4 +2844,4 @@ This life can kick you around
 (woah)
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

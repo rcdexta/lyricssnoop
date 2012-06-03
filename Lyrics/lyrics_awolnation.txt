@@ -1,14 +1,14 @@
 [u'{Being an instrumental song, this song has no lyrics- except for these}
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'I just saw...
+', u'I just saw...
 A.
 Sort of... Gypsy.
 Hippie lady...
 With her daughter.
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Yeah!
+', u"Yeah!
 1, 2, 3
 Do you love me?
 Watch me scream
@@ -40,7 +40,7 @@ So you can touch it
 You can taste it
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Thank you
+", u"Thank you
 For listening again
 Or for the first time
 Or for the last time
@@ -77,7 +77,7 @@ Make some good ol' love
 Well I lost my pride
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's a mad man looking at you
+", u"There's a mad man looking at you
 and he wants to take your soul.
 There's a mad man with a mad plan
 and he's dancing at your door. Oh
@@ -111,7 +111,7 @@ Everybody it's ok if
 you're mad at what I'm saying.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If you're feeling like I feel
+", u"If you're feeling like I feel
 Then run your life like it's a dance floor
 And if you need a little heat in your face
 That's what I'm here for
@@ -139,7 +139,7 @@ Throw your fist through the ceiling
 Some people call it crazy
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm running out of faith
+", u"I'm running out of faith
 Be careful who you tell
 She's blackening my name
 My army never came
@@ -154,7 +154,7 @@ I know you feel the same
 its water under the bridge
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Well I met an old man
+", u'Well I met an old man
 dying on a train.
 No more destination
 no more pain.
@@ -176,7 +176,7 @@ leave us all behind.
 Unexplainable sightings
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'SAIL!
+', u'SAIL!
 
 This is how I show my love.
 I made it in my mind because
@@ -197,17 +197,17 @@ SAIL!
 SAIL!
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'{Being an instrumental song, this song has no lyrics- except for these}
+', u'{Being an instrumental song, this song has no lyrics- except for these}
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'I just saw...
+', u'I just saw...
 A.
 Sort of... Gypsy.
 Hippie lady...
 With her daughter.
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Yeah!
+', u"Yeah!
 1, 2, 3
 Do you love me?
 Watch me scream
@@ -239,7 +239,7 @@ So you can touch it
 You can taste it
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Thank you
+", u"Thank you
 For listening again
 Or for the first time
 Or for the last time
@@ -276,7 +276,7 @@ Make some good ol' love
 Well I lost my pride
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's a mad man looking at you
+", u"There's a mad man looking at you
 and he wants to take your soul.
 There's a mad man with a mad plan
 and he's dancing at your door. Oh
@@ -310,7 +310,7 @@ Everybody it's ok if
 you're mad at what I'm saying.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If you're feeling like I feel
+", u"If you're feeling like I feel
 Then run your life like it's a dance floor
 And if you need a little heat in your face
 That's what I'm here for
@@ -338,7 +338,7 @@ Throw your fist through the ceiling
 Some people call it crazy
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm running out of faith
+", u"I'm running out of faith
 Be careful who you tell
 She's blackening my name
 My army never came
@@ -353,7 +353,7 @@ I know you feel the same
 its water under the bridge
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Well I met an old man
+", u'Well I met an old man
 dying on a train.
 No more destination
 no more pain.
@@ -375,7 +375,7 @@ leave us all behind.
 Unexplainable sightings
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'SAIL!
+', u'SAIL!
 
 This is how I show my love.
 I made it in my mind because
@@ -396,17 +396,17 @@ SAIL!
 SAIL!
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'{Being an instrumental song, this song has no lyrics- except for these}
+', u'{Being an instrumental song, this song has no lyrics- except for these}
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'I just saw...
+', u'I just saw...
 A.
 Sort of... Gypsy.
 Hippie lady...
 With her daughter.
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Yeah!
+', u"Yeah!
 1, 2, 3
 Do you love me?
 Watch me scream
@@ -438,7 +438,7 @@ So you can touch it
 You can taste it
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Thank you
+", u"Thank you
 For listening again
 Or for the first time
 Or for the last time
@@ -475,7 +475,7 @@ Make some good ol' love
 Well I lost my pride
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's a mad man looking at you
+", u"There's a mad man looking at you
 and he wants to take your soul.
 There's a mad man with a mad plan
 and he's dancing at your door. Oh
@@ -509,7 +509,7 @@ Everybody it's ok if
 you're mad at what I'm saying.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If you're feeling like I feel
+", u"If you're feeling like I feel
 Then run your life like it's a dance floor
 And if you need a little heat in your face
 That's what I'm here for
@@ -537,7 +537,7 @@ Throw your fist through the ceiling
 Some people call it crazy
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm running out of faith
+", u"I'm running out of faith
 Be careful who you tell
 She's blackening my name
 My army never came
@@ -552,7 +552,7 @@ I know you feel the same
 its water under the bridge
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Well I met an old man
+", u'Well I met an old man
 dying on a train.
 No more destination
 no more pain.
@@ -574,7 +574,7 @@ leave us all behind.
 Unexplainable sightings
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'SAIL!
+', u'SAIL!
 
 This is how I show my love.
 I made it in my mind because
@@ -595,17 +595,17 @@ SAIL!
 SAIL!
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'{Being an instrumental song, this song has no lyrics- except for these}
+', u'{Being an instrumental song, this song has no lyrics- except for these}
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'I just saw...
+', u'I just saw...
 A.
 Sort of... Gypsy.
 Hippie lady...
 With her daughter.
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Yeah!
+', u"Yeah!
 1, 2, 3
 Do you love me?
 Watch me scream
@@ -637,7 +637,7 @@ So you can touch it
 You can taste it
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Thank you
+", u"Thank you
 For listening again
 Or for the first time
 Or for the last time
@@ -674,7 +674,7 @@ Make some good ol' love
 Well I lost my pride
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"There's a mad man looking at you
+", u"There's a mad man looking at you
 and he wants to take your soul.
 There's a mad man with a mad plan
 and he's dancing at your door. Oh
@@ -708,7 +708,7 @@ Everybody it's ok if
 you're mad at what I'm saying.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If you're feeling like I feel
+", u"If you're feeling like I feel
 Then run your life like it's a dance floor
 And if you need a little heat in your face
 That's what I'm here for
@@ -736,7 +736,7 @@ Throw your fist through the ceiling
 Some people call it crazy
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm running out of faith
+", u"I'm running out of faith
 Be careful who you tell
 She's blackening my name
 My army never came
@@ -751,7 +751,7 @@ I know you feel the same
 its water under the bridge
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Well I met an old man
+", u'Well I met an old man
 dying on a train.
 No more destination
 no more pain.
@@ -773,7 +773,7 @@ leave us all behind.
 Unexplainable sightings
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'SAIL!
+', u'SAIL!
 
 This is how I show my love.
 I made it in my mind because
@@ -794,4 +794,4 @@ SAIL!
 SAIL!
 ...
 
-******* This Lyrics is NOT for Commercial use *******']
+']

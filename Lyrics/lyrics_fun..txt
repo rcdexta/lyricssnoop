@@ -24,7 +24,7 @@ I know you feel like you are breaking down.
 I know that it gets so hard sometimes.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Holy ghosts,
+", u"Holy ghosts,
 When do you come out to play?
 'Cause if the Lord is gonna find me,
 He'd better start looking today.
@@ -49,7 +49,7 @@ to the city that doesn't snow.
 So I drove until we both broke down.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I call your name, cross my fingers
+", u"So I call your name, cross my fingers
 uncross the others, hesitate.
 I don't think straight with nothing to prove.
 
@@ -71,7 +71,7 @@ Just to feel a little better about myself
 And I do, baby I do.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Were you named for the river that surrounds
+", u"Were you named for the river that surrounds
 all my biggest mistakes?
 Or the way that I made it out?
 
@@ -88,7 +88,7 @@ I wanna be the one to put it in a song.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I remember like it was yesterday
+", u"I remember like it was yesterday
 Had everything under control
 Stayed out all night with my boys
 I took advantage of your love
@@ -109,7 +109,7 @@ When I looked up you were gone
 Now realize you're my destiny
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Light a roman candle with me.
+", u"Light a roman candle with me.
 Just a roman candle, you can wear your sandals
 and I'll pour you just one cup of tea.
 Then you can go and rest
@@ -124,7 +124,7 @@ Light a roman candle with me.
 Just a roman candle.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Walking alone 'cause the night is dead.
+", u"Walking alone 'cause the night is dead.
 Crossed my mind when I crossed the bridge.
 
 How you lost your mind,
@@ -143,7 +143,7 @@ So come on love
 (come on, come one, come all and go)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Never in all my life
+", u'Never in all my life
 Have I seen eyes as empty as these streets of my city
 on a Saturday night,
 all the green of your eyes says "Go, leave it all behind."
@@ -163,7 +163,7 @@ I moved on, I passed a billboard down my block
 it asks if I\'ve had enough, and aloud I say "I\'ve had too much"
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Slow down, we've got time left to be lazy
+', u"Slow down, we've got time left to be lazy
 All the kids are bloom from babies into flowers in our eyes
 We've got fifty good years left to spend out in the garden
 I don't care to beg your pardon, we should live until we die
@@ -177,7 +177,7 @@ I swear when I grow up I won't just buy you a rose
 I will buy the flower shop, and you will never be lonely
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Take your time coming home.
+", u"Take your time coming home.
 Hear the wheels as they roll.
 Let your lungs fill up with smoke.
 Forgive everyone.
@@ -199,7 +199,7 @@ I'm still standing,
 Take your time coming home.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"As I walk through the streets of my new city
+", u"As I walk through the streets of my new city
 my back feeling much better, I suppose
 I've reclaimed the use of my imagination
 for better or for worse, I've yet to know, but I
@@ -225,7 +225,7 @@ I know you feel like you are breaking down.
 I know that it gets so hard sometimes.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Holy ghosts,
+", u"Holy ghosts,
 When do you come out to play?
 'Cause if the Lord is gonna find me,
 He'd better start looking today.
@@ -250,7 +250,7 @@ to the city that doesn't snow.
 So I drove until we both broke down.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I call your name, cross my fingers
+", u"So I call your name, cross my fingers
 uncross the others, hesitate.
 I don't think straight with nothing to prove.
 
@@ -272,7 +272,7 @@ Just to feel a little better about myself
 And I do, baby I do.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Were you named for the river that surrounds
+", u"Were you named for the river that surrounds
 all my biggest mistakes?
 Or the way that I made it out?
 
@@ -289,7 +289,7 @@ I wanna be the one to put it in a song.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I remember like it was yesterday
+", u"I remember like it was yesterday
 Had everything under control
 Stayed out all night with my boys
 I took advantage of your love
@@ -310,7 +310,7 @@ When I looked up you were gone
 Now realize you're my destiny
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Light a roman candle with me.
+", u"Light a roman candle with me.
 Just a roman candle, you can wear your sandals
 and I'll pour you just one cup of tea.
 Then you can go and rest
@@ -325,7 +325,7 @@ Light a roman candle with me.
 Just a roman candle.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Walking alone 'cause the night is dead.
+", u"Walking alone 'cause the night is dead.
 Crossed my mind when I crossed the bridge.
 
 How you lost your mind,
@@ -344,7 +344,7 @@ So come on love
 (come on, come one, come all and go)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Never in all my life
+", u'Never in all my life
 Have I seen eyes as empty as these streets of my city
 on a Saturday night,
 all the green of your eyes says "Go, leave it all behind."
@@ -364,7 +364,7 @@ I moved on, I passed a billboard down my block
 it asks if I\'ve had enough, and aloud I say "I\'ve had too much"
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Slow down, we've got time left to be lazy
+', u"Slow down, we've got time left to be lazy
 All the kids are bloom from babies into flowers in our eyes
 We've got fifty good years left to spend out in the garden
 I don't care to beg your pardon, we should live until we die
@@ -378,7 +378,7 @@ I swear when I grow up I won't just buy you a rose
 I will buy the flower shop, and you will never be lonely
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Take your time coming home.
+", u"Take your time coming home.
 Hear the wheels as they roll.
 Let your lungs fill up with smoke.
 Forgive everyone.
@@ -400,7 +400,7 @@ I'm still standing,
 Take your time coming home.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"As I walk through the streets of my new city
+", u"As I walk through the streets of my new city
 my back feeling much better, I suppose
 I've reclaimed the use of my imagination
 for better or for worse, I've yet to know, but I
@@ -426,7 +426,7 @@ I know you feel like you are breaking down.
 I know that it gets so hard sometimes.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Holy ghosts,
+", u"Holy ghosts,
 When do you come out to play?
 'Cause if the Lord is gonna find me,
 He'd better start looking today.
@@ -451,7 +451,7 @@ to the city that doesn't snow.
 So I drove until we both broke down.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"So I call your name, cross my fingers
+", u"So I call your name, cross my fingers
 uncross the others, hesitate.
 I don't think straight with nothing to prove.
 
@@ -473,7 +473,7 @@ Just to feel a little better about myself
 And I do, baby I do.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Were you named for the river that surrounds
+", u"Were you named for the river that surrounds
 all my biggest mistakes?
 Or the way that I made it out?
 
@@ -490,7 +490,7 @@ I wanna be the one to put it in a song.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I remember like it was yesterday
+", u"I remember like it was yesterday
 Had everything under control
 Stayed out all night with my boys
 I took advantage of your love
@@ -511,7 +511,7 @@ When I looked up you were gone
 Now realize you're my destiny
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Light a roman candle with me.
+", u"Light a roman candle with me.
 Just a roman candle, you can wear your sandals
 and I'll pour you just one cup of tea.
 Then you can go and rest
@@ -526,7 +526,7 @@ Light a roman candle with me.
 Just a roman candle.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Walking alone 'cause the night is dead.
+", u"Walking alone 'cause the night is dead.
 Crossed my mind when I crossed the bridge.
 
 How you lost your mind,
@@ -545,7 +545,7 @@ So come on love
 (come on, come one, come all and go)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Never in all my life
+", u'Never in all my life
 Have I seen eyes as empty as these streets of my city
 on a Saturday night,
 all the green of your eyes says "Go, leave it all behind."
@@ -565,7 +565,7 @@ I moved on, I passed a billboard down my block
 it asks if I\'ve had enough, and aloud I say "I\'ve had too much"
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Slow down, we've got time left to be lazy
+', u"Slow down, we've got time left to be lazy
 All the kids are bloom from babies into flowers in our eyes
 We've got fifty good years left to spend out in the garden
 I don't care to beg your pardon, we should live until we die
@@ -579,7 +579,7 @@ I swear when I grow up I won't just buy you a rose
 I will buy the flower shop, and you will never be lonely
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Take your time coming home.
+", u"Take your time coming home.
 Hear the wheels as they roll.
 Let your lungs fill up with smoke.
 Forgive everyone.
@@ -601,7 +601,7 @@ I'm still standing,
 Take your time coming home.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Some nights I stay up cashing in my bad luck
+", u"Some nights I stay up cashing in my bad luck
 some nights I call it a draw
 Some nights I wish that my lips could build a castle
 Some nights I wish they'd just fall off
@@ -627,7 +627,7 @@ Just who I am, who I am, who I am
 Oh, who am I? Mmm, mmm
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Some nights I stay up cashing in my bad luck
+", u"Some nights I stay up cashing in my bad luck
 some nights I call it a draw
 Some nights I wish that my lips could build a castle
 Some nights I wish they'd just fall off
@@ -653,7 +653,7 @@ Just who I am, who I am, who I am
 Oh, who am I? Mmm, mmm
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Give me a second I
+", u"Give me a second I
 I need to get my story straight
 My friends are in the bathroom
 getting higher than the Empire State
@@ -680,7 +680,7 @@ Tonight
 we are young
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Carry on
+", u"Carry on
 Well I woke up to the sound of silence
 the cars were cutting like knives in a fist fight
 and I found you with a bottle of wine
@@ -707,7 +707,7 @@ Carry on
 Carry on, carry on
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"What have we done?
+", u"What have we done?
 Oh my God
 What have we done?
 Oh my God
@@ -729,7 +729,7 @@ It gets better, we'll get better
 It gets better, it gets better
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I've got enough on my mind,
+", u"I've got enough on my mind,
 That when she pulls me by the hand
 She hasn't much to hold onto.
 She's keeping count on her hands
@@ -758,7 +758,7 @@ For once, for once, for once
 I've got the feeling that I'm right where I belong.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I fell in love with a wind-up souvenir
+", u"I fell in love with a wind-up souvenir
 I bought it downtown as I was on my way to meet you
 
 She sounds like the songs
@@ -778,7 +778,7 @@ I thought you might appreciate it (I don't like the way that it moves)
 The way that she dances
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"And it's all alright.
+", u"And it's all alright.
 I guess it's all alright.
 I got nothing left inside of my chest,
 but it's all alright.
@@ -805,7 +805,7 @@ I guess it's all alright.
 I got nothing left inside of my chest,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm standing in Brooklyn just waiting for something to happen.
+", u"I'm standing in Brooklyn just waiting for something to happen.
 I can't help but love thinking that everyone doesn't get it.
 To my left there's a window
 Where did I go?
@@ -821,7 +821,7 @@ I don't need a new love or a new life just a better place to die.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'This growing old is getting old
+", u'This growing old is getting old
 I often find myself here thinking
 About the birds, the boats, and past loves
 that flew away or started sinking
@@ -847,7 +847,7 @@ If you\'re out here why do I miss you so much?
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Some nights I stay up cashing in my bad luck
+', u"Some nights I stay up cashing in my bad luck
 some nights I call it a draw
 Some nights I wish that my lips could build a castle
 Some nights I wish they'd just fall off
@@ -873,7 +873,7 @@ Just who I am, who I am, who I am
 Oh, who am I? Mmm, mmm
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Some nights I stay up cashing in my bad luck
+", u"Some nights I stay up cashing in my bad luck
 some nights I call it a draw
 Some nights I wish that my lips could build a castle
 Some nights I wish they'd just fall off
@@ -899,7 +899,7 @@ Just who I am, who I am, who I am
 Oh, who am I? Mmm, mmm
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Give me a second I
+", u"Give me a second I
 I need to get my story straight
 My friends are in the bathroom
 getting higher than the Empire State
@@ -926,7 +926,7 @@ Tonight
 we are young
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Carry on
+", u"Carry on
 Well I woke up to the sound of silence
 the cars were cutting like knives in a fist fight
 and I found you with a bottle of wine
@@ -953,7 +953,7 @@ Carry on
 Carry on, carry on
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"What have we done?
+", u"What have we done?
 Oh my God
 What have we done?
 Oh my God
@@ -975,7 +975,7 @@ It gets better, we'll get better
 It gets better, it gets better
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I've got enough on my mind,
+", u"I've got enough on my mind,
 That when she pulls me by the hand
 She hasn't much to hold onto.
 She's keeping count on her hands
@@ -1004,7 +1004,7 @@ For once, for once, for once
 I've got the feeling that I'm right where I belong.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I fell in love with a wind-up souvenir
+", u"I fell in love with a wind-up souvenir
 I bought it downtown as I was on my way to meet you
 
 She sounds like the songs
@@ -1024,7 +1024,7 @@ I thought you might appreciate it (I don't like the way that it moves)
 The way that she dances
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"And it's all alright.
+", u"And it's all alright.
 I guess it's all alright.
 I got nothing left inside of my chest,
 but it's all alright.
@@ -1051,7 +1051,7 @@ I guess it's all alright.
 I got nothing left inside of my chest,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I'm standing in Brooklyn just waiting for something to happen.
+", u"I'm standing in Brooklyn just waiting for something to happen.
 I can't help but love thinking that everyone doesn't get it.
 To my left there's a window
 Where did I go?
@@ -1067,7 +1067,7 @@ I don't need a new love or a new life just a better place to die.
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'This growing old is getting old
+", u'This growing old is getting old
 I often find myself here thinking
 About the birds, the boats, and past loves
 that flew away or started sinking
@@ -1093,7 +1093,7 @@ If you\'re out here why do I miss you so much?
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"So I call your name, cross my fingers
+', u"So I call your name, cross my fingers
 uncross the others, hesitate.
 I don't think straight with nothing to prove.
 
@@ -1115,7 +1115,7 @@ Just to feel a little better about myself
 And I do, baby I do.
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I remember like it was yesterday
+", u"I remember like it was yesterday
 Had everything under control
 Stayed out all night with my boys
 I took advantage of your love
@@ -1136,4 +1136,4 @@ When I looked up you were gone
 Now realize you're my destiny
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

@@ -33,7 +33,7 @@ Show me how you\u2019ll do
 I want shut down the club
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"[Sia - Hook]
+', u"[Sia - Hook]
 Hey I heard you were a wild one
 Oooh
 If I took you home
@@ -74,7 +74,7 @@ Show me how you'll do
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Sia - Hook]
+", u"[Sia - Hook]
 Hey I heard you were a wild one
 Oooh
 If I took you home
@@ -115,7 +115,7 @@ Show me how you'll do
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Sia - Hook]
+", u"[Sia - Hook]
 Hey I heard you were a wild one
 Oooh
 If I took you home
@@ -156,7 +156,7 @@ Show me how you'll do
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Sia - Hook]
+", u"[Sia - Hook]
 Hey I heard you were a wild one
 Oooh
 If I took you home
@@ -197,7 +197,7 @@ Show me how you'll do
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Sia - Hook]
+", u"[Sia - Hook]
 Hey I heard you were a wild one
 Oooh
 If I took you home
@@ -238,7 +238,7 @@ Show me how you'll do
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Sia - Hook]
+", u"[Sia - Hook]
 Hey I heard you were a wild one
 Oooh
 If I took you home
@@ -279,7 +279,7 @@ Show me how you'll do
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Sia - Hook]
+", u"[Sia - Hook]
 Hey I heard you were a wild one
 Oooh
 If I took you home
@@ -320,7 +320,7 @@ Show me how you'll do
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Sia - Hook]
+", u"[Sia - Hook]
 Hey I heard you were a wild one
 Oooh
 If I took you home
@@ -361,7 +361,7 @@ Show me how you'll do
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Sia - Hook]
+", u"[Sia - Hook]
 Hey I heard you were a wild one
 Oooh
 If I took you home
@@ -402,4 +402,4 @@ Show me how you'll do
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]

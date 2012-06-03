@@ -16,7 +16,7 @@ Up and down the boulevard
 Their shadows searchin' in the night
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Tina:] Happiness hit her like a train on a track
+", u"[Tina:] Happiness hit her like a train on a track
 [Mercedes:] Coming towards her, stuck still, no turning back
 [Tina:] She hid around corners and she hid under beds
 [Mercedes:] She killed it with kisses and from it she fled
@@ -35,7 +35,7 @@ You can't carry it with you if you want to survive
 The dog days are over
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Sing it out,
+", u"Sing it out,
 Boy, you got to see what tomorrow brings.
 Sing it out,
 Girl, you got to be what tomorrow needs.
@@ -64,7 +64,7 @@ Girl, they're gonna kill what tomorrow brings
 You've got to make a choice,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'[Brittany]
+", u'[Brittany]
 [I know I may be young, but I\'ve got feelings too. And I need to do what I feel like doing. So let me go, and just listen.]
 
 All you people look at me like I\'m a little girl
@@ -86,7 +86,7 @@ I cannot hold it, I cannot control it
 I\'m a slave for you
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Are you gonna take me home tonight
+', u"Are you gonna take me home tonight
 Ah down beside that red firelight
 Are you gonna let it all hang out
 Fat bottomed girls you make the rockin' world go round
@@ -104,7 +104,7 @@ I've been singing with my band
 Across the wire across the land
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh yeah, I'll tell you something
+", u"Oh yeah, I'll tell you something
 I think you'll understand
 When I say that something
 I wanna hold your hand
@@ -120,7 +120,7 @@ Now let me hold your hand
 I wanna hold your hand
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ain't no way for me to love you
+", u"Ain't no way for me to love you
 If you won't let me
 It ain't no way for me to give you all ya need
 If you won't let me give all of me
@@ -136,7 +136,7 @@ If you're tyin' both of my hands
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'(Speak)
+", u'(Speak)
 You know you
 You make me feel,
 So good inside.
@@ -170,7 +170,7 @@ You Need Some Lovin\u2019 (T.L.C.)
 Tender Lovin\u2019 Care
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"It doesn't matter if you love him or capital H-I-M
+', u"It doesn't matter if you love him or capital H-I-M
 Just put your paws up
 'Cause you were born this way, baby
 
@@ -205,7 +205,7 @@ Don't be a drag, just be a queen
 Don't be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Do you ever feel like a plastic bag
+", u'Do you ever feel like a plastic bag
 Drifting throught the wind
 Wanting to start again
 
@@ -232,7 +232,7 @@ As you shoot across the sky-y-y
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Just a small town girl
+', u"Just a small town girl
 Livin' in a lonely world
 She took the midnight train goin' anywhere
 
@@ -250,7 +250,7 @@ Up and down the boulevard
 Their shadows searchin' in the night
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Tina:] Happiness hit her like a train on a track
+", u"[Tina:] Happiness hit her like a train on a track
 [Mercedes:] Coming towards her, stuck still, no turning back
 [Tina:] She hid around corners and she hid under beds
 [Mercedes:] She killed it with kisses and from it she fled
@@ -269,7 +269,7 @@ You can't carry it with you if you want to survive
 The dog days are over
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Sing it out,
+", u"Sing it out,
 Boy, you got to see what tomorrow brings.
 Sing it out,
 Girl, you got to be what tomorrow needs.
@@ -298,7 +298,7 @@ Girl, they're gonna kill what tomorrow brings
 You've got to make a choice,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'[Brittany]
+", u'[Brittany]
 [I know I may be young, but I\'ve got feelings too. And I need to do what I feel like doing. So let me go, and just listen.]
 
 All you people look at me like I\'m a little girl
@@ -320,7 +320,7 @@ I cannot hold it, I cannot control it
 I\'m a slave for you
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Are you gonna take me home tonight
+', u"Are you gonna take me home tonight
 Ah down beside that red firelight
 Are you gonna let it all hang out
 Fat bottomed girls you make the rockin' world go round
@@ -338,7 +338,7 @@ I've been singing with my band
 Across the wire across the land
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh yeah, I'll tell you something
+", u"Oh yeah, I'll tell you something
 I think you'll understand
 When I say that something
 I wanna hold your hand
@@ -354,7 +354,7 @@ Now let me hold your hand
 I wanna hold your hand
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ain't no way for me to love you
+", u"Ain't no way for me to love you
 If you won't let me
 It ain't no way for me to give you all ya need
 If you won't let me give all of me
@@ -370,7 +370,7 @@ If you're tyin' both of my hands
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'(Speak)
+", u'(Speak)
 You know you
 You make me feel,
 So good inside.
@@ -404,7 +404,7 @@ You Need Some Lovin\u2019 (T.L.C.)
 Tender Lovin\u2019 Care
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"It doesn't matter if you love him or capital H-I-M
+', u"It doesn't matter if you love him or capital H-I-M
 Just put your paws up
 'Cause you were born this way, baby
 
@@ -439,7 +439,7 @@ Don't be a drag, just be a queen
 Don't be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Do you ever feel like a plastic bag
+", u'Do you ever feel like a plastic bag
 Drifting throught the wind
 Wanting to start again
 
@@ -466,7 +466,7 @@ As you shoot across the sky-y-y
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Just a small town girl
+', u"Just a small town girl
 Livin' in a lonely world
 She took the midnight train goin' anywhere
 
@@ -484,7 +484,7 @@ Up and down the boulevard
 Their shadows searchin' in the night
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Tina:] Happiness hit her like a train on a track
+", u"[Tina:] Happiness hit her like a train on a track
 [Mercedes:] Coming towards her, stuck still, no turning back
 [Tina:] She hid around corners and she hid under beds
 [Mercedes:] She killed it with kisses and from it she fled
@@ -503,7 +503,7 @@ You can't carry it with you if you want to survive
 The dog days are over
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Sing it out,
+", u"Sing it out,
 Boy, you got to see what tomorrow brings.
 Sing it out,
 Girl, you got to be what tomorrow needs.
@@ -532,7 +532,7 @@ Girl, they're gonna kill what tomorrow brings
 You've got to make a choice,
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'[Brittany]
+", u'[Brittany]
 [I know I may be young, but I\'ve got feelings too. And I need to do what I feel like doing. So let me go, and just listen.]
 
 All you people look at me like I\'m a little girl
@@ -554,7 +554,7 @@ I cannot hold it, I cannot control it
 I\'m a slave for you
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Are you gonna take me home tonight
+', u"Are you gonna take me home tonight
 Ah down beside that red firelight
 Are you gonna let it all hang out
 Fat bottomed girls you make the rockin' world go round
@@ -572,7 +572,7 @@ I've been singing with my band
 Across the wire across the land
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh yeah, I'll tell you something
+", u"Oh yeah, I'll tell you something
 I think you'll understand
 When I say that something
 I wanna hold your hand
@@ -588,7 +588,7 @@ Now let me hold your hand
 I wanna hold your hand
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Ain't no way for me to love you
+", u"Ain't no way for me to love you
 If you won't let me
 It ain't no way for me to give you all ya need
 If you won't let me give all of me
@@ -604,7 +604,7 @@ If you're tyin' both of my hands
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'(Speak)
+", u'(Speak)
 You know you
 You make me feel,
 So good inside.
@@ -638,7 +638,7 @@ You Need Some Lovin\u2019 (T.L.C.)
 Tender Lovin\u2019 Care
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"It doesn't matter if you love him or capital H-I-M
+', u"It doesn't matter if you love him or capital H-I-M
 Just put your paws up
 'Cause you were born this way, baby
 
@@ -673,7 +673,7 @@ Don't be a drag, just be a queen
 Don't be
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Do you ever feel like a plastic bag
+", u'Do you ever feel like a plastic bag
 Drifting throught the wind
 Wanting to start again
 
@@ -700,7 +700,7 @@ As you shoot across the sky-y-y
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'[Brittany]
+', u'[Brittany]
 [I know I may be young, but I\'ve got feelings too. And I need to do what I feel like doing. So let me go, and just listen.]
 
 All you people look at me like I\'m a little girl
@@ -722,7 +722,7 @@ I cannot hold it, I cannot control it
 I\'m a slave for you
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u'I know what boys like
+', u'I know what boys like
 I know what guys want
 I know what boys like
 I\u2019ve got what boys like
@@ -750,7 +750,7 @@ Mmmmm would you like that
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"
+', u"
 Blame it on the goose, got you feeling loose
 Blame it on the 'tron, got you in the zone
 Blame it on the a-a-a-a-a-alcohol.
@@ -786,7 +786,7 @@ Blame it on the goose, got you feeling loose
 Blame it on the 'tron, got you in the zone
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Wake up in the morning feeling like P. Diddy (Hey, what up girl?)
+", u"Wake up in the morning feeling like P. Diddy (Hey, what up girl?)
 Put my glasses on, I'm out the door - I'm gonna hit this city (Let's go)
 Before I leave, brush my teeth with a bottle of Jack
 'Cause when I leave for the night, I ain't coming back
@@ -808,7 +808,7 @@ Tik tok, on the clock, but the party don't stop, no
 Woah-oh oh oh Woah-oh oh oh
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'One! Two! One, two, three, four\u2026!
+", u'One! Two! One, two, three, four\u2026!
 
 You are the girl that I\u2019ve been dreaming of
 (Ever since) I was a little girl
@@ -830,7 +830,7 @@ I\u2019m not gonna teach him how to dance, dance, dance, dance!
 The second I do, I know we\u2019re gonna be through
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Yeah, yeah, yeah, yeah, yeah, yeah, yeah...!
+', u"Yeah, yeah, yeah, yeah, yeah, yeah, yeah...!
 Peace up!
 A-town-town!
 Yeah! What? OK!
@@ -859,7 +859,7 @@ When I told her I said (Let's go!)
 (Yeah, yeah, yeah) Her and my girl used to be the best of homies
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You think I'm pretty without any make-up on
+", u"You think I'm pretty without any make-up on
 You think I'm funny when I tell the punch line wrong
 I know you get me, so I let my walls come down, down
 
@@ -882,7 +882,7 @@ Just one touch, now baby I believe
 This is real, so take a chance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Heeey, heeeey, heeeey! (Tonight) 
+", u"Heeey, heeeey, heeeey! (Tonight) 
 (Hey) Hey, (Heeey) Heeey, (Heeey) Heeey
 
 Your lipstick stains
@@ -905,7 +905,7 @@ Tonight
 (Hey) Hey, (Heeey) Heeey, (Heeey) Heeey
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"At first we started out real cool
+", u"At first we started out real cool
 Taking me places I ain't never been
 But now you're getting comfortable
 Ain't doing those things you did no more
@@ -930,7 +930,7 @@ Do you pay my automo' bills?
 If you did, then maybe we could chill
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You'd think that people would have had enough of silly love songs.
+", u"You'd think that people would have had enough of silly love songs.
 But I look around me and I see it isn't so.
 Some people wanna fill the world with silly love songs.
 And what's wrong with that?
@@ -948,7 +948,7 @@ Ah, she gave me more, she gave it all to me, now can't you see?
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Vum vum vum vum
+", u"(Vum vum vum vum
 Vum vum vum vum)
 
 Ohhhhhh...
@@ -980,7 +980,7 @@ On my house, on my job
 On my loot, shoes, shirt, my crew, my mind
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If I had my time again
+", u"If I had my time again
 I would do it all the same
 And not change a single thing
 Even when I was to blame
@@ -1004,7 +1004,7 @@ All the chances that I've blown
 And the times that I've been down
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh yeah
+", u"Oh yeah
 Oh yeah
 So scared of breaking it that you won't let it bend
 And I wrote two hundred letters I will never send
@@ -1021,7 +1021,7 @@ I'm gonna get you back, gonna get you back
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Blackbird singing in the dead of night
+", u'Blackbird singing in the dead of night
 Take these broken wings and learn to fly
 All your life
 You were only waiting for this moment to arise
@@ -1030,7 +1030,7 @@ Blackbird singing in the dead of night
 Take these sunken eyes and learn to see
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"The powerlines went out
+', u"The powerlines went out
 And I am all alone
 But I don't really care at all
 not answering my phone
@@ -1044,7 +1044,7 @@ I'm beginning to see the light
 Blow the candles out, looks like a solo tonight
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Right right, turn off the lights
+", u"Right right, turn off the lights
 We gonna lose our minds tonight
 What's the dealio?
 
@@ -1073,7 +1073,7 @@ Wish you'd just freak out
 Can't stop coming in hot
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You think I'm pretty without any make-up on
+", u"You think I'm pretty without any make-up on
 You think I'm funny when I tell the punch line wrong
 I know you get me, so I let my walls come down, down
 
@@ -1096,7 +1096,7 @@ Just one touch, now baby I believe
 This is real, so take a chance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Heeey, heeeey, heeeey! (Tonight) 
+", u"Heeey, heeeey, heeeey! (Tonight) 
 (Hey) Hey, (Heeey) Heeey, (Heeey) Heeey
 
 Your lipstick stains
@@ -1119,7 +1119,7 @@ Tonight
 (Hey) Hey, (Heeey) Heeey, (Heeey) Heeey
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"At first we started out real cool
+", u"At first we started out real cool
 Taking me places I ain't never been
 But now you're getting comfortable
 Ain't doing those things you did no more
@@ -1144,7 +1144,7 @@ Do you pay my automo' bills?
 If you did, then maybe we could chill
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You'd think that people would have had enough of silly love songs.
+", u"You'd think that people would have had enough of silly love songs.
 But I look around me and I see it isn't so.
 Some people wanna fill the world with silly love songs.
 And what's wrong with that?
@@ -1162,7 +1162,7 @@ Ah, she gave me more, she gave it all to me, now can't you see?
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Vum vum vum vum
+", u"(Vum vum vum vum
 Vum vum vum vum)
 
 Ohhhhhh...
@@ -1194,7 +1194,7 @@ On my house, on my job
 On my loot, shoes, shirt, my crew, my mind
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If I had my time again
+", u"If I had my time again
 I would do it all the same
 And not change a single thing
 Even when I was to blame
@@ -1218,7 +1218,7 @@ All the chances that I've blown
 And the times that I've been down
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh yeah
+", u"Oh yeah
 Oh yeah
 So scared of breaking it that you won't let it bend
 And I wrote two hundred letters I will never send
@@ -1235,7 +1235,7 @@ I'm gonna get you back, gonna get you back
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Blackbird singing in the dead of night
+", u'Blackbird singing in the dead of night
 Take these broken wings and learn to fly
 All your life
 You were only waiting for this moment to arise
@@ -1244,7 +1244,7 @@ Blackbird singing in the dead of night
 Take these sunken eyes and learn to see
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"The powerlines went out
+', u"The powerlines went out
 And I am all alone
 But I don't really care at all
 not answering my phone
@@ -1258,7 +1258,7 @@ I'm beginning to see the light
 Blow the candles out, looks like a solo tonight
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Right right, turn off the lights
+", u"Right right, turn off the lights
 We gonna lose our minds tonight
 What's the dealio?
 
@@ -1287,7 +1287,7 @@ Wish you'd just freak out
 Can't stop coming in hot
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You think I'm pretty without any make-up on
+", u"You think I'm pretty without any make-up on
 You think I'm funny when I tell the punch line wrong
 I know you get me, so I let my walls come down, down
 
@@ -1310,7 +1310,7 @@ Just one touch, now baby I believe
 This is real, so take a chance
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Heeey, heeeey, heeeey! (Tonight) 
+", u"Heeey, heeeey, heeeey! (Tonight) 
 (Hey) Hey, (Heeey) Heeey, (Heeey) Heeey
 
 Your lipstick stains
@@ -1333,7 +1333,7 @@ Tonight
 (Hey) Hey, (Heeey) Heeey, (Heeey) Heeey
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"At first we started out real cool
+", u"At first we started out real cool
 Taking me places I ain't never been
 But now you're getting comfortable
 Ain't doing those things you did no more
@@ -1358,7 +1358,7 @@ Do you pay my automo' bills?
 If you did, then maybe we could chill
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"You'd think that people would have had enough of silly love songs.
+", u"You'd think that people would have had enough of silly love songs.
 But I look around me and I see it isn't so.
 Some people wanna fill the world with silly love songs.
 And what's wrong with that?
@@ -1376,7 +1376,7 @@ Ah, she gave me more, she gave it all to me, now can't you see?
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"(Vum vum vum vum
+", u"(Vum vum vum vum
 Vum vum vum vum)
 
 Ohhhhhh...
@@ -1408,7 +1408,7 @@ On my house, on my job
 On my loot, shoes, shirt, my crew, my mind
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"If I had my time again
+", u"If I had my time again
 I would do it all the same
 And not change a single thing
 Even when I was to blame
@@ -1432,7 +1432,7 @@ All the chances that I've blown
 And the times that I've been down
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh yeah
+", u"Oh yeah
 Oh yeah
 So scared of breaking it that you won't let it bend
 And I wrote two hundred letters I will never send
@@ -1449,7 +1449,7 @@ I'm gonna get you back, gonna get you back
 
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Blackbird singing in the dead of night
+", u'Blackbird singing in the dead of night
 Take these broken wings and learn to fly
 All your life
 You were only waiting for this moment to arise
@@ -1458,7 +1458,7 @@ Blackbird singing in the dead of night
 Take these sunken eyes and learn to see
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"The powerlines went out
+', u"The powerlines went out
 And I am all alone
 But I don't really care at all
 not answering my phone
@@ -1472,7 +1472,7 @@ I'm beginning to see the light
 Blow the candles out, looks like a solo tonight
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Right right, turn off the lights
+", u"Right right, turn off the lights
 We gonna lose our minds tonight
 What's the dealio?
 
@@ -1501,7 +1501,7 @@ Wish you'd just freak out
 Can't stop coming in hot
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Just a small town girl
+", u"Just a small town girl
 Livin' in a lonely world
 She took the midnight train goin' anywhere
 
@@ -1519,7 +1519,7 @@ Up and down the boulevard
 Their shadows searchin' in the night
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh, How about a round of applause, Yeah
+", u"Oh, How about a round of applause, Yeah
 A standing ovation
 Oooooo, Yeah
 Yeah, Yeah, Yeah, Yeah
@@ -1541,7 +1541,7 @@ Very entertaining
 But it's over now (But it's over now)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u'Ohio, Ohio, Ohioooo
+", u'Ohio, Ohio, Ohioooo
 
 They tried to make me go to rehab but I said, "No, no, no"
 Yes, I\'ve been black but when I come back you\'ll know, know, know
@@ -1557,7 +1557,7 @@ I didn\'t get a lot in class
 But I know it don\'t come in a shot glass
 ...
 
-******* This Lyrics is NOT for Commercial use *******', u"Yeah Yeah Yeah,
+', u"Yeah Yeah Yeah,
 Yeah Yeah Yeah,
 Yeah Yeah Yeah,
 Yeah Yeah Yeah.
@@ -1578,7 +1578,7 @@ Why won't you release me (yeah, yeah, yeah)
 You got me begging you for mercy (yeah, yeah, yeah)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh, How about a round of applause, Yeah
+", u"Oh, How about a round of applause, Yeah
 A standing ovation
 Oooooo, Yeah
 Yeah, Yeah, Yeah, Yeah
@@ -1600,7 +1600,7 @@ Very entertaining
 But it's over now (But it's over now)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Jessie is a friend
+", u"Jessie is a friend
 Yeah, I know he's been a good friend of mine
 But lately something's changed that ain't hard to define
 Jessie's got himself a girl and I want to make her mine
@@ -1616,7 +1616,7 @@ I'll play along with the charade
 There doesn't seem to be a reason to change
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Yeah Yeah Yeah,
+", u"Yeah Yeah Yeah,
 Yeah Yeah Yeah,
 Yeah Yeah Yeah,
 Yeah Yeah Yeah.
@@ -1637,7 +1637,7 @@ Why won't you release me (yeah, yeah, yeah)
 You got me begging you for mercy (yeah, yeah, yeah)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Turn around
+", u"Turn around
 Every now and then I get a
 little bit lonely and you're never coming around
 Turn around
@@ -1661,7 +1661,7 @@ And we'll only be making it right
 Cause we'll never be wrong
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can anybody find me somebody to love?
+", u"Can anybody find me somebody to love?
 Each morning I get up I die a little
 Can barely stand on my feet
 Take a look in the mirror and cry
@@ -1677,7 +1677,7 @@ At the end I take home my hard earned pay all on my own -
 I get down on my knees
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Something has changed within me
+", u"Something has changed within me
 Something is not the same
 I'm through with playing by the rules
 Of someone else's game
@@ -1694,7 +1694,7 @@ Kiss me goodbye
 I am defying gravity
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Just a small town girl
+", u"Just a small town girl
 Livin' in a lonely world
 She took the midnight train goin' anywhere
 
@@ -1712,7 +1712,7 @@ Up and down the boulevard
 Their shadows searchin' in the night
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I can't fight this feeling any longer
+", u"I can't fight this feeling any longer
 And yet I'm still afraid to let it flow
 What started out as friendship has grown stronger
 I only wish I had the strength to let it show
@@ -1725,7 +1725,7 @@ And I can't fight this feeling anymore
 I've forgotten what I started fighting for
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She take my money when I'm in need
+", u"She take my money when I'm in need
 Yeah, she's a triflin' friend indeed
 Oh, she's a gold digger way over town
 That digs on me
@@ -1760,7 +1760,7 @@ Now I ain't sayin' she a gold digger
 (When I'm in need)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh, How about a round of applause, Yeah
+", u"Oh, How about a round of applause, Yeah
 A standing ovation
 Oooooo, Yeah
 Yeah, Yeah, Yeah, Yeah
@@ -1782,7 +1782,7 @@ Very entertaining
 But it's over now (But it's over now)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I bust the windows out your car
+", u"I bust the windows out your car
 And though it didn't mend my broken heart
 I'll probably always have these ugly scars
 But right now I don't care about that part.
@@ -1804,7 +1804,7 @@ I bust the windows out ya car
 You know I did it cuz I left my mark
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Rachel]
+", u"[Rachel]
 Don't know much about your life
 Don't know much about your world
 But, don't want to be alone tonight
@@ -1822,7 +1822,7 @@ Or a hand to hold, or hell to pay
 What do you say?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I hear the ticking of the clock
+", u"I hear the ticking of the clock
 I'm lying here, the room's pitch dark
 I wonder where you are tonight
 No answer on the telephone
@@ -1834,7 +1834,7 @@ I never really cared until I met you
 And now it chills me to the bone
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Maybe this time, I'll be lucky
+", u"Maybe this time, I'll be lucky
 Maybe this time he'll stay
 Maybe this time, for the first time
 Love won't hurry away
@@ -1844,7 +1844,7 @@ Not a loser anymore
 Like the last time, and the time before
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can anybody find me somebody to love?
+", u"Can anybody find me somebody to love?
 Each morning I get up I die a little
 Can barely stand on my feet
 Take a look in the mirror and cry
@@ -1860,7 +1860,7 @@ At the end I take home my hard earned pay all on my own -
 I get down on my knees
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Mercedes]
+", u"[Mercedes]
 If I could give you the world
 On a silver platter
 Would it even matter?
@@ -1892,7 +1892,7 @@ You can hate on me
 Ooh, if I gave you peaches
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I can't fight this feeling any longer
+", u"I can't fight this feeling any longer
 And yet I'm still afraid to let it flow
 What started out as friendship has grown stronger
 I only wish I had the strength to let it show
@@ -1905,7 +1905,7 @@ And I can't fight this feeling anymore
 I've forgotten what I started fighting for
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"She take my money when I'm in need
+", u"She take my money when I'm in need
 Yeah, she's a triflin' friend indeed
 Oh, she's a gold digger way over town
 That digs on me
@@ -1940,7 +1940,7 @@ Now I ain't sayin' she a gold digger
 (When I'm in need)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Oh, How about a round of applause, Yeah
+", u"Oh, How about a round of applause, Yeah
 A standing ovation
 Oooooo, Yeah
 Yeah, Yeah, Yeah, Yeah
@@ -1962,7 +1962,7 @@ Very entertaining
 But it's over now (But it's over now)
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I bust the windows out your car
+", u"I bust the windows out your car
 And though it didn't mend my broken heart
 I'll probably always have these ugly scars
 But right now I don't care about that part.
@@ -1984,7 +1984,7 @@ I bust the windows out ya car
 You know I did it cuz I left my mark
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Rachel]
+", u"[Rachel]
 Don't know much about your life
 Don't know much about your world
 But, don't want to be alone tonight
@@ -2002,7 +2002,7 @@ Or a hand to hold, or hell to pay
 What do you say?
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"I hear the ticking of the clock
+", u"I hear the ticking of the clock
 I'm lying here, the room's pitch dark
 I wonder where you are tonight
 No answer on the telephone
@@ -2014,7 +2014,7 @@ I never really cared until I met you
 And now it chills me to the bone
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Maybe this time, I'll be lucky
+", u"Maybe this time, I'll be lucky
 Maybe this time he'll stay
 Maybe this time, for the first time
 Love won't hurry away
@@ -2024,7 +2024,7 @@ Not a loser anymore
 Like the last time, and the time before
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"Can anybody find me somebody to love?
+", u"Can anybody find me somebody to love?
 Each morning I get up I die a little
 Can barely stand on my feet
 Take a look in the mirror and cry
@@ -2040,7 +2040,7 @@ At the end I take home my hard earned pay all on my own -
 I get down on my knees
 ...
 
-******* This Lyrics is NOT for Commercial use *******", u"[Mercedes]
+", u"[Mercedes]
 If I could give you the world
 On a silver platter
 Would it even matter?
@@ -2072,4 +2072,4 @@ You can hate on me
 Ooh, if I gave you peaches
 ...
 
-******* This Lyrics is NOT for Commercial use *******"]
+"]
