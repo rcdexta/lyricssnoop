@@ -7,7 +7,7 @@ from musixmatch import *
 from artist import * 
 from os import path
 from os import sep
-
+import operator
 
 def main():
     stop_file = open('stopwords.txt')
@@ -92,7 +92,9 @@ def getWordCounts(words, wordSet):
     wordCount = defaultdict(int)
     for word in wordSet:
         wordCount[word] += words.count(word)
-    return wordCount
+    sortedWordCount = sorted(wordCount.iteritems(), key=operator.itemgetter(1))
+    sortedWordCount.reverse()
+    return sortedWordCount[:50]
 
 def getWordCountsForArtist(artist):
     lyrics = getLyricsForArtist(artist)

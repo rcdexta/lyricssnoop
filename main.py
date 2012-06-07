@@ -1,25 +1,11 @@
-#!/usr/bin/env python
-#
-# Copyright 2007 Google Inc.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-#
 import webapp2
 import jinja2
 import os
 import urllib
 import urllib2
+import logging
 from snoop import *
+from album import *
 from xmlobj import xml2obj
 from HTMLParser import HTMLParser
 
@@ -39,18 +25,44 @@ class MLStripper(HTMLParser):
     def get_data(self):
         return ''.join(self.fed)
 
-def strip_tags(html):
+def stripTags(html):
     s = MLStripper()
     s.feed(html)
     return s.get_data()
 
+def getLargestImage(images, image_pref):
+    image_url = None
+    images.reverse()
+    for image in images:
+        if image.size == image_pref[0]:
+            image_url = image.data
+            break
+        elif image.size == image_pref[1]:
+            image_url = image.data
+    return image_url
+
+
+def getTopAlbums(artist):
+    params = urllib.urlencode({'method': 'artist.gettopalbums', 'artist': artist.name, 'api_key': API_KEY})
+    url = "http://ws.audioscrobbler.com/2.0/?" + params
+    xml = urllib2.urlopen(url).read()
+    lfm = xml2obj(xml)
+    albums = []
+    for node in lfm.topalbums.album:
+        album = Album(name = node.name)
+        logging.error(node.image)
+        album.image_url = getLargestImage(node.image, ["large", "extralarge"])
+        albums.append(album)
+        if len(albums) == 4: break
+
+    return albums
 
 def getArtistDetails(artist):
     params = urllib.urlencode({'method': 'artist.getinfo', 'artist': artist.name, 'api_key': API_KEY})
     url = "http://ws.audioscrobbler.com/2.0/?" + params
     xml = urllib2.urlopen(url).read()
     lfm = xml2obj(xml)
-    artist.bio = strip_tags(lfm.artist.bio.summary)
+    artist.bio = stripTags(lfm.artist.bio.summary)
     populateArtistImage(artist, lfm)
     populateArtistTags(artist, lfm)
     return artist
@@ -61,13 +73,7 @@ def populateArtistTags(artist, lfm):
 
 def populateArtistImage(artist, lfm):
     images =  lfm.artist.image
-    images.reverse()
-    for image in images:
-        if image.size == "extralarge":
-            artist.image_url = image.data
-            break
-        elif image.size == "large":
-            artist.image_url = image.data
+    artist.image_url = getLargestImage(images, ["extralarge", "large"])
     
 
 class Handler(webapp2.RequestHandler):
@@ -87,10 +93,11 @@ class TagCloudHandler(Handler):
     def post(self):
         artists = getArtists()
         artist = Artist(self.request.get("artist_id"),self.request.get("artist"))
-        word_count = getWordCountsForArtist(artist)
+        word_cloud = getWordCountsForArtist(artist)
         artist = getArtistDetails(artist)
-        self.render("tag_cloud.html", artists = artists, word_cloud = word_count, artist = artist)
+        albums = getTopAlbums(artist)
+        self.render("tag_cloud.html", artists = artists, word_cloud = word_cloud, artist = artist, albums = albums)
         
 
-app = webapp2.WSGIApplication([('/tag_cloud', TagCloudHandler)],
-                              debug=True)
+app = webapp2.WSGIApplication([('/tag_cloud', TagCloudHandler)], debug=True)
+                              

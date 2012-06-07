@@ -10,27 +10,8 @@
     <!-- Le styles -->
     <link type="text/css" rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/ui-lightness/jquery-ui.css" />
-    <style type="text/css">
-      body {
-        padding-top: 60px;
-        padding-bottom: 40px;
-      }
-
-      .shadow {
-        -moz-box-shadow: 3px 3px 4px #000;
-        -webkit-box-shadow: 3px 3px 4px #000;
-        box-shadow: 3px 3px 4px #000;
-      }
-
-      .heading_gap {
-        margin-bottom: 5px;
-      }
-
-      .tagcloud {
-        border: 1px solid gray;
-        padding: 12px;
-      }
-    </style>
+    <link type="text/css" rel="stylesheet" href="/static/jqcloud.css" />
+    <link type="text/css" rel="stylesheet" href="/static/main.css" />
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -73,7 +54,7 @@
     			 
            <form id="artist" method="post" class="well form-search">
             	 <input type="text" name="artist" class="span4" placeholder="Enter artist name" value="{{artist.name}}">
-               <button class="btn btn-primary" type="button">Go!</button>
+               <input class="btn btn-primary" type="submit" value="Go!">
                <input type="hidden" name="artist_id">
     			</form>
 
@@ -94,17 +75,29 @@
             <h3 class="heading_gap">Biography</h3>
             <blockquote>{{artist.bio}}</blockquote>
 
+            <h3 class="heading_gap">Top Albums</h3>
+
+              <ul class="thumbnails">
+                {% for album in albums %}
+                  <li class="span3">
+                    <img src="{{album.image_url}}" alt={{album.name}}>
+                    <h5>{{album.name}}</h5>
+                  </li>
+                {% endfor %}
+              </ul>
+
             <h3 class="heading_gap">Tags</h3>
 
             {% for tag in artist.tags %}
               <span class="label">{{tag}}</span>
             {% endfor %}
+
           </div>
-        
+
       </div>
       <div class="span6">
         <h3 class="heading_gap">Lyric Cloud</h3>
-  	    <div style="text-align: center;" id="tagcloud" class="tagcloud">	
+  	    <div style="text-align: center;" id="tagcloud" class="tagcloud"  style="">	
         </div>
       </div>
     </div>
@@ -122,54 +115,21 @@
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 
-	<script src="/static/d3.js"></script>
-	<script src="/static/d3.layout.cloud.js"></script>
 	<script src="/static/bootstrap.js"></script>
+  <script src="/static/jqcloud-1.0.0.min.js"></script>
 
   <script>
   {% if word_cloud %}
     word_cloud = [
-       {% for item in word_cloud.items() %}
-            { text: "{{item[0]}}", size: {{item[1]}} },
+       {% for item in word_cloud %}
+            { text: "{{item[0].replace('\"', '')|safe}}", weight: {{item[1]}} },
+
       {% endfor %} -->
     ];
-  {% else %}
-    word_cloud = [
-          "Hello", "world", "normally", "you", "want", "more", "words",
-          "than", "this"].map(function(d) {
-          return {text: d, size: 10 + Math.random() * 90};
-        });
+    $("#tagcloud").jQCloud(word_cloud, {shape: "rectangular"});
   {% endif %}
   </script>
 	
-	<script>
-	  var fontSize = d3.scale.log().range([10, 100]);
-		d3.layout.cloud().size([500, 300])
-	      .words(word_cloud)
-	      .rotate(function() { return ~~(Math.random() * 2) * 90; })
-	      .fontSize(function(d) { return d.size; })
-	      .on("end", draw)
-	      .start();
-
-	  
-		function draw(words) {
-     d3.select("#tagcloud").append("svg")
-     .attr("width", 500)
-     .attr("height", 300)
-     .append("g")
-     .attr("transform", "translate(150,150)")
-     .selectAll("text")
-     .data(words)
-     .enter().append("text")
-     .style("font-size", function(d) { return d.size + "px"; })
-     .attr("text-anchor", "middle")
-     .attr("transform", function(d) {
-       return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-     })
-     .text(function(d) { return d.text; });
-		}
-	</script>
-
   <script>
     artists = {
     {% for artist in artists %}
@@ -187,6 +147,7 @@
 
     $("form#artist").submit(function(){
       var artist_name = $("input[name=artist]").val();
+      if (artist_name == "") return false;
       var artist_id = artists[artist_name];
       $('input[name=artist_id]').val(artist_id);
     });

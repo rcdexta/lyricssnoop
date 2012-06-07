@@ -1,0 +1,26 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.shadow {
+  -moz-box-shadow: 3px 3px 4px #000;
+  -webkit-box-shadow: 3px 3px 4px #000;
+  box-shadow: 3px 3px 4px #000;
+}
+
+.heading_gap {
+  margin-bottom: 5px;
+}
+
+.tagcloud {
+  border: 1px solid gray;
+  padding: 12px;
+  width: 300px; 
+  height: 250px; 
+  border: 1px solid #ccc;
+}
+
+ul.thumbnails img{
+  width: 80px;
+}
